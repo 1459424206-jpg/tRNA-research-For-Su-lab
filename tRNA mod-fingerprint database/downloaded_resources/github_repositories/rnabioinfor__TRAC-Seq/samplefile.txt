@@ -1,0 +1,2 @@
+GSM3076142	WT	clean_outdir/SRR6936910_trimmed.fq
+GSM3076143	KO	clean_outdir/SRR6936911_trimmed.fq

@@ -1,0 +1,722 @@
+[
+  {
+    "pmid": "38538914",
+    "html": "38538914_PMC11537720.html",
+    "fig_id": "F1",
+    "title": "Fig. 1: Cryo-EM structures of the ribosome bound to tRNA Ile LAU .",
+    "caption": "a , Density map of the E. coli 70S ribosome bound to EF-Tu•GDPCP•Ile-tRNA Ile LAU in the presence of the cognate AUA codon (structure I) in the A site. The 50S and 30S subunits are shown in light blue and light yellow, respectively. The A-site Ile-tRNA Ile LAU is green, the P-site initiator tRNA fMet is pink, the E-site Ile-tRNA Ile LAU is yellow, the mRNA is cyan and EF-Tu is light magenta. b , Density map of the 70S ribosome bound to EF-Tu•GDPCP•Ile-tRNA Ile LAU in the presence of paromomycin and the near-cognate AUG codon in the A site (structure II). c , Density map of the 70S ribosome bound to the A-site tRNA Ile LAU in the presence of paromomycin and the cognate AUA codon in the A site (structure III). d , Density map of the 70S ribosome bound to the P-site tRNA Ile LAU in the presence of the cognate AUA codon in the P site (structure IV). e – h , EM maps of the A and P sites in structures I–II–III–IV contoured at 4.0 σ . i – l , Density maps of the wobble position for the AUA codon in structures I ( i ), III ( k ) and IV ( l ) or the AUG codon in structure III ( j ), paired with lysidine 34 (L34) in tRNA Ile LAU . The gray dashed lines indicate putative hydrogen bonds. The EM density is contoured at 2.9 σ ( i and k ) or 2.5 σ ( j and l ).",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/52c5/11537720/b29c72e3a337/nihms-2030058-f0001.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38538914_nihms-2030058-f0001.jpg"
+  },
+  {
+    "pmid": "38538914",
+    "html": "38538914_PMC11537720.html",
+    "fig_id": "F2",
+    "title": "Fig. 2: Role of lysidine 34 in tRNA Ile LAU during decoding.",
+    "caption": "a , Base pairs between the A/T-Ile-tRNA Ile LAU (light green) and the AUA codon (light blue) in structure I. b , Same as in a with the AUG codon in structure II. c , Base pairs between the accommodated A-site tRNA Ile LAU and the AUA codon in structure III. d , Base pairs between the P-site tRNA Ile LAU (magenta) and the AUA codon in structure IV. The Coulomb potential density of lysidine 34 (L34), contoured at 2.9 σ , is shown as gray mesh. The gray dashed lines show putative hydrogen bonds. e , Relative conformation of the anticodon loop, including L34, of tRNA Ile LAU in the A/T (light green, structure I) and A/A (dark green, structure III) bound states. f , Structure alignment of A-site tRNA 2 Ile containing agm34 from Haloarcula marismortui (gray, PDB 4V8N (ref. 36 )) with the A-site lysidine-containing tRNA Ile LAU from E. coli (dark green, structure III).",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/52c5/11537720/4aad25a6d92b/nihms-2030058-f0002.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38538914_nihms-2030058-f0002.jpg"
+  },
+  {
+    "pmid": "38538914",
+    "html": "38538914_PMC11537720.html",
+    "fig_id": "F3",
+    "title": "Fig. 3: Conformation of codon–anticodon base pairs with the cognate AUA and near-cognate AUG codons.",
+    "caption": "a – c , Base pair at the first ( a ), second ( b ) or third ( c ) position of the codon formed between the E. coli Ile-tRNA Ile LAU and the cognate AUA (left, structure I) or near-cognate AUG (right, structure II) codon. The gray dashed lines indicate distances that are conducive to hydrogen bond formation (<3.5 Å threshold 42 ), whereas those above this threshold, and therefore unlikely to form, are red.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/52c5/11537720/55a84ccd86ce/nihms-2030058-f0003.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38538914_nihms-2030058-f0003.jpg"
+  },
+  {
+    "pmid": "38538914",
+    "html": "38538914_PMC11537720.html",
+    "fig_id": "F4",
+    "title": "Fig. 4: The decoding center stabilizes L34 at the wobble position.",
+    "caption": "a , Upon decoding of the cognate AUA codon, the universal nucleotide G530 in helix h18 stacks with L34 of Ile-tRNA Ile LAU bound in the A/T conformation. b , The near-cognate AUG codon weakens the interactions with the decoding center, evidenced by the gap between G530 and L34 in structure II. c , Water-mediated interactions (gray dashed lines) between L34 of Ile-tRNA Ile LAU in structure I and the G530 loop in the decoding center. The putative water ‘W’ is shown as a yellow sphere.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/52c5/11537720/6b1d72ba1d1f/nihms-2030058-f0004.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38538914_nihms-2030058-f0004.jpg"
+  },
+  {
+    "pmid": "38538914",
+    "html": "38538914_PMC11537720.html",
+    "fig_id": "F5",
+    "title": "Extended Data Fig. 1.",
+    "caption": "Cryo-EM data processing and particle classification workflow for structure I. In this 70S ribosome complex, EF-Tu•GDPCP•Ile-tRNA Ile LAU is bound to the cognate AUA codon in the A site. See Methods for details.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/52c5/11537720/b7e53b65bd1b/nihms-2030058-f0005.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38538914_nihms-2030058-f0005.jpg"
+  },
+  {
+    "pmid": "38538914",
+    "html": "38538914_PMC11537720.html",
+    "fig_id": "F6",
+    "title": "Extended Data Fig. 2.",
+    "caption": "Cryo-EM data processing and particle classification workflow for structure II. In this 70S ribosome complex, EF-Tu•GDPCP•Ile-tRNA Ile LAU is bound to the near-cognate AUG codon in the A site in the presence of paromomycin. See Methods for details.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/52c5/11537720/34e6e9e3cb99/nihms-2030058-f0006.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38538914_nihms-2030058-f0006.jpg"
+  },
+  {
+    "pmid": "38538914",
+    "html": "38538914_PMC11537720.html",
+    "fig_id": "F7",
+    "title": "Extended Data Fig. 3.",
+    "caption": "Local resolution estimation and Fourier Shell Correlation (FSC) validation. Local resolution heat maps on slices of density from structures I ( a , EF-Tu•GDPCP•Ile-tRNA Ile LAU with A-site AUA), II ( b , EF-Tu•GDPCP•Ile-tRNA Ile LAU with A-site AUG), III ( c , tRNA Ile LAU with A-site AUA), and IV ( d , tRNA Ile LAU with P-site AUA) shown in the range of 2–6 Å resolution, calculated with cryoSPARC 3.3.2 implementation of BlocRes 56 . The gold-standard FSC curves of each half-map (red), using a ‘soft mask’ excluding solvent and model-map (green), are plotted across resolution. Map and model validation were performed in PHENIX 1.19.2 (ref. 53 ).",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/52c5/11537720/454f0493508f/nihms-2030058-f0007.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38538914_nihms-2030058-f0007.jpg"
+  },
+  {
+    "pmid": "38538914",
+    "html": "38538914_PMC11537720.html",
+    "fig_id": "F8",
+    "title": "Extended Data Fig. 4.",
+    "caption": "Cryo-EM density of the EF-Tu ternary complex in structures I (A-site AUA) and II (A-site AUG). a , Well-defined density of EF-Tu, Ile-tRNA Ile LAU and GDPCP in structure I upon decoding of the cognate AUA codon in the A site. b , In structure II with the near-cognate AUG codon, the presence of paromomycin stabilizes the anticodon loop in the decoding center, while the density for the other parts of Ile-tRNA Ile LAU and EF-Tu is poorly resolved, suggesting unstable binding to the ribosome. The Coulomb potential density (shown as mesh and contoured at 4.0σ) of EF-Tu·GDPCP is magenta, that of the A/T-Ile-tRNA Ile LAU is green, and that of the AUA- or AUG-mRNA is blue. The isoleucine attached to residue A76 of tRNA Ile LAU and the lysidine 34 modification in the anticodon loop are indicated.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/52c5/11537720/13204ad00bce/nihms-2030058-f0008.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38538914_nihms-2030058-f0008.jpg"
+  },
+  {
+    "pmid": "38538914",
+    "html": "38538914_PMC11537720.html",
+    "fig_id": "F9",
+    "title": "Extended Data Fig. 5.",
+    "caption": "Base pair geometries in the codon-anticodon helix. First ( a ), second ( b ), or third ( c ) position of the codon upon decoding of the cognate AUA (left, structure I) or the near-cognate AUG (right, structure II) codon. The gap that forms at the second and third positions in the complex with the AUG codon is indicated with a gray arrow. The hydrogen bonds between nucleotides are shown in Fig. 4 . d , Potential non-favorable interactions between G6 in the usual syn -conformation and lysidine 34 during decoding of the near-cognate AUG codon. The curved dashed lines indicate repulsive forces between two donors of hydrogen bond.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/52c5/11537720/996d1768bca4/nihms-2030058-f0009.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38538914_nihms-2030058-f0009.jpg"
+  },
+  {
+    "pmid": "38538914",
+    "html": "38538914_PMC11537720.html",
+    "fig_id": "F10",
+    "title": "Extended Data Fig. 6.",
+    "caption": "Comparison of the Ile-tRNA Ile LAU in the A/T state and bound to EF-Tu in structures I (cognate A-site AUA) and II (near-cognate A-site AUG), and tRNA Ile LAU in the A/A state in structure III (cognate A-site AUA). a , Structure alignment based on the 23S rRNA shows that the Ile-tRNA Ile LAU has the exact same conformation in structures I and II. The conformation of the mRNA bases in the A site diverges between structures I and II at the second and third position of the codon (inset). b , Close-up view of the second and third positions of the A-site codon. Relative to A6 in the AUA codon (structure I), syn -G6 inclines by ~15° to avoid a collision between the exocyclic amine and the phosphate oxygen of the mRNA backbone in the AUG codon (structure II). Through π-π stacking interactions, the effects of the inclined conformation of syn -G6 propagate to the neighboring bases, weakening the codon-anticodon base pairs with Ile-tRNA Ile LAU . c , Structure alignment based on 23S rRNA showing that AUA-mRNA has the same conformation in structures I and III, regardless of the presence (structure III) or the absence (structure I) of paromomycin in the decoding center, confirming that paromomycin has no obvious effect on the conformation of the decoding center.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/52c5/11537720/de5e6d5533cc/nihms-2030058-f0010.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38538914_nihms-2030058-f0010.jpg"
+  },
+  {
+    "pmid": "38538914",
+    "html": "38538914_PMC11537720.html",
+    "fig_id": "F11",
+    "title": "Extended Data Fig. 7.",
+    "caption": "Cryo-EM density of the codon-anticodon region. a , Structure I with the cognate AUA codon in the A site. Note that nucleotide A6 at the third position of the A-site codon is in the usual anti- conformation. b , Structure II with the near-cognate AUG codon in the A site. In this structure, nucleotide G6 at the wobble position of the A-site codon adopts the unusual syn- conformation. c , Nucleotide A7 immediately downstream of the A-site codon also adopts the syn -conformation in structure II, which maximizes stacking with syn -G6. d , EM map of the decoding center in structure III with accommodated A-site tRNA Ile LAU bound to the cognate AUA codon. The Coulomb potential density is contoured at 2.9σ. e-f , The amine of the lysidine side chain in structures I (with the A/T-Ile-tRNA Ile LAU ) and III (with the A/A-tRNA Ile LAU ) may interact with the 2’OH group of A7 immediately downstream of the A-site codon. The putative water ‘W’ is shown as a yellow sphere and the gray dashed lines depict hydrogen bonds.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/52c5/11537720/b11fc63fe750/nihms-2030058-f0011.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38538914_nihms-2030058-f0011.jpg"
+  },
+  {
+    "pmid": "38538914",
+    "html": "38538914_PMC11537720.html",
+    "fig_id": "F12",
+    "title": "Extended Data Fig. 8.",
+    "caption": "Comparison of the EF-Tu•GDPCP•Ile-tRNA Ile LAU ternary complex in structure I with that from a previous study (5UYM 1 ). The conformation of EF-Tu and tRNA bound in the A/T state is the same as in the 70S ribosome•EF-Tu•GDPCP•Phe-tRNA Phe complex upon decoding of the cognate phenylalanine codon (PDB 5UYM) 1 . The structures are aligned based on the sarcin-ricin loop (SRL) region in the 50S subunit. a , The conformation of the EF-Tu•GDPCP•Ile-tRNA Ile LAU ternary complex in structure I is in the GTP-activated state as reported previously 1 . b , The catalytic His84 in the G-domain of EF-Tu is within interaction distance from A2662 in the SRL. c , The quality of the EM map for EF-Tu in structure I allows to unambiguously model amino acid side chains. The density of the P-loop region is shown with magenta mesh, and that of the ordered switch I region with orange mesh. d , The EM density (gray mesh) of the isoleucine residue attached to nucleotide A76 of Ile-tRNA Ile LAU bound to EF-Tu in structure I. e , Nucleotide-binding pocket in the G-domain of EF-Tu. The EM density of the GDPCP nucleotide is shown with gray mesh. In panels c-e , the Coulomb potential density is contoured at 2.8σ.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/52c5/11537720/16fa7322f970/nihms-2030058-f0012.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38538914_nihms-2030058-f0012.jpg"
+  },
+  {
+    "pmid": "38538914",
+    "html": "38538914_PMC11537720.html",
+    "fig_id": "F13",
+    "title": "Extended Data Fig. 9.",
+    "caption": "Cryo-EM data processing and particle classification workflow for structure III. In this 70S ribosome complex, tRNA Ile LAU is bound to the cognate AUA codon in the A site in the presence of paromomycin. See Methods for details.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/52c5/11537720/ef575645d4e0/nihms-2030058-f0013.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38538914_nihms-2030058-f0013.jpg"
+  },
+  {
+    "pmid": "38538914",
+    "html": "38538914_PMC11537720.html",
+    "fig_id": "F14",
+    "title": "Extended Data Fig. 10.",
+    "caption": "Cryo-EM data processing and particle classification workflow for structure IV. In this 70S ribosome complex, tRNA Ile LAU is bound to the cognate AUA codon in the P site. See Methods for details.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/52c5/11537720/b65355035c9e/nihms-2030058-f0014.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38538914_nihms-2030058-f0014.jpg"
+  },
+  {
+    "pmid": "38977661",
+    "html": "38977661_PMC11231295.html",
+    "fig_id": "Fig1",
+    "title": "Fig. 1. RNA m7G methylation decreases with senescence and aging.",
+    "caption": "a Differentially expressed RNA-modifying enzymes in IMR90 cells were identified using a proteomics assay. The data was summarized from three repeats. The METTL1/WDR4 m7G modification complex was analyzed by western blotting using RS (replicative senescence) and TIS (therapy-induced senescence) ( b ) and KRasG12V-induced senescence (OIS) ( c ), unless otherwise specified, P represents proliferating IMR90 cells, Sen refers to senescent IMR90 cells. P + ETO stands for proliferating cells treated with ETO. d METTL1-WDR4 and senescence markers at different time points during IMR90 cell senescence were detected. e Mettl1/Wdr4 were measured by Western blotting in tissues from aged mice ( n = 5, 2 female, 3 male), specifically in the liver and kidney. m7G levels of total RNA, tRNA, and mRNA were assessed by HPLC-MS in samples of proliferative and senescent IMR90 cells ( f ) and the corresponding mice liver and kidney tissues ( g ). The representative experiment was shown. Three repeats demonstrate similar results ( b, c, d ).Three independent experiments were conducted, unless otherwise specified, n = 3, P values were calculated with the two-tailed Student’s t test. Data are presented as mean ± SEM, * p < 0.05; ** p < 0.01; *** p < 0.001. Source data are provided as a Source Data file.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/04d7/11231295/198dfbd28465/41467_2024_49796_Fig1_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38977661_41467_2024_49796_Fig1_HTML.jpg"
+  },
+  {
+    "pmid": "38977661",
+    "html": "38977661_PMC11231295.html",
+    "fig_id": "Fig2",
+    "title": "Fig. 2. METTL1 regulates senescence.",
+    "caption": "a Western blotting detected senescence markers at various time points following transduction with METTL1 and control shRNA. A representative experiment was presented, three repeats demonstrate similar results. b EdU incorporation assays( b ) and Senescence-associated β-galactosidase (SA-β-gal) ( c ) staining were conducted on control and METTL1 knockdown cells at various time points after transduction with METTL1 and control shRNA. Scale bar = 100 μm. d KEGG analysis was conducted on the transcriptome from METTL1-depleted cells (KO). e Senescence-associated proteins were analyzed in METTL1 knockout cells introduced with different proteins. A representative experiment was presented, three repeats demonstrate similar results. The EdU incorporation assay ( f , h) and SA-β-gal staining ( g , i ) was performed on METTL1 KO IMR90 cells or wildtype IMR90 cells introduced with indicated proteins. Scale bar = 100 μm. j Western blotting for senescence markers was conducted on IMR90 cells transduced with GFP control, METTL1, and AFPA-mutant. P + GFP means proliferating cells with GFP overexpression. Three repeats demonstrate similar results. The representative experiment was shown, band intensity was quantified by image j for three time. ETO treated IMR90 cells expressing METTL1 or AFPA-mutant was assessed by EdU incorporation ( k ), SA-β-gal staining( l ), and western blotting( m ), P + GFP refers to IMR90 cells with GFP overexpression. Scale bar = 100 μm. All the assays were biologically repeated three times. All data were presented as the mean ± SEM. P values in panel ( b , c ) were calculated by two-tailed unpaired t test, P values in panel ( e – m ) were calculated by one-way ANOVA with Bonferroni’s multiple comparisons test. * p < 0.05; ** p < 0.01; *** p < 0.001. Source data are provided as a Source Data file.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/04d7/11231295/8d1ec925f289/41467_2024_49796_Fig2_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38977661_41467_2024_49796_Fig2_HTML.jpg"
+  },
+  {
+    "pmid": "38977661",
+    "html": "38977661_PMC11231295.html",
+    "fig_id": "Fig3",
+    "title": "Fig. 3. Depletion of Mettl1 induces premature aging.",
+    "caption": "a Schematic of the experiment for conditional knockout of Mettl1. b m7G modifications of tRNA from Mettl1 KO mice(2 female and 1 male) and control mice(2 female and 1 male) were detected using HPLC/MS. c Kaplan-Meier curves were generated for Mettl1 knockout (KO) and control mice. Control group: n = 44(24 female and 20 male); cKO group: n = 39(22 female and 17male mice). P < 0.0001. d Senescent cells in Mettl1 knockout (KO) liver and kidney tissues was assessed using SA-β-gal staining, one female and one male mouse in each group were used in the staining. Scale bar = 100 μm. e p16 and p21 were detected using Western blotting in liver tissue from control and knockout (KO) mice, five mice were used to isolate protein ( n = 5,3 female and 2 male). f Representative photos of Mettl1 knockout and control mice around 6 months old were shown. The arrow points to postural kyphosis. g The percentage of mice with cataracts was calculated. Six biologically repeats were conducted, n = 35(20 female and 15 male). h Muscle performance was tested using a treadmill exhaustion assay in control and Mettl1 knockout (KO) mice ( n = 5 for each group, 3 female and 2 male). i The survival assay results of Drosophila depleted of CG4045 using UAS-GAL4 were presented. (male = 315; female = 278). j Schematic diagram for cisplatin and adriamycin (CPA)-induced chemotherapy senescence. k Liver sections from the CPA model were subjected to SA-β-gal staining, n = 3(2 female and 1 male). l Aspartate aminotransferase (AST), alanine aminotransferase (ALT), serum creatinine (SCr), and urea nitrogen (BUN) levels were measured for the CPA model, 5 male mice per group were used(3 female and 2 male). Unless otherwise indicated, all the assays were biologically repeated for three times, all data were presented as the mean ± SEM. P values were calculated by two-tailed unpaired t test ( b , g , h ), two-way ANOVA with Bonferroni’s multiple comparisons test(k,l). * p < 0.05; ** p < 0.01;*** p < 0.001. Source data are provided as a Source Data file.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/04d7/11231295/85eae904c402/41467_2024_49796_Fig3_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38977661_41467_2024_49796_Fig3_HTML.jpg"
+  },
+  {
+    "pmid": "38977661",
+    "html": "38977661_PMC11231295.html",
+    "fig_id": "Fig4",
+    "title": "Fig. 4. METTL1 deficiency downregulates a group of m7G-tRNAs.",
+    "caption": "a Schematic diagram for TRAC-Seq experiment used to define m7G modification and assess tRNA levels. b Cleavage scores calculated from TRAC-Seq for tRNAs in IMR90 cells were exhibited. TRAC-Seq data were collected from three independent experiments. c Motifs for m7G methylation sites were summarized from TRAC-Seq data. d Cleavage scores ratios in sgRNA scramble control and METTL1 knockout (KO) cells were characterized. Cleavage Score Ratio = Cleavage Score of Control/Cleavage Score of Knockout. e Differentially expressed m7G-tRNAs were observed in proliferating and senescent cells. Each boxplot represents the expression of a tRNA type that was calculated from the combined expression of all the tRNA genes belonging to the same tRNA type. f Differentially expressed m7G-tRNAs in control/METTL1 KO (Day 6) cells were observed. All tRNA genes of the same tRNA type were combined to calculate their transcript abundance. g Fold change in m7G-tRNA transcript abundance was presented for METTL1 KO compared to Ctrl. D6 and D10 mean 6 and 10 days after sgRNAs transduction, respectively. h Venn diagram showed the thirteen tRNAs regulated by METTL1 and senescence. The list was based on alterations in tRNA levels and m7G abundance in proliferating/senescent IMR90 cells and control/METTL1 KO cells. i Northern blotting was performed for tRNAs using the specified samples. The representative experiment was shown, three repeats demonstrate similar results. Source data are provided as a Source Data file.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/04d7/11231295/592076321097/41467_2024_49796_Fig4_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38977661_41467_2024_49796_Fig4_HTML.jpg"
+  },
+  {
+    "pmid": "38977661",
+    "html": "38977661_PMC11231295.html",
+    "fig_id": "Fig5",
+    "title": "Fig. 5. Ribo-seq uncovers ribosome stalling in METTL1-deficient cells.",
+    "caption": "a Puromycin incorporation assay was performed in young and senescent cells, scramble control and METTL1 knockdown (KD) cells, and cells with ectopic expression of GFP, METTL1, and AFPA mutant. b Polysome profiling was conducted for senescent cells, METTL1 KD cells, and their corresponding control cells. c Ribosome occupancy at individual codons in the A site. Plots represent the relative ribosome footprinting signals from sgRNA and scramble control cells. Two replicates were performed. The codons are separated into m7G-tRNA decoding codons(red) and non-m7G-tRNA decoding codons(black). d Mann–Whitney U test on the ribosome occupancy at individual codons in A site from m7G-tRNA and non-m7G-tRNA. The ribosome footprinting signals from sgRNA and control samples were analyzed. The boxplot showing the mean, standard deviation (std), and median for each tRNA type. The upper and lower limits and the center line represent the 75th and 25th percentiles and the median, respectively; upper and lower whiskers indicate ±1.5× the interquartile range. * p < 0.05. e Bar plots show the enriched KEGG terms of decreased TE genes detected by Ribo-Seq upon METTL1 knockout. Two-sided Fisher’s exact test was used without adjusting for multiple comparisons in this analysis. f mRNA levels of WNT2 were detected in senescent IMR90 cells and METTL1-deficient cells using RT-qPCR. g The translation efficiency of WNT2 for senescent IMR90 cells and METTL1 KO cells was measured by RT-qPCR using RNC-mRNAs. h WNT2 protein was detected by Western blotting in METTL1 KO IMR90 cells and senescent IMR90 cells. i Senescence-associated markers were detected by Western blotting in METTL1 KO IMR90 cells with or without Wnt3a-conditioned medium. j Bar plots show the enriched KEGG terms of genes with reduced internal m7G methylation levels, as detected by MeRIP, and decreased translation efficiency (TE). KEGG analysis for the shared mRNAs are presented. The representative result was presented, three repeats demonstrate similar results ( a , b , h , i ); Three repeats were performed for qPCR assay. f , g . All data were presented as the mean ± SEM. Two-tailed unpaired t test ( f , g ). * p < 0.05, ** p < 0.01, *** p < 0.001. Source data are provided as a Source Data file.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/04d7/11231295/6586b6cc1ca8/41467_2024_49796_Fig5_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38977661_41467_2024_49796_Fig5_HTML.jpg"
+  },
+  {
+    "pmid": "38977661",
+    "html": "38977661_PMC11231295.html",
+    "fig_id": "Fig6",
+    "title": "Fig. 6. METTL1 deficiency elicits SASP through ribotoxic stress response and integrated stress response.",
+    "caption": "a Ubiquitination of RPS20 in isolated ribosomes from indicated samples was detected using western blotting. ANS-treated IMR90 cells served as the positive control. Arrow-pointed bands indicated ubiquitination of the RPS20 protein. b ISR and RSR response-relevant proteins, were detected by western blotting in proliferating/senescent IMR90 cells( b ), young/aged liver tissues, n = 5 mice per group(2 female and 3 male) ( c ), METTL1 KD/control cells( d ), liver tissues from Mettl1 KO and control, n = 5 mice per group(3 female and 2 male) ( e ), and METTL1 and mutated AFPA mutant transduced IMR90 cells ( f ) were detected using western blotting. g Phosphorylated eIF2α and ATF4 proteins were detected in senescent cells treated with various inhibitors using western blotting. h Ribotoxic stress response proteins were examined upon the inhibition of ZAKα by delivering siRNAs into METTL1 KD cells. i SASP factors were measured by RT-qPCR in METTL1 knockdown cells with or without inhibitors, as indicated. j The IL-6 levels in Mettl1 knockout (KO) mice with or without inhibitor and control mice were detected using ELISA ( n = 8 per group, 4 female and 4 male). k The impact of GCN2, p38, and JNK inhibitors on Mettl1-mediated senescence status was assessed through SA-β-gal staining. Scale bar = 100 μm. All in vitro assays were biologically repeated three times. All WB results were performed three times, the representative result was shown, the protein intensity was quantified with Image J ( a , c , e ); All data were presented as the mean ± SEM. Two-tailed unpaired t test ( a ), one-way ANOVA with Bonferroni’s multiple comparisons test ( c , e , i – k ). * p < 0.05, ** p < 0.01, *** p < 0.001. Source data are provided as a Source Data file.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/04d7/11231295/185ef027fe95/41467_2024_49796_Fig6_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38977661_41467_2024_49796_Fig6_HTML.jpg"
+  },
+  {
+    "pmid": "38977661",
+    "html": "38977661_PMC11231295.html",
+    "fig_id": "Fig7",
+    "title": "Fig. 7. RTD is involved in the senescence caused by METTL1 deficiency.",
+    "caption": "a The eEF1A protein level was detected by Western blotting using samples from replicative senescence, ETO-induced senescence, and METTL1-depleted IMR90 cells at various time points as indicated. b Cell proliferation and SA-β-Gal-positive senescent cells were analyzed following eEF1A expression in METTL1-depleted cells. c Senescence markers were analyzed following eEF1A expression in METTL1-depleted cells. d Northern blotting was conducted using METTL1 knockout cells with or without eEF1A overexpression to detect several tRNA level. e Puromycin incorporation was analyzed by Western blotting when eEF1A was expressed in METTL1-depleted cells. f Ubiquitination of RPS20 was assessed in isolated ribosomes from control cells, METTL1 knockout cells, with or without eEF1A overexpression, using a 1 M sucrose cushion, and detected by western blotting.Arrow-pointed bands were ubiquitinated RPS20 protein. g Phosphorylated eIF2α, JNK, p38, and ATF4 proteins were detected by Western blotting in METTL1-depleted cells with or without eEF1A overexpression. h The active translation ratios of eEF1A in METTL1 KO and control cells were determined by qPCR using RNC-mRNA. i eEF1A level was detected in senescent cells overexpressing GFP control, METTL1 and AFPA mutant by Western blotting. The protein aggregation in senescent IMR90 cells with METTL1, AFPA-mutant, or an empty vector control( j ) and METTL1 KO cells with or without eEF1a ( k ) was evaluated using the FlucDM-GFP reporter. The aggregated protein percentage is determined by the aggregated GFP inclusions cell against the total GFP-positive cells. The representative result was shown, three repeats demonstrate similar results ( a , c – g, i ). All the assays were biologically repeated three times. All data were presented as the mean ± SEM. Two-tailed unpaired t test ( h ), one-way ANOVA with Bonferroni’s multiple comparisons test ( b , j , k ). * p < 0.05, ** p < 0.01, *** p < 0.001. Source data are provided as a Source Data file.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/04d7/11231295/1d2abc01997b/41467_2024_49796_Fig7_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38977661_41467_2024_49796_Fig7_HTML.jpg"
+  },
+  {
+    "pmid": "38977661",
+    "html": "38977661_PMC11231295.html",
+    "fig_id": "Fig8",
+    "title": "Fig. 8. SP1 regulates METTL1 and WDR4 expression.",
+    "caption": "a SP1 level was measured in proliferating cells and senescent cells. b Level of METTL1 and WDR4 were quantified in cells with SP1 knockdown or SP1 overexpression. c The presence of SP1 on the METTL1 promoter was evaluated using chromatin immunoprecipitation followed by polymerase chain reaction (ChIP-PCR). d METTL1 promoter activity was assessed by measuring luciferase activity and normalizing it with TK renilla activity. e The binding of SP1 on the METTL1 promoter was evaluated in proliferating and senescent cells using ChIP-PCR. f Protein synthesis was assessed using a puromycin incorporation assay in sp1 depleted cells. Representative result was shown. g Cell proliferating was evaluated by EdU assay in cells that were depleted of SP1. Scale bar = 100 μm. h Senescent cell upon SP1 depletion was evaluated by SA-β-gal staining. Scale bar = 100 μm. i Schematic diagram of model for METTL1 deficiency-induced cell senescence. All the assays were repeated three times. All data were presented as the mean ± SEM. Two-tailed unpaired t test ( a , e ), one-way ANOVA with Bonferroni’s multiple comparisons test ( b – d , g , h ). * p < 0.05, ** p < 0.01, *** p < 0.001. Source data are provided as a Source Data file.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/04d7/11231295/7113f57fd26f/41467_2024_49796_Fig8_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38977661_41467_2024_49796_Fig8_HTML.jpg"
+  },
+  {
+    "pmid": "38996458",
+    "html": "38996458_PMC11258540.html",
+    "fig_id": "undfig1",
+    "title": "",
+    "caption": "",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8c6a/11258540/3d67f3f189ca/fx1.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38996458_fx1.jpg"
+  },
+  {
+    "pmid": "38996458",
+    "html": "38996458_PMC11258540.html",
+    "fig_id": "fig1",
+    "title": "Figure 1.",
+    "caption": "Overview of the PUS3 D118A apo and tRNA-bound cryo-EM structures (A) Domain architecture of human PUS3 (top), protein purification of PUS3 WT and PUS3 D118A (left), and tRNA binding analyses using tRNA UUG Gln (tQ) or tRNA UUG Gln G 39 (tQ U39G ). Calculated K d values are shown. (B) Detection of Ψ 39 (left) using CMC-based primer extension. cDNA corresponding to the presence of Ψ (Ψ) and the primer (‣) are labeled. (C) Representative 2D classes (top, scale bar: 80 Å), cryo-EM map (middle), and fitted model of PUS3 D118A (PDB: 9F9Q ). Dimensions and individual monomers are indicated ( ∗ ). (D) Representative 2D classes (top, scale bar: 80 Å), cryo-EM map and atomic model of the PUS3- tRNA UUG Gln complex (PDB: 8OKD ).",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8c6a/11258540/01d5c0005055/gr1.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38996458_gr1.jpg"
+  },
+  {
+    "pmid": "38996458",
+    "html": "38996458_PMC11258540.html",
+    "fig_id": "fig2",
+    "title": "Figure 2.",
+    "caption": "Substrate recognition of PUS3 (A) Close-up view of the elbow contact region (top), the ASL contact region (middle), and the sequence conservation (bottom). (B) Cartoon representation of tRNA UUG Gln binding to PUS3 D118A (aa 52–59 [pink], L1 [yellow], L8 [green], and U 39 [wheat]). (C and D) MST analyses of PUS3 mutants using tRNA UUG Gln (C) and PUS1 and PUS3 binding toward full-length tRNA (FL) and tRNA-ASL (D). Data are represented as mean ± SEM. Calculated K d values are shown. (E) Detection of Ψ 39 in tRNA UUG Gln by PUS3 variants using CMC-based primer extension. cDNA corresponding to the presence of Ψ is labeled (Ψ). Average intensities of cDNA (bottom). ( n = 3; n.s., no significance; ∗ p ≤ 0.05; ∗∗ p ≤ 0.01; ∗∗∗ p ≤ 0.001.) Data are represented as mean ± SEM.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8c6a/11258540/e6176c5498d7/gr2.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38996458_gr2.jpg"
+  },
+  {
+    "pmid": "38996458",
+    "html": "38996458_PMC11258540.html",
+    "fig_id": "fig3",
+    "title": "Figure 3.",
+    "caption": "Cryo-EM structures of PUS3 in complexes with tRNA UCU Arg or pre- tRNA UCU Arg (A) MST analyses of PUS3 WT using tRNA UCU Arg and pre- tRNA UCU Arg . Calculated K d values are shown. (B) Schematic 2D representation of tRNA UCU Arg and pre- tRNA UCU Arg illustrating A 38 , U 39 , and the intron (green). Detection of Ψ 39 using CMC-based primer extension. cDNA corresponding to the presence of Ψ (Ψ) and full-length transcripts (‣) are labeled. (C and D) Cryo-EM structures of PUS3- tRNA UCU Arg (PDB: 9ENE ) (C) or PUS3-pre- tRNA UCU Arg (PDB: 9ENF ), scale bar: 80 Å (D). Selected 2D classes (top), cryo-EM maps (middle), and atomic models of the PUS3-tRNA complexes (bottom). Schematic tRNAs are shown in the center (intron: green). The distances from the elbow to the Ψ sites are indicated.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8c6a/11258540/132e0899f182/gr3.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38996458_gr3.jpg"
+  },
+  {
+    "pmid": "38996458",
+    "html": "38996458_PMC11258540.html",
+    "fig_id": "fig5",
+    "title": "Figure 5.",
+    "caption": "Transcriptome-wide analysis of Ψ sites (A) Scheme of Pseudo-seq library preparation and data analysis. The dashed line indicates the peak of Ψ-dependent reads. CMC-dependent reverse transcription (RT) stops 1 nucleotide upstream of the Ψ site in the shown SLC29A1 transcript. (B) Western blot analyses of PUS1 and PUS3 expression in the indicated HEK293 cell lines. Glyceraldehyde-3-phosphate dehydrogenase ( GAPDH) is the loading control (left). Detection of Ψ in tRNA UUG Gln from total RNA using CMC-based primer extension (right). cDNA corresponding to the presence of Ψ 28 (blue) and Ψ 39 (green) are labeled. (C) Bright-field images of wild-type (WT), PUS1 −/− , and PUS3 −/− HEK293 cells (scale bar: 50 µm). (D) Venn diagram showing the overlap between Ψ sites identified bybisulfite-induced deletion-sequencing (BID-seq), 31 nanopore sequencing, 47 and this study. (E) K-mer frequency of the most abundant k-mer sequences of Ψ sites detected in the WT dataset. Sequences reported to be motifs of PUS7 (blue) or PUS4 (yellow) are indicated. 33 , 36 (F) Distribution of detected Ψ sites in the 5′ untranslated region (5′ UTR), the coding sequence (CDS), the 3′ UTR, and at stop codons. (G) Representative examples of identified Ψ sites of high frequency (adenylate kinase 2, AK2) and low frequency (phosphogluconate dehydrogenase, PGD). (H) Detection of Ψ sites in cellular 18S rRNA 33 using CMC-based primer extension. cDNA corresponding to the presence of Ψ (Ψ) are labeled (left). Ψ scores of these sites in 18S rRNA (right). (I) Plots indicating the Ψ score of known sites in noncoding RNAs.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8c6a/11258540/b36a418a8bbe/gr5.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38996458_gr5.jpg"
+  },
+  {
+    "pmid": "38996458",
+    "html": "38996458_PMC11258540.html",
+    "fig_id": "fig6",
+    "title": "Figure 6.",
+    "caption": "Transcriptome-wide analysis of PUS1- or PUS3-dependent Ψ sites (A) Ψ score of the PUS1-dependent Ψ site in MT-ND4 mRNA in the wild type (WT), PUS1 −/− , and PUS3 −/− datasets (left). The predicted RNA secondary structure of the PUS1 site is shown and the targeted uridine is highlighted (middle). Detection of Ψ sites on in vitro -transcribed MT-ND4 or tRNA UUG Gln using CMC-based primer extension (right). cDNA corresponding to the presence of Ψ (Ψ) and the primer (‣) are labeled. (B) Total number of Ψ sites detected in WT, and Ψ sites that are PUS1 or PUS3 dependent. Venn diagram showing the overlap between PUS1-dependent Ψ sites identified by BID-seq, 31 pseudouridine assessment via bisulfite/sulfite treatment/PRAISE, 48 and this study. (C) Ψ scores of the 5 PUS1-dependent sites overlapping with PRAISE data and this study. (D) Ψ scores of reported PUS3-dependent Ψ sites based on BID-seq according to our datasets (red, below the Ψ score threshold; orange, above the Ψ score threshold but below the used fraction of stalling reads). Ψ score for DBNDD2 , GTF3C6 , and ZFAND3 in our datasets. Ψ sites are indicated, while a reported low-confidence site is labeled with a black dot.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8c6a/11258540/5fb58c7a92fc/gr6.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38996458_gr6.jpg"
+  },
+  {
+    "pmid": "38996458",
+    "html": "38996458_PMC11258540.html",
+    "fig_id": "fig7",
+    "title": "Figure 7.",
+    "caption": "Characterization of pathogenic PUS3 mutants in vitro and in cells (A) Mapping pathogenic PUS3 variants. The residues are highlighted and color-coded (red, catalytic activity; orange, stability; brown, tRNA binding). U 39 is highlighted. (B) SDS-PAGE analysis showing purified PUS3 mutants (‣). The white triangle shows a PUS3 10–438 fragment confirmed by mass spectrometry. (C) Protein thermostability analysis of PUS3 mutants. The melting temperatures (Tm) are listed in the inset. (D) MST analyses of PUS3 mutants using tRNA UUG Gln showing the calculated K d values. (E) Detection of Ψ 39 in tRNA UUG Gln by PUS3 mutants using CMC-based primer extension. cDNA corresponding to the presence of Ψ is labeled (Ψ). Average intensities of cDNA ( n = 3; bottom). (F) Scheme of Sleeping Beauty-mediated gene integration and protein expression in HEK293T cells. Western blot analysis of PUS3 and EGFP expression levels. LAMIN is the gel loading control. The averaged intensity of PUS3 is normalized against the intensity of EGFP. ( n = 3; n.s.: no significance; ∗ p ≤ 0.05; ∗∗ p ≤ 0.01; ∗∗∗ p ≤ 0.001; ∗∗∗∗ p ≤ 0.0001.) Data are represented as mean ± SEM.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8c6a/11258540/c99dc4f95757/gr7.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\38996458_gr7.jpg"
+  },
+  {
+    "pmid": "40311619",
+    "html": "40311619_PMC12255531.html",
+    "fig_id": "F1",
+    "title": "Figure 1 |. m 6 A in the CDS triggers mRNA decay.",
+    "caption": "(A) Histogram of miCLIP-derived m 6 A sites from HEK293T cells assigned to transcript regions. ( B) Decay rates of human HEK293T (left) and mouse embryonic stem cell (mESC) (right) mRNAs that do not contain m 6 A (human N=7147, mouse N=8506; gray) or contain m 6 A exclusively in their coding region (human N=1473, mouse N=1308; green), exclusively in their 3’UTR (human N=2042; mouse N=2149; purple) or their CDS and 3’UTR (human N=1976, mouse N=1602; green/purple stripes). Wilcoxon test; **** p ≤ 0.0001; means are indicated by +. (C) Quantitative m 6 A metagenes of mRNAs stratified by their half-life. Short-lived mRNAs (red) contain more m 6 A in their CDS than long-lived mRNAs (blue). (D) Reporter constructs to measure m 6 A positional effects. An m 6 A-modified DRACH cassette is located either in the 3’UTR (purple) or in the CDS (green) or is mutated to a non-methylatable DRAGH cassette in the CDS (blue). (E) Reporter mRNA decay in HEK293T cells after transcriptional shutoff by actinomycin D (left) or triptolide (right). Color scheme as in (D). (F) Reporter mRNA decay in HEK293T cells that were either mock-treated (gray) or treated with the METTL3 inhibitor STM2457 (orange).",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c6c1/12255531/954c393623cf/nihms-2074120-f0002.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40311619_nihms-2074120-f0002.jpg"
+  },
+  {
+    "pmid": "40311619",
+    "html": "40311619_PMC12255531.html",
+    "fig_id": "F2",
+    "title": "Figure 2 |. m 6 A-mediated mRNA decay depends on translation.",
+    "caption": "(A) Decay of reporter mRNA containing an unmethylatable DRAGH (left), the m 6 A DRACH cassette in the CDS (middle) or 3’UTR (right) in mock-treated HEK293T cells after transcriptional shutoff by actinomycin D (gray) and additional treatment with the translation inhibitor emetine (cyan). (B) Transcriptome-wide mRNA decay in mESCs after transcriptional shutoff by actinomycin D. mRNAs were classified as in Figure 1A into those containing no m 6 A (gray), m 6 A exclusively in the CDS (green) or 3’UTR (purple), or m 6 A in both, CDS and 3’UTR (green/purple stripes) and their average decay profiles were calculated in mock-treated WT cells (left), emetine-treated WT cells (middle) or Mettl14 knockout cells (right). (C) Transcriptome-wide mRNA stabilization induced by emetine depends on m 6 A. mRNAs were grouped by their m 6 A level (low m 6 A, blue; high m 6 A, red) and annotated with their half-life in mock-treated and emetine-treated cells (taken from ref. 18 ). Top panel: Scatterplot of average m 6 A levels versus half-lives in mock-treated cells (dots) and the absolute change in half-life upon treatment with emetine (length of arrow). Bottom panel: Log 2 fold-change of half-life relative to m 6 A levels.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c6c1/12255531/fc09f637cd0b/nihms-2074120-f0003.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40311619_nihms-2074120-f0003.jpg"
+  },
+  {
+    "pmid": "40311619",
+    "html": "40311619_PMC12255531.html",
+    "fig_id": "F3",
+    "title": "Figure 3 |. m 6 A pauses elongating ribosomes.",
+    "caption": "(A) Ribosomal A-site coverage (mean ± SEM) of transcript-matched codons that are either not in a DRACH motif (blue), in a DRACH motif but likely not m 6 A modified (orange) or m 6 A-modified (red) according to miCLIP analysis in HEK293T cells. (B) Ribosomal A-site coverage of codons grouped by their m 6 A-stoichiometry (see Methods) in mock-treated (gray) and STM2457-treated (orange) HEK293T cells. A linear fit ( y = m x + b ) for the relationship between m 6 A stoichiometry and ribosomal occupancy is shown, with the slope ( m ) indicated. (C) Top panel: Schematic representation of m 6 A-modified codons in the ribosomal A-site. Bottom panel: Codons formed by the DRACH motif, grouped by the position of the m 6 A-modified nucleotide (first, red; second, green; third, blue). Stop codons are indicated by a red outline, the methylated A is indicated by arrows. (D) Ribosomal A-site coverage of the nine DRACH sense codons with their m 6 A-status determined by miCLIP as in (A). Codons are grouped based on the strength of their codon-anticodon interaction 29 . (E) Ribosomal A-site coverage of codons grouped by the strength of their codon-anticodon interaction and their m 6 A-stoichiometry in mock-treated (gray) and STM2457-treated (orange) HEK293T cells. Linear fit as in (B).",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c6c1/12255531/3daefb87da15/nihms-2074120-f0004.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40311619_nihms-2074120-f0004.jpg"
+  },
+  {
+    "pmid": "40311619",
+    "html": "40311619_PMC12255531.html",
+    "fig_id": "F4",
+    "title": "Figure 4 |. mcm 5 s 2 U facilitates efficient decoding of m 6 A-modified codons.",
+    "caption": "(A) Ribosomal A-site occupancy of codons that contain m 6 A at the third (wobble) position (top panel) or at the first two positions (bottom panel) in mock-treated (gray) or STM2457-treated (orange) HEK293T cells. Codon m 6 A-level grouping and linear fit as in Figure 3B . (B) Top panel: Schematic representation of an m 6 A-modified AGA codon in mRNA (white) juxtaposed to mcm 5 s 2 U in the anticodon loop of tRNA Arg UCU (gray). A horizontal blue line indicates the position of the DRACH motif. Bottom panel: Overlap of codons with m 6 A at their wobble position (yellow) with those decoded by mcm 5 s 2 U-modified tRNAs (blue). (C) Ribosomal A-site occupancy of the subset of codons that are m 6 A-modified and decoded by mcm 5 s 2 U-modified tRNAs (AAA, AGA and GAA), either in wild-type HEK293T cells (gray) or cells with inactivated ELP1 (green) or CTU2 (purple). Codon m 6 A-level grouping and linear fit as in Figure 3B . (D) Schematic of a collided ribosome containing m 6 A in the A-site of the leading ribosome. (E) Ribosome collision profiles with the A-site of the leading ribosome centered on AGA codons that are either m 6 A-modified (top panel) or unmodified (bottom panel) in mock-treated (gray) or STM2457-treated (orange) HEK293T cells.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c6c1/12255531/f70cfae012a0/nihms-2074120-f0005.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40311619_nihms-2074120-f0005.jpg"
+  },
+  {
+    "pmid": "40311619",
+    "html": "40311619_PMC12255531.html",
+    "fig_id": "F5",
+    "title": "Figure 5 |. mcm 5 s 2 U counteracts the m 6 A-mediated decay of oncogenic pathways.",
+    "caption": "(A) Decay of the AGA reporter mRNA (schematic above) in mock- and STM2457-treated wild-type (gray), ELP1 KO (green), and CTU2 KO (purple) HEK293T cells. (B) Same as in (A), but for the GGA reporter mRNA. (C) m 6 A-mediated remodeling of the transcriptome in WT, ELP1 KO, and CTU2 KO HEK293T cells. mRNAs were grouped based on m 6 A levels in their CDS (left) or 3’UTR (right). Increased expression upon STM2457 treatment (y-axis) depends on mcm 5 s 2 U status and CDS m 6 A. Colors as in (A). (D) m 6 A defines mRNA decay regulons. Cancer hallmark gene sets 39 are separated by m 6 A levels (x-axis), mRNA half-lives (y-axis) and exon lengths (color gradient: short exons, blue; long exons, red). (E) Schematic representation depicting the shift in the balance between mcm 5 s 2 U and m 6 A in tumors versus normal tissue. (F) Univariate Cox proportional hazards analysis of m 6 A (yellow) and mcm 5 s 2 U (light blue and dark blue) biogenesis factors in the METABRIC breast cancer patient cohort 48 . (G) A pan-epitranscriptomic gene expression signature based on mcm 5 s 2 U and m 6 A biogenesis factors stratifies patients in the METABRIC breast cancer cohort. The top (blue) and bottom quantiles (yellow) are highlighted. Higher expression of mcm 5 s 2 U factors (blue) is significantly associated with poor survival (log-rank test).",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c6c1/12255531/1d56bc35c5eb/nihms-2074120-f0006.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40311619_nihms-2074120-f0006.jpg"
+  },
+  {
+    "pmid": "40311619",
+    "html": "40311619_PMC12255531.html",
+    "fig_id": "F6",
+    "title": "Figure 6 |. mRNA and tRNA modifications affect ribosomal decoding.",
+    "caption": "(A) Schematic representation of how mRNA modifications (red circle) such as m 6 A and tRNA modifications such as mcm 5 s 2 U (blue filled circle) can affect decoding speed (green, yellow, and red arrows) and trigger ribosome collisions (bottom). Absence of mcm 5 s 2 U is represented by an empty blue circle. (B) Top panel: The tRNA anticodon at position 34 is modified by queuosine (Q). Bottom panel: Codons decoded by Q-containing tRNAs (purple) overlap with m 6 A-modified codons (yellow) at AAC and GAC. (C) A-site occupancy of AAC and GAC codons in WT HEK293T cells (gray) or cells, in which the Q-biogenesis factors QTRT1 (light purple) or QTRT2 (dark purple) were knocked out (from ref. 55 ).",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c6c1/12255531/81c8a6e161b1/nihms-2074120-f0007.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40311619_nihms-2074120-f0007.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig9",
+    "title": "Extended Data Fig. 1. Interaction of individual transcription factors with each other and with core vRNAP.",
+    "caption": "(a) SDS-gel of affinity purified adjunct factors D1/D12, NPH-I and E11 obtained by E. coli overexpression and used for reconstitution assays. The arrow indicates an NPH-I degradation product. The experiment was performed in duplicates. (b) Minimal binding of E11, D1/D12 and NPH-I to each other. Recombinant NPH-I and E11 (lanes 1-4) or NPH-I, D1/D12 and E11 (lanes 5-8) were incubated with each other and immunoprecipitated by antisera against NPH-I or a non-immune serum. The immunoprecipitates (lanes 1, 2, 5, 6) and supernatants (lanes 3, 4, 7 and 8) were resolved by SDS-PAGE; HC and LC indicate heavy and light chain of the co-eluted antibody, respectively. No co-immunoprecipitation was observed for NPH-I to E11, and only marginal binding of D1/D12 to NPH-I/E11 was detectable. The arrow indicates an NPH-I degradation product. (c) Sucrose density gradient of vRNAP affinity-purified from infected cells (upper panel). Fractions 11-13 contain core vRNAP that was used for reconstitution assays, fractions 15-18 contain complete vRNAP. Gradient centrifugation of core vRNAP (fractions 11-13) pre -incubated with a mixture of either recombinant NPH-I and E11 or D1/D12. None of the recombinant factors bound to a significant amount to the vRNAP (fractions 11-13) but remained at the top of the gradient (fractions 1-6). The arrow indicates an NPH-I degradation product. Asterisks indicate recombinant D1/D12, NPH-I and E11. Note that D12 and Rpo30 migrate at the same position in the gel. The experiment was performed in duplicates. Source data",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/86647fd7b337/41594_2025_1653_Fig9_ESM.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig9_ESM.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig1",
+    "title": "Fig. 1. Reconstitution of vRNAP intermediates.",
+    "caption": "a , Schematic representation of the biochemical reconstitution strategy of vRNAP assembly intermediates. Minimal and core vRNAPs were isolated from infected cells by anti-FLAG affinity chromatography; factors D1/D12, E11 and NPH-I were expressed in E. coli and purified as described in the Methods . tRNA Gln/Arg was obtained from purified complete vRNAP as described in the Methods . b , Top, silver-stained protein gel of fractions from a sucrose density gradient centrifugation of isolated vRNAP complexes. tRNA Gln/Arg from purified vRNAP was visualized by ethidium bromide staining. Fractions 10–12, minimal and core vRNAP sediment; fractions 14–16, complete vRNAP sediments. Bottom, [ 32 P]tRNA Gln/Arg was incubated with the indicated vRNAP complexes, separated by gradient centrifugation and analyzed by autoradiography. The experiment was performed in triplicate. c , Gel mobility shift assays of core vRNAP and recombinant factors in the presence of [ 32 P]tRNA Gln/Arg . Black dots, added components; white dots, omitted components. The dot size corresponds to the amounts of recombinant factors added. Complex formation was visualized by autoradiography. The experiment was performed four times. Source data",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/9d9d5147fa5f/41594_2025_1653_Fig1_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig1_HTML.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig2",
+    "title": "Fig. 2. Experimental key structures of the early PIC tRNA-chaperoned assembly cycle.",
+    "caption": "Isosurface representations of cryo-EM structures are shown and crucial structural elements are labeled. The intermediates are labeled I3–I5 according to their occurrence in the presumed assembly cycle. The color code of the individual factors is identical to that of Figs. 1 , 3 and 4 . Each structure is shown in a standard view that corresponds to that used in Fig. 3 and an additional view with 40° rotation. Rpo30 is highlighted in ochre only for minimal vRNAP. Note that, in general, all bound factors occupy corresponding positions; therefore, the visualized structures document an incremental buildup, eventually yielding to complete vRNAP in the absence of major conformational reorganizations (full assembly cycle in Fig. 3 ).",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/f89224cac379/41594_2025_1653_Fig2_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig2_HTML.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig3",
+    "title": "Fig. 3. The tRNA-chaperoned assembly cycle.",
+    "caption": "A model of the tRNA-chaperoned assembly cycle was derived from biochemical and structural data of this study and is illustrated by solved and available atomic structures, the latter of which are labeled with their PDB codes. tRNA refers to tRNA Gln/Arg . Assembly intermediates, shown as accessible molecular surface, are labeled according to their appearance during the assembly cycle: I1, core vRNAP (PDB 6RIC ); I2*, metastable core vRNAP–tRNA (no experimental structure available); I3, core vRNAP–tRNA Gln/Arg –E11–NPH-I; I4, complete vRNAP–VETF-s/l; I5, complete vRNAP lacking the capping enzyme (complete vRNAP–D1/D12). The starting point is minimal vRNAP and the endpoint is PIC on an early promoter (PDB 7AMV ). *Transient intermediate that can be detected only by biochemical means (Fig. 1b , bottom, gradient profile 2). # Conformational change in the tRNA assembly chaperone.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/2b262e145cbd/41594_2025_1653_Fig3_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig3_HTML.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig10",
+    "title": "Extended Data Fig. 2. Cryo-EM reconstruction of minimal vRNAP obtained from infected cells treated with the replication inhibitor AraC.",
+    "caption": "(a) Selected 2D classes. (b) classification and refinement scheme. (c) Local resolution mapped to the reconstruction density isosurface. (d) FSC plots for final reconstruction. (e) Orientation distribution plot for final reconstruction. (f) Posterior precision distribution plot for final reconstruction.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/6f8fb77bbea2/41594_2025_1653_Fig10_ESM.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig10_ESM.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig11",
+    "title": "Extended Data Fig. 3. Domain arrangement of bound Rap94.",
+    "caption": "The Rap94 structure as extracted from complete vRNAP is shown in surface representation. The five domains (NTD, Domain 2, B Ribbon, B-cyclin domain and CTD) are coloured in shades of green. The domains are connected by flexible linkers that are fixed on the vRNAP surface throughout the assembly pathway.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/28b2147ac293/41594_2025_1653_Fig11_ESM.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig11_ESM.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig12",
+    "title": "Extended Data Fig. 4. Cryo-EM reconstruction of vRNAP assembly intermediates I3 and I4.",
+    "caption": "(a) Selected 2D classes. (b) classification and refinement scheme. Domains are colored according to the scheme used in Fig. 2 . (c) Final reconstruction for intermediate I3. (d) FSC plots for final reconstruction of intermediate I3. (e) Orientation distribution plot for final reconstruction of intermediate I3. (f) Posterior precision distribution plot for final reconstruction of intermediate I3. (g) Final reconstruction for intermediate I4. (h) FSC plots for final reconstruction of intermediate I4. (i) Orientation distribution plot for final reconstruction of intermediate I4. (j) Posterior precision distribution plot for final reconstruction of intermediate I4.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/c12488941cac/41594_2025_1653_Fig12_ESM.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig12_ESM.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig13",
+    "title": "Extended Data Fig. 5. Cryo-EM reconstruction of Intermediate 5 (Complete vRNAP lacking the capping enzyme).",
+    "caption": "(a) Selected 2D classes. (b) Classification and refinement scheme. (c) Local resolution mapped to the reconstruction density isosurface. (d) FSC plots for final reconstruction. (e) Orientation distribution plot for final reconstruction. (f) Posterior precision distribution plot for final reconstruction.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/6913881e3d47/41594_2025_1653_Fig13_ESM.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig13_ESM.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig4",
+    "title": "Fig. 4. High-resolution reconstruction of complete vRNAP.",
+    "caption": "a , An isosurface representation of the cryo-EM density with crucial structural elements labeled. The color code of the individual factors is identical to that of Figs. 2 and 3 . b , A similar isosurface representation to a , overlaid with a 20-Å lowpass-filtered density depicted as a magenta isosurface. This density can be attributed to mobile VETF. c , Electrostatic potential mapped to the complete vRNAP solvent-accessible surface. The orientation of both views is identical to those depicted in b . The lowpass-filtered density overlay shown in b is not presented here.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/46c03c57a063/41594_2025_1653_Fig4_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig4_HTML.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig5",
+    "title": "Fig. 5. Conformation and interaction of tRNA Gln (UUG) in complete vRNAP.",
+    "caption": "a , ASL structure from the cryo-EM model of complete vRNAP (strained state) depicted as a stick model, overlaid with the cryo-EM density shown as a transparent isosurface. b , ASL structure from the cryo-EM model of complete vRNAP depicted as cartoon-and-stick model. Please note that the relaxed state (free tRNA) is a manually created model because no experimental structure of this state is available (left, bound strained state; right, free relaxed state). c , d , Sketch of the ASL structure in the strained state ( c ) and in the relaxed state ( d ; free tRNA). Please note that this is a manually created model because no experimental structure of this state is available. e , Sketch of the ASL structure in the relaxed state. f , Scheme of the tRNA Gln (UUG) base pairing in the bound strained state. g , Right, ASL region in cartoon-and-stick depiction with the adjacent NPH-I solvent-accessible surface (red) as observed in the model of complete vRNAP (strained state). Left, details of the NPH-I–tRNA interaction in the region of A37and U34. h , Codon ‘sun’ with recognition-relevant bases marked in color. i , ASL base-pairing scheme for tRNA Gln (UUG) as observed in complete vRNAP in the strained state (bottom left). Sequences of several other tRNA species are threaded into the scheme for the other depictions. Unfavorable base pairing is indicated by two red bars; canonical base pairs are shown in gray and nonconical base pairs are shown in red. If present, pictograms in insets symbolize the relaxed (unbound) or strained (bound) states (Supplementary Video 2 ). Please note that there is no high-confidence tRNA Arg (GCG) sequence available in the database.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/6f538a8e274b/41594_2025_1653_Fig5_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig5_HTML.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig14",
+    "title": "Extended Data Fig. 6. Cryo-EM reconstruction of Complete vRNAP.",
+    "caption": "(a) Selected 2D classes. (b) Classification and refinement scheme. The cryo EM isosorface of the final reconstruction is colored by local resolution. (c) FSC plots for final reconstruction. (d) Orientation distribution plot for final reconstruction. (e) Posterior precision distribution plot for final reconstruction.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/edfa1d1c02b8/41594_2025_1653_Fig14_ESM.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig14_ESM.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig15",
+    "title": "Extended Data Fig. 7. tRNA Gln isoforms with their associated cryo EM density.",
+    "caption": "Comparison of the tRNA Gln -UUG model with its associated cryo EM density as extracted from the complete vRNAP structure (left) to a model for the tRNA Arg -CCG sequence, modelled manually into the complete vRNAP density (right). Both sequences fit the density well, except for the “extra” base G48 in the tRNA Arg -CCG sequence.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/63ede9b9d929/41594_2025_1653_Fig15_ESM.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig15_ESM.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig16",
+    "title": "Extended Data Fig. 8. Impact of modification and non-canonical base pairing on vRNAP complex formation.",
+    "caption": "Core vRNAP and the indicated recombinant transcription factors were incubated with [³²P]-labelled tRNA Gln/Arg (isolated from complete vRNAP), in vitro-transcribed tRNA Gln harbouring a U33G mutation, and in vitro-transcribed wild-type tRNA Gln (WT). Samples were analysed by native gel electrophoresis and complexes were visualized by radioautography. Black circles indicate components that were added, while white circles indicate components that were omitted. The size of the circle reflects the relative amount of each recombinant factor included. The experiment was performed three independent times with similar results. Source data",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/57943a52b823/41594_2025_1653_Fig16_ESM.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig16_ESM.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig6",
+    "title": "Fig. 6. Identification of modifications of tRNA Gln/Arg and their impact for vRNAP formation.",
+    "caption": "a , Gel mobility shift assay of nonmodified (T7-transcribed) tRNA Ser (lanes 1–4, 13) and tRNA Gln (lanes 5–8, 14) or modified tRNA Gln/Arg (extracted from complete vRNAP; lanes 9–12, 15) in the presence of indicated adjunct factors E11, NPH-I and D1/D12 and core vRNAP. b , LC–MS analysis of modifications of tRNA Gln/Arg isolated from complete vRNAP. c , LC–MS analysis of mcm 5 s 2 U and cm 5 s 2 U modifications in total tRNA isolated from infected cells. d , LC–MS analysis mcm 5 s 2 U and cm 5 s 2 U modifications in total tRNA isolated from uninfected cells. e , K. lactis γ-toxin digestion of tRNAs. The indicated [ 32 P]tRNAs (lines 1–14) were incubated with increasing concentrations γ-toxin (50 nM, 100 nM, 250 nM, 500 nM, 1 μM and 5 μM) for 1 h at 25 °C. RNA was subsequently phenol-extracted, resolved by denaturing RNA gel electrophoresis and visualized by radioautography. In lanes 15–18, total tRNA from infected cells was digested with increasing concentrations of γ-toxin (500 nM, 1 µM and 5 µM), followed by TRIzol extraction. tRNAs were separated on a 12% denaturing gel, transferred to a nylon membrane and hybridized with a 5′-end-labeled DNA probe complementary to the 3′-end of the tRNA Gln (UUG) anticodon region. FL, full-length tRNAs; Dig.-[ 32 P]tRNAs, digested tRNA fragments. Source data",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/ed2883c2ea18/41594_2025_1653_Fig6_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig6_HTML.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig7",
+    "title": "Fig. 7. Identification of modifications of tRNA Gln in the cryo-EM density of complete vRNAP.",
+    "caption": "a , Density and model at tRNA base A57. b , Density and model at tRNA base C32. c , Density and model at tRNA base U34. The red arrow indicates the expected position of the absent mcm 5 s 2 U3 modification. d , Model of the mcm 5 s 2 U34 modification. The model of mcm 5 s 2 U at position 34 of the complete vRNAP model produces a clash or unfavorable interaction with surrounding residues from Rap94 and NPH-I (red arrow).",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/5cffe2534117/41594_2025_1653_Fig7_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig7_HTML.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig8",
+    "title": "Fig. 8. Complete vRNAP is packaged en bloc into vaccinia virions.",
+    "caption": "a , Quantitative RNA-seq of RNA extracted from vaccinia virions (left) and purified complete vRNAP (right). The total number of reads is indicated below. b , Proteomics of purified complete vRNAP compared to total lysate from isolated vaccinia virions. Subunits of complete vRNAP are shown in red; typical abundant proteins of the virion are shown in dark blue. The only detectable intermediate or late transcription factor is shown as a green dot. c , Specific incorporation of tRNA Gln/Arg into MPXV virions. RNA was extracted from MPXV and vaccinia virions and analyzed by northern blot analysis using probes against tRNA Gln (UUG), tRNA Arg (CCG) and tRNA Ser (CGA). Lanes 1–3 correspond to the amount of tRNA extracted from 2.1 × 10 6 , 4 × 10 6 and 8 × 10 6 plaque-forming units of MPXV, respectively. Lanes 4 and 5 correspond to tRNA extracted from 5 × 10 5 and 1 × 10 6 plaque-forming units of vaccinia virus, respectively. Lane 6 corresponds to 100 ng of total calf tRNA. The experiment was performed in triplicate. Source data",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/67c0d77ed3b7/41594_2025_1653_Fig8_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig8_HTML.jpg"
+  },
+  {
+    "pmid": "40908366",
+    "html": "40908366_PMC12618233.html",
+    "fig_id": "Fig17",
+    "title": "Extended Data Fig. 9. Amount of vRNAP and tRNA Gln (UUG) contained in purified complete vRNAP and virion extract.",
+    "caption": "Anti-HA Western blot of isolated complete vRNAP and virions (above left). Northern blot of tRNA Gln (UUG) isolated from complete vRNAP and virions (below left). Correlation of the respective Western blot (WB) signals to Northern blot (NB) signals. The experiment was performed in triplicates. Source data",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7af8/12618233/5ef0f12d87f7/41594_2025_1653_Fig17_ESM.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\40908366_41594_2025_1653_Fig17_ESM.jpg"
+  },
+  {
+    "pmid": "41344331",
+    "html": "41344331_PMC12709618.html",
+    "fig_id": "F1",
+    "title": "Figure 1. NAT10 depletion decreases lung metastasis in mice.",
+    "caption": "(A) NAT10 mRNA in the primary tumor and metastases of human breast cancer patients. Mann-Whitney U test, error bar, median with interquartile range. (B) NAT10 mRNA in breast cancer metastatic sites, error bar, median with interquartile range. Kaplan-Meier survival analysis of (C) ER+ and (D) triple-negative (ER−/PR−/HER2−) patients with high or low NAT10 expression. (E) NAT10 protein levels in shRNA knockdown 4T1 cells. (F) Tumor weight of mice injected with Nat10 shRNA knockdown 4T1 cells. Kruskal Wallis ANOVA, mean ± S.D. p-values from two independent experiments combined with Fisher’s method. (G) Lung metastases (left) and tumor-normalized metastases counts (right) in Nat10 shRNA knockdown 4T1 cells. Kruskal-Wallis ANOVA with Dunn’s multiple comparison test, mean ± s.d. p-values from two independent experiments combined with Fisher’s method. (H) NAT10 protein level in Nat10 KO 4T1 cells. (I) Tumor weight of mice injected with Nat10 KO 4T1 cells, Kruskal-Wallis ANOVA with Dunn’s multiple comparison test, mean ± s.d. (J) Lung metastases (left) and tumor-normalized metastases counts (right) in Nat10 KO 4T1 cells. Kruskal-Wallis ANOVA with Dunn’s multiple comparison test, mean ± s.d. (K) Breeding scheme for Nat10 mutant (H537A) and PyMT mouse cross. Created with Biorender.com (L) Lung metastases and (M) tumor-normalized metastases counts in WT and Nat10 mutant F1 progeny. Mann-Whitney U test, mean ± s.d. (N) Incidence of lung metastasis in WT and Nat10 mutant F1 progeny. Chi-square test.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1921/12709618/ce3a68be920f/nihms-2122374-f0002.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41344331_nihms-2122374-f0002.jpg"
+  },
+  {
+    "pmid": "41344331",
+    "html": "41344331_PMC12709618.html",
+    "fig_id": "F2",
+    "title": "Figure 2. NAT10 facilitates ac4C modification of RNAs and interacts with a metastasis-associated, nuclear pore-bound mechanosensitive protein complex.",
+    "caption": "(A) ac4C RNA dot blot of 4T1 Nat10 KO cells. (B) ac4C site (left) and modification levels (right) in 18S rRNA helix 45 of Nat10 KO 4T1 cells. ANOVA with Tukey’s multiple comparison test, mean ± s.d. (C) representative ac4C immuno-northern blot analysis (left) and densitometric quantification (right) in Nat10 KO 4T1 cells. n=3. ANOVA with Tukey’s multiple comparison test, mean ± s.e.m. (D) Western blot of translational pathway components in Nat10 KO 4T1 cells. (E) OPP protein production assay in Nat10 knockdown 4T1 cells. Scale bar = 10 μm. (F) Morphology of Nat10 shRNA knockdown (top) and Nat10 KO 4T1 cells grown on different matrices (bottom). Scale bar = 10 μm. (G) Hypothetical model of the NAT10-NUP210 mechanosensitive protein complex at the nuclear pore. (H) Co-IP of NAT10 with Myc-tagged NUP210 and SIPA1 in 4T1 cells. (I) Co-IP of Flag-tagged NAT10 and BRD4 isoforms in 4T1 cells. (J) Western blot of NUP210 and ITGB1 protein in Nat10 KO 4T1 cells. (K) qRT-PCR of NUP210-dependent mechanosensitive, inflammatory response genes in Nat10 KO 4T1 cells, multiple t-test, mean ± s.e.m. (L) Immunofluorescence of histone H3.1/3.2 and H3K9me3 heterochromatin markers in Nat10 KO 4T1 cells. Scale bar = 10 μm. (M) Western blot of NAT10 and associated mechanosensitive proteins in 4T1 cells on soft (0.2kPa) and stiff (plastic dish, stiffness > GPa) matrices coated with either fibronectin or type I collagen.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1921/12709618/100833744db4/nihms-2122374-f0003.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41344331_nihms-2122374-f0003.jpg"
+  },
+  {
+    "pmid": "41344331",
+    "html": "41344331_PMC12709618.html",
+    "fig_id": "F3",
+    "title": "Figure 3. NAT10 depletion decreases global histone acetylation.",
+    "caption": "(A) Schematic of LC-MS-based identification of NAT10 interaction partners and acetylated lysine enrichment analysis in Nat10 KO 4T1 cells. Created with Biorender.com . (B) GSEA analysis of NAT10 coimmunoprecipitating proteins in 4T1 cells. (C) Key GSEA pathways enriched among NAT10-interacting proteins. (D) Volcano plot of nuclear proteome-normalized acetylated peptides in Nat10 KO 4T1 cells. (E) Venn diagram of NAT10 interaction partners and proteins with decreased acetylation in Nat10 KO 4T1 cells. (F) Co-IP of acetylated histones in Nat10 KO 4T1 cells. (G) Western blot of various histone modifications in Nat10 KO 4T1 cells. In vitro histone acetyltransferase (HAT) assay of (H) histone H4 and (I) H3 variants acetylation in the presence of recombinant human NAT10 and p300. (J) Western blot of H3K27ac and H4K20ac in 4T1 cells treated with either A-485) or dCBP-1.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1921/12709618/d797a2a63150/nihms-2122374-f0004.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41344331_nihms-2122374-f0004.jpg"
+  },
+  {
+    "pmid": "41344331",
+    "html": "41344331_PMC12709618.html",
+    "fig_id": "F4",
+    "title": "Figure 4. NAT10 interacts with p300, and its depletion causes altered p300 localization to heterochromatin regions.",
+    "caption": "(A) Western blot of p300/CBP and acetylated p300/CBP in Nat10 KO 4T1 cells. (B) Western blot of p300/CBP in Nat10 KO and rescued (by overexpression of Nat10 ) 4T1 cells. (C) Western blot of p300 protein after acute degradation of NAT10 in human 293FT cells. (D) Immunofluorescence of p300 in Nat10 KO 4T1 cells, Scalebar = 10 μm. (E) Immunofluorescence of p300 and H3K9me3 in Nat10 KO and rescued 4T1 cells, Scalebar = 10 μm. (F) (left) Segmentation of the p300 and H3K9me3 signals for quantification. Scalebar = 5 μm, (mid) Quantification of p300 condensate intensity in Nat10 KO and rescued 4T1 cells, (right) Mander’s colocalization coefficient of p300 localization in the H3K9me3 area. Kruskal-Wallis ANOVA with Dunn’s multiple comparison test, median with interquartile range. (G) (left) PLA of p300 and H3K9me3 in Nat10 KO 4T1 cells, Scalebar = 10 μm, (right) quantification of PLA. Mann-Whitney U test, median with interquartile range. (H) Co-IP of Flag-tagged and endogenous NAT10 with p300 in 4T1 cells. (I) Immunofluorescence colocalization of NAT10 with p300, enhancer mark H3K27ac, and heterochromatin mark H3K9me3, Scale bar = 5 μm. NAT10-Ms, mouse and NAT10-Rb, rabbit NAT10 antibody. (J) (left) PLA of p300 with H3K27ac and NAT10, (right) Quantification of PLA, n = number of cells analyzed, mean ± s.d. Scalebar = 10 μm. (K) (left) PLA of NAT10 with H3K27ac, H4K20ac and H3K9me3 marks in 4T1 cells, (right) quantification of PLA, Scalebar = 10 μm. (L) 3D reconstruction showing NAT10 interactions with H3K27ac and H4K20ac within the nucleus of 4T1 cells, Scale bar = 2 μm. (M) (left) normalized ChIP-seq profile of NAT10 enrichment with enhancer marks (H3K27ac and H4K20ac) in 4T1 cells, (mid) NAT10 enrichment at promoter, and (right) at H3K27ac-marked enhancer.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1921/12709618/1b426c08e9c8/nihms-2122374-f0005.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41344331_nihms-2122374-f0005.jpg"
+  },
+  {
+    "pmid": "41344331",
+    "html": "41344331_PMC12709618.html",
+    "fig_id": "F5",
+    "title": "Figure 5. NAT10 depletion disrupts enhancer organization.",
+    "caption": "Normalized ChIP-seq profile of p300, H3K27ac, and H4K20ac at the (A) gene promoter, and (B) at the enhancers in Nat10 KO 4T1 cells. (C) Global read density box plot of H3K27ac, H4K20ac, and p300 in Nat10 KO 4T1 cells, median with interquartile range. (D) Overall distribution of H3K9me3 and H3K27me3 peaks in WT and Nat10 KO 4T1 cells. (E) ATAC-seq signals around the promoter and enhancer regions of Nat10 KO 4T1 cells. (F) Differential enrichment of ATAC-seq peaks around the TSS and TSS-excluded regions in Nat10 KO 4T1 cells. (G) (left) PLA of p300 and H3K27ac in Nat10 KO 4T1 cells, (right) quantification of PLA foci, Mann-Whitney U test, median with interquartile range, Scalebar = 10 μm. (H) Differential enrichment analysis of p300 and H3K27ac peaks in Nat10 KO 4T1 cells. (I) Gene Ontology analysis of down- and upregulated enrichment of H3K27ac peaks within gene bodies in Nat10 KO 4T1 cells. (J) Integrative Genomics Viewer (IGV) tracks of ATAC-seq and ChIP-seq peaks at representative downregulated and upregulated genomic regions in Nat10 KO 4T1 cells. (K) (left) 3D DNA FISH showing Myc super-enhancer region within the nuclei of Nat10 KO 4T1 cells, Scalebar = 2 μm; (right) quantification of the distance of FISH signals from the nearest heterochromatin foci. Kruskal-Wallis ANOVA with Dunn’s multiple comparison test, median with interquartile range. (L) qRT-PCR showing the mRNA level of Nat10 and Myc in Nat10 KO 4T1 cells, multiple t-test, mean ± s.e.m. n=3. (M) Western blot of MYC in Nat10 KO 4T1 cells.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1921/12709618/4d66fa974941/nihms-2122374-f0006.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41344331_nihms-2122374-f0006.jpg"
+  },
+  {
+    "pmid": "41344331",
+    "html": "41344331_PMC12709618.html",
+    "fig_id": "F6",
+    "title": "Figure 6. NAT10 depletion enhances p300 binding to nascent RNAs, and NAT10 modulates p300/CBP activity via acetylation of chromatin-associated tRNAs.",
+    "caption": "(A) Scheme of RNA-ChIP-seq to identify p300-bound chromatin RNAs and RNA-seq of total chromatin-associated RNAs, created with Biorender.com . (B) RNA-ChIP profile showing the global enrichment of p300 with chromatin associated RNAs (caRNA) in Nat10 KO 4T1 cells. (C) enrichment of p300 at enhancer RNAs. (D) IGV tracks showing p300 enrichment at enhancer RNAs and pre-mRNAs. (E) Normalized reads from the total chromatin-associated RNA-seq of differentially regulated genes in Nat10 KO 4T1 cells, mean ± s.e.m. (F) ac4C dot blot of caRNAs from 4T1 Nat10 KO cells. (G) ac4C immuno-northern blot analysis of caRNAs from 4T1 Nat10 KO cells. (H) (left) Immuno-northern blot of tRNA acetylation after degradation of NAT10 in human 293FT-NAT10-dTAG knockin cell line, (right) densitometric quantification of ac4C signal, multiple t-test, mean ± s.e.m. (I) Morphology of 293FT-NAT10-dTAG cells 72 h after degradation of NAT10, Scale bar = 10 μm. (J) Representative western blot of p300, H3K27ac, and H4K20ac at different time points in 293FT-NAT10-dTAG knock-in cells. (K) (left) Single-molecule RNA FISH of tRNA variants (tRNA-Ser-TGA and tRNA-Leu-CAG) and p300 immunostaining in 4T1 cells, Scale bar = 10 μm, (right) quantification of colocalization of tRNAs with p300, median with interquartile range. (L) RNA-ChIP average enrichment of p300 on tRNA variants in Nat10 KO 4T1 cells. Each dot represents sub-variants of tRNA-Ser and Leu, t-test, mean ± s.e.m. (M) Pie chart showing the genome-wide distribution of tRNA-Ser/Leu ChIRP-seq peaks in 4T1 cells. (N) Motif analysis of tRNA-Ser and tRNA-Leu ChIRP-seq peaks. (O) Enrichment profile of tRNA-Ser and tRNA-Leu around the promoter (top) and enhancer (bottom) region of Nat10 KO 4T1 cells. (P) IGV tracks of tRNA-Ser/Leu peaks across p300/H3K27ac-marked genic regions in Nat10 KO 4T1 cells. ChIRP-seq probe against LacZ was used as negative control. Representative western blot (Q) and densitometric quantification (R) showing H3K27ac levels catalyzed by recombinant p300 in the presence or absence of ac4C+ tRNA-Leu-CAG, 5 independent experiments, ANOVA with Tukey’s multiple comparison test, mean ± s.e.m. (S) Western blot of p300, CBP, H3K27ac, and H4K20ac in 4T1 cells with tRNA-Ser-TGA or tRNA-Leu-CAG knockdown at 48 hours.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1921/12709618/2d8bdc0ea576/nihms-2122374-f0007.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41344331_nihms-2122374-f0007.jpg"
+  },
+  {
+    "pmid": "41398161",
+    "html": "41398161_PMC12706008.html",
+    "fig_id": "Fig1",
+    "title": "Fig. 1. PANDORA-seq identifies tsRNA-Glu-CTC as the most abundant hepatic tsRNA in mice.",
+    "caption": "a Distribution of different types of sncRNAs in mouse liver detected by traditional RNA-seq and PANDORA-seq ( n = 5 biological replicates). The percentage of each sncRNA category was calculated by mean reads per million (RPM). b Hepatic tsRNA and rsRNA relative expression (normalized to miRNAs) under traditional-seq and PANDORA-seq protocols ( n = 5 biological replicates). c The expression levels of highly expressed hepatic tsRNAs detected by traditional-seq (gray line) and PANDORA-seq (red line) are presented as the radar charts. The Y axis indicates RPM in log scale ( n = 5 biological replicates). d The distribution of detected hepatic tsRNAs based on PANDORA-seq results (% of total hepatic tsRNAs) ( n = 5 biological replicates). e Mapping patterns of representative hepatic tsRNAs detected by PANDORA-seq and traditional-seq. The solid curves indicate the mean RPM. The colored bands represent the standard error of the meaning ( n = 5 biological replicates). The three gray bars indicate the location of the D-loop, anticodon-loop, and T-loop (left to right) along the parental tRNAs. f The expression levels of tsRNA-Glu-CTC, miRNA-122, and miRNA-148a based on PANDORA-seq and traditional-seq results ( n = 5 biological replicates). g Hybridization efficiency of northern blot probes for tsRNA-Glu-CTC and miRNA-122 by loading 20 ng synthetic oligonucleotides. h Northern blot analysis of hepatic tsRNA-Glu-CTC and miRNA-122 in male and female mice. i Relative expression of hepatic miRNA-122 and tsRNA-Glu-CTC based on densitometry analyses of the northern blot bands normalized to indicated SYBR gold-stained RNA bands (5.8S rRNA, 5S rRNA, Type I and type II tRNA bands) on urea PAGE and the probe efficiency factor (4:1) ( n = 5 male mice, n = 4 female mice, mean ± SEM, two-tailed Student’s t-tests). j Northern blot analysis of tsRNA-Glu-CTC expression in major mouse tissues. For g – j similar results were obtained in three independent experiments. Box plots ( b , f ) show the median (central line), the 25th percentile (Q1) and 75th percentile (Q3) (bounds), and interquartile range (IQR, Q3-Q1) (box). The whiskers extend from the box to the most extreme data points that fall within Q3 + 1.5×IQR (upper whisker) and Q1-1.5×IQR (lower whisker), respectively.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2504/12706008/52e977db97b5/41467_2025_67387_Fig1_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41398161_41467_2025_67387_Fig1_HTML.jpg"
+  },
+  {
+    "pmid": "41398161",
+    "html": "41398161_PMC12706008.html",
+    "fig_id": "Fig2",
+    "title": "Fig. 2. tsRNA-Glu-CTC is a cholesterol-responsive tsRNA.",
+    "caption": "a – d Eight-week-old male wide-type C57BL/6 mice were fed a low-cholesterol diet (LCD) containing 0.02% cholesterol or high-cholesterol diet (HCD) containing 0.5% cholesterol for 4 weeks. Total RNAs were isolated from liver for RNA sequencing and northern blot analysis. a The expression levels of representatives tsRNAs or miRNAs based on PANDORA-seq and traditional-seq results ( n = 5 mice for LCD, n = 4 mice for HCD, two-tailed Student’s t-tests for HCD vs. LCD results obtained from PANDORA-seq and traditional-seq). Box plots show the median (central line), 25th percentile (Q1) and 75th percentile (Q3) (bounds), and interquartile range (IQR, Q3-Q1) (box). The whiskers extend from the box to the most extreme data points that fall within Q3 + 1.5×IQR (upper whisker) and Q1-1.5×IQR (lower whisker), respectively. b Heatmap representation of differentially expressed hepatic tsRNA-Glu-CTCs and their sequences ( n = 5 mice for LCD, n = 4 mice for HCD). The top 100 tsRNA-Glu-CTC species based on Log-transformed counts per million (Log CPM ) were included. c , d Northern blot analyses of hepatic expression of tsRNA-Glu-CTC ( c ) and tsRNA-Ser-GCT ( d ) in LCD and HCD-fed mice ( n = 5 biological replicates). The densitometry analyses of northern blot bands (normalized to SYBR gold-stained RNA bands, 5.8S rRNA, 5S rRNA, Type I and type II tRNA bands on urea PAGE) were shown next to northern blot panels (mean ± SEM, two-tailed Student’s t-test). e , f Northern blot analysis of tsRNA-Glu-CTC expression in human hepatic cells, HepG2 cells, treated with vehicle control, acetylated LDL (25 ug/ml) ( e ) or simvastatin (5 uM) ( f ). The densitometry analysis of northern blot bands (normalized to SYBR gold-stained RNA bands on urea PAGE) were shown next to northern blot panels ( n = 3 biological replicates, mean ± SEM, two-tailed Student’s t-test). For c – f similar results were obtained in three independent experiments.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2504/12706008/131ab21c3d0e/41467_2025_67387_Fig2_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41398161_41467_2025_67387_Fig2_HTML.jpg"
+  },
+  {
+    "pmid": "41398161",
+    "html": "41398161_PMC12706008.html",
+    "fig_id": "Fig3",
+    "title": "Fig. 3. tsRNA-Glu-CTC oligonucleotides elicit hypercholesterolemia and hepatic steatosis in mice.",
+    "caption": "Eight-week-old male C57BL/6 wild-type mice were treated with 0.6 mg/kg body weight synthetic 30-nt tsRNA-Glu-CTC oligonucleotides, control oligonucleotides, or vehicle control by intraperitoneal (IP) injection once every two days for two weeks before euthanasia. a The schematic of synthetic tsRNA-Glu-CTC oligonucleotide treatment experiment in wild-type mice. Created in BioRender.com. Zhou, C. ( https://BioRender.com/hye39si ). b Northern blot analysis of hepatic tsRNA-Glu-CTC expression in mice treated with control or tsRNA-Glu-CTC oligonucleotides. The densitometry analyses of northern blot bands (normalized to SYBR gold-stained RNA bands on urea PAGE) were shown next to northern blot panels ( n = 5 biological replicates, mean ± SEM, two-tailed Student’s t-test). Body weight ( n = 8,10,11) ( c ), serum total cholesterol (left panel) ( n = 8,9,10) and triglyceride (right panel) ( n = 7,8,10) ( d ), cholesterol levels of lipoprotein fractions (VLDL-C, LDL-C, and HDL-C) ( n = 8,9,10) ( e ), representative Oil-Red-O (top) and hematoxylin and eosin (bottom) stained liver sections (scale bar =100 μm) ( f ), and hepatic cholesterol (left panel) and triglyceride (right panel) contents ( n = 8,10,10) ( g ) of mice treated with vehicle control, control oligonucleotides, or tsRNA-Glu-CTC oligonucleotides. n represents the number of biological replicates (mice). Data are shown as mean ± SEM (one-way ANOVA, Bonferroni multiple-comparison test). VLDL - C very low-density lipoprotein cholesterol; LDL-C low density lipoprotein cholesterol; HDL-C high density lipoprotein cholesterol.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2504/12706008/35586de8d599/41467_2025_67387_Fig3_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41398161_41467_2025_67387_Fig3_HTML.jpg"
+  },
+  {
+    "pmid": "41398161",
+    "html": "41398161_PMC12706008.html",
+    "fig_id": "Fig4",
+    "title": "Fig. 4. Knockdown of tsRNA-Glu-CTC by antisense oligonucleotides decreases circulating cholesterol levels and ameliorates hepatic steatosis in mice fed a high-cholesterol diet.",
+    "caption": "Eight-week-old male wild-type mice were fed a high-cholesterol diet (HCD) and were treated with tsRNA-Glu-CTC antisense oligonucleotides (ASO) or control ASO once every two days for two weeks. a The schematic of tsRNA-Glu-CTC ASO treatment experiment in wild-type mice. Created in BioRender.com. Zhou, C. ( https://BioRender.com/ub1p0f6 ). b Northern blot analysis of hepatic tsRNA-Glu-CTC expression in mice treated with control ASO or tsRNA-Glu-CTC ASO (n = 5 biological replicates). c The densitometry analyses of northern blot bands for tsRNA-Glu-CTC and tRNA-Glu-CTC (normalized to SYBR gold-stained RNA bands on urea PAGE) ( n = 5 biological replicates, mean ± SEM, two-tailed Student’s t-test). Body weight ( d ), serum total cholesterol (left panel) and triglyceride (right panel) (left) ( e ), cholesterol levels of lipoprotein fractions (VLDL-C, LDL-C, and HDL-C) ( f ), representative Oil-Red-O (top) and hematoxylin and eosin (bottom) stained liver sections (scale bar =100 μm) ( g ), and hepatic cholesterol (left panel) and triglyceride (right panel) contents ( h ) of mice treated with vehicle control, control ASO, or tsRNA-Glu-CTC ASO ( n = 6 for vehicle, n = 8 for control ASO, n = 8 for tsRNA-Glu-CTC ASO, data are shown as mean ± SEM, one-way ANOVA, Bonferroni multiple-comparison test). VLDL-C very low-density lipoprotein cholesterol; LDL-C low density lipoprotein cholesterol; HDL-C high density lipoprotein cholesterol.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2504/12706008/48bcfab0f902/41467_2025_67387_Fig4_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41398161_41467_2025_67387_Fig4_HTML.jpg"
+  },
+  {
+    "pmid": "41398161",
+    "html": "41398161_PMC12706008.html",
+    "fig_id": "Fig5",
+    "title": "Fig. 5. tsRNA-Glu-CTC regulates key hepatic lipogenic gene expression in mice.",
+    "caption": "Eight-week-old male wild-type mice were treated with 0.6 mg/kg body weight synthetic 30-nt tsRNA-Glu-CTC oligonucleotides or control oligonucleotides once every two days for two weeks. Total RNAs were isolated from the liver and used for RNA-seq analysis ( a ) Volcano plot of differential expressed genes (DEGs) in mouse liver. Colored dots show the upregulation (red dots) or downregulation (blue dots) of DEGs. The edgeR tool was applied to identify DEGs with P value < 0.01 and a fold change (FC) > 1.5 as a cut-off threshold ( n = 4 mice for control oligo, n = 3 mice for tsRNA-Glu-CTC oligo). Associated data are provided in Supplementary Table 1 . b Gene Ontology Biological Process (GOBP) terms significantly associated with the hepatic DEGs. The P values were one-sided and computed using the DAVID tool. Exact P values are provided in the Source Data file. c Heatmap representation of DEGs involved in GOBP terms of “Cholesterol biosynthetic process”, “Sterol biosynthetic process”, “SREBP signaling pathway”, “cholesterol metabolic process” and “lipid biosynthetic process”. Each row indicates one individual gene and each column a biological replicate of mouse. Red represents upregulation of gene expression and blue indicates downregulation. d Geneset scores of the prioritized GOBP terms. The geneset score was calculated by the FAIME algorithm ( n = 4 for control oligo, n = 3 for tsRNA-Glu-CTC oligo, one-tailed Student’s t-tests). Box plots show the median (central line), the 25th percentile (Q1) and 75th percentile (Q3) (bounds), and interquartile range (IQR, Q3-Q1) (box). The whiskers extend from the box to the most extreme data points that fall within Q3 + 1.5×IQR (upper whisker) and Q1-1.5×IQR (lower whisker), respectively. e The expression levels of hepatic lipogenic genes of mice treated with control oligonucleotides or tsRNA-Glu-CTC oligonucleotides were analyzed by quantitative real-time PCR ( n = 8 biological replicates, mean ± SEM, two-tailed Student’s t-test). f Western blot analysis of precursor SREBPs (pSREBE2), nuclear SREBP (nSREBP), PCSK9, HMGCR, and GAPDH in the liver of mice treated with control oligonucleotides or tsRNA-Glu-CTC oligonucleotides ( n = 5 biological replicates). g Densitometry analysis of western blot bands (normalized to GAPDH) ( n = 5 biological replicates, mean ± SEM, two-tailed Student’s t-test).",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2504/12706008/f2094ec46a1a/41467_2025_67387_Fig5_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41398161_41467_2025_67387_Fig5_HTML.jpg"
+  },
+  {
+    "pmid": "41398161",
+    "html": "41398161_PMC12706008.html",
+    "fig_id": "Fig6",
+    "title": "Fig. 6. tsRNA-Glu-CTC interacts with SREBP2 to regulate its transcription through an E-box motif.",
+    "caption": "a Northern blot analysis of tsRNA-Glu-CTC in nuclear and cytoplasmic RNAs isolated from HepG2 cells. b Representative RNA-FISH analysis of the subcellular localization of tsRNA-Glu-CTC in HepG2 cells (scale bar =10 μm). c HepG2 cells were transfected with Srebp2 promoter reporters and tsRNA-Glu-CTC oligonucleotides or control oligonucleotides together with CMX- β-Galactosidase control plasmids. Data are shown as fold induction of normalized luciferase activity compared with vehicle control group ( n = 7 biological replicates, mean ± SEM, one-way ANOVA, Bonferroni multiple-comparisons test). d HepG2 cells were transfected with Srebp2 promoter reporters and tsRNA-Glu-CTC ASO or control ASO. Cells were then treated with 5 μM simvastatin for 24 hr ( n = 3, mean ± SEM, one-way ANOVA, Bonferroni multiple-comparison test). e The schematic of different Srebp2 promoter reporter plasmids. Created in BioRender. Zhou, C. ( https://BioRender.com/kjpasvb ). f HepG2 cells were transfected with indicated Srebp2 promoter reporters and tsRNA-Glu-CTC oligonucleotides or control oligonucleotides ( n = 3, mean ± SEM, one-way ANOVA, Bonferroni multiple-comparison test). g The schematic of Srebp2 promoter reporter plasmids containing E-box mutations (top panel). Created in BioRender. Zhou, C. ( https://BioRender.com/7ybsw60 ). HepG2 cells were transfected with wild-type ( Srebp2 -WT-Luc) or mutant ( Srebp2 -MT-Luc) reporters and tsRNA-Glu-CTC oligonucleotides or control oligonucleotides ( n = 3, mean ± SEM, one-way ANOVA, Bonferroni multiple-comparison test). h The schematic of pulldown of tsRNA-Glu-CTC-associated DNA fragment experiment. Created in BioRender. Zhou, C. ( https://BioRender.com/i0r477p ). i PCR analysis of tsRNA-Glu-CTC-associated DNA fragments by using primers for indicated genes’ promoters. j The schematic of pulldown of tsRNA-Glu-CTC-associated protein experiment. Created in BioRender. Zhou, C. ( https://BioRender.com/2bnzfvk ). k Western blot analysis of tsRNA-Glu-CTC-associated proteins in HepG2 cells. l ChIP analysis of the recruitment of SREBP2 onto the E-box region of Srebp2 promoter. m HepG2 cells were transfected with Srebp2 -WT-Luc or Srebp2 -MT-Luc and SREBP2 expression or control plasmids ( n = 3, mean ± SEM, one-way ANOVA, Bonferroni multiple-comparison test). n HepG2 cells were transfected with Srebp2 promoter reporter, Srebp2 expression or control plasmids, tsRNA-Glu-CTC ASO or control ASO ( n = 3, mean ± SEM, one-way ANOVA, Bonferroni multiple-comparison test). o HepG2 cells were transfected with Srebp2 promoter reporter plasmids, tsRNA-Glu-CTC oligonucleotides or control oligonucleotides, control shRNAs or two different shRNAs targeting Srebp2 together with CMX- β-Galactosidase plasmids ( n = 4, mean ± SEM, one-way ANOVA, Bonferroni multiple-comparison test). For e , g , h ,and i the images were created with BioRender.com.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2504/12706008/9d896eb9921b/41467_2025_67387_Fig6_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41398161_41467_2025_67387_Fig6_HTML.jpg"
+  },
+  {
+    "pmid": "41398161",
+    "html": "41398161_PMC12706008.html",
+    "fig_id": "Fig7",
+    "title": "Fig. 7. tsRNA-Glu-CTC antisense oligonucleotides protects Ldl receptor -deficient mice from diet-induced hypercholesterolemia and atherosclerosis.",
+    "caption": "Seven-week-old male Ldl receptor -deficient ( Ldlr -/- ) mice were treated with tsRNA-Glu-CTC antisense oligonucleotides (ASO) or control ASO twice per week for 7 weeks. The mice were maintained on a normal chow diet (ND) or switched to a high-cholesterol diet (HCD) starting at 8-week-old age. a The schematic of tsRNA-Glu-CTC ASO treatment experiment. Created in BioRender. Zhou, C. ( https://BioRender.com/rj9jwzr ). b – g Body weight ( n = 8,10,10) ( b ), representative photos of collected serum ( c ), serum total cholesterol ( n = 8,10,10) (left panel) and triglyceride ( n = 5,10,10) (right panel) levels ( d ), cholesterol levels of lipoprotein fractions (VLDL-C, LDL-C, and HDL-C) ( n = 8,10,10) ( e ), representative Oil-Red-O (top) and hematoxylin and eosin (bottom) stained liver sections (scale bar =100 μm) ( f ), and hepatic cholesterol ( n = 6,9,6) (left panel) and triglyceride ( n = 6,8,6) (right panel) contents ( g ) of Ldlr -/- mice treated with vehicle control, control ASO, or tsRNA-Glu-CTC ASO (data are shown as mean ± SEM, one-way ANOVA, Bonferroni multiple-comparison test). h Representative images of Oil-red-O-stained sections and quantitative analysis of the atherosclerotic lesion area at the aortic root of Ldlr -/- mice ( n = 7,8,8; mean ± SEM, one-way ANOVA, Bonferroni multiple-comparison test). i Correlation between serum total cholesterol levels and atherosclerotic lesion sizes in Ldlr -/- mice ( n = 16; Correlation was analyzed by Pearson correlation). j Representative images of immunofluorescence staining of CD68 (green) and α-smooth muscle actin (αSMA) (red) at the aortic root of Ldlr -/- mice (scale bar=200 µm). Quantitative analysis of staining area is displayed as indicated ( n = 6,6,6; mean ± SEM, one-way ANOVA, Bonferroni multiple-comparison test). k The expression levels of hepatic lipogenic genes of HCD-fed Ldlr -/- mice treated with tsRNA-Glu-CTC ASO or control ASO were analyzed by quantitative real-time PCR ( n = 6, mean ± SEM, two-tailed Student’s t-test). n represents the number of biological replicates (mice). VLDL-C very low-density lipoprotein cholesterol; LDL-C low density lipoprotein cholesterol; HDL-C high density lipoprotein cholesterol.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2504/12706008/7f6a702d05cf/41467_2025_67387_Fig7_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41398161_41467_2025_67387_Fig7_HTML.jpg"
+  },
+  {
+    "pmid": "41398161",
+    "html": "41398161_PMC12706008.html",
+    "fig_id": "Fig8",
+    "title": "Fig. 8. Circulating tsRNA-Glu-CTC levels are correlated with serum cholesterol levels in humans.",
+    "caption": "a Representative northern blot analysis of tsRNA-Glu-CTC expression in human liver, whole blood, blood clot, and serum portion (similar results were obtained in three independent experiments). b Characteristics of individual human subjects. c Whole blood collected from human subjects were separated into serum and blood clot parts. Northern blot analysis of tsRNA-Glu-CTC expression in blood clot contents of human subjects ( n = 17). d Correlation between relative tsRNA-Glu-CTC expression levels based on the densitometry analyses of northern blot bands (normalized to SYBR gold-stained RNA bands on urea PAGE) and serum cholesterol levels. The data values were shown next to the correlation panel. The correlation was analyzed by Pearson correlation ( n = 17). n represents the number of biological replicates.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2504/12706008/ad1d165ffff3/41467_2025_67387_Fig8_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41398161_41467_2025_67387_Fig8_HTML.jpg"
+  },
+  {
+    "pmid": "41398161",
+    "html": "41398161_PMC12706008.html",
+    "fig_id": "Fig9",
+    "title": "Fig. 9. Endogenous tsRNA-Glu-CTC with RNA modifications elicits more potent effects on circulating and hepatic cholesterol levels in mice.",
+    "caption": "Endogenous tsRNA-Glu-CTC was isolated from the liver of wild-type mice. a – c MLC-seq of untreated ( a ) or AlkB-treated ( b ) endogenous hepatic tsRNA-Glu-CTC. Computational isolation of mass spectrometry (MS) data for all ladder fragments derived from the endogenous tsRNA-Glu-CTC in both the 5´-and 3´-ladders out of the complex MS data of mixed samples with multiple distinct RNA strands. Identity, position, and stoichiometry of each modification are listed in the tables ( a and b ) and tsRNA-Glu-CTC picture ( c ). mG: methylguanidine; D: dihydrouridine. MLC-seq associated data are included in Supplementary Data 1 . d – i Eight-week-old male wild-type mice were treated with vehicle control (Vehicle), 0.006 mg/kg body weight of control oligonucleotides (Control Oligo), synthetic 30-nt tsRNA-Glu-CTC oligonucleotides (tsRNA-Glu-CTC Oligo-1), endogenous total small RNAs isolated from mouse liver (Endo-Control), or endogenous tsRNA-Glu-CTC isolated from mouse liver by intraperitoneal injection once every two days for two weeks before euthanasia. The schematic of endogenous tsRNA-Glu-CTC treatment experimental design ( d ). Created in BioRender. Zhou, C. ( https://BioRender.com/ma7fndc ). Body weight ( n = 7,7,11,11,12) ( e ), serum total cholesterol ( n = 6,6,7,12,12) (left panel) and triglyceride ( n = 5,7,8,6,6) (right panel) ( f ), cholesterol levels of lipoprotein fractions including VLDL-C, LDL-C, and HDL-C) ( n = 5,6,6,7,8) ( g ), representative Oil-Red-O (top) and hematoxylin and eosin (bottom) stained liver sections (scale bar =100 μm) ( h ), and hepatic cholesterol (top panel) and triglyceride (bottom panel) contents ( n = 5,5,5,5,6) ( i ) of treated mice. For e , f , g , and i , data are shown as mean ± SEM (one-way ANOVA, Bonferroni multiple-comparison test). j The expression levels of hepatic lipogenic genes of mice treated with Endo-Control or Endo-tsRNA-Glu-CTC were analyzed by quantitative real-time PCR ( n = 5, mean ± SEM, two-tailed Student’s t-test). k Western blot analysis of hepatic SREBP2 (pSREBP2 and nSREBP2), PCSK9, and HMGCR protein levels. Densitometry analysis of western blot bands (normalized to GAPDH) was shown below western blot panels ( n = 5, mean ± SEM, two-tailed Student’s t-test). For e – k n represents the number of biological replicates (mice). VLDL-C very low-density lipoprotein cholesterol; LDL-C low density lipoprotein cholesterol; HDL-C high density lipoprotein cholesterol.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2504/12706008/e8e2c8feb10e/41467_2025_67387_Fig9_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41398161_41467_2025_67387_Fig9_HTML.jpg"
+  },
+  {
+    "pmid": "41398161",
+    "html": "41398161_PMC12706008.html",
+    "fig_id": "Fig10",
+    "title": "Fig. 10. Schematic of the function of tsRNA-Glu-CTC in regulating lipid homeostasis and atherosclerosis development.",
+    "caption": "tsRNA-Glu-CTC, the most abundant hepatic tsRNA, is identified as a cholesterol-responsive tsRNA. tsRNA-Glu-CTC can regulate the expression of key hepatic lipogenic genes including Srebp2 , a master regulator of lipid metabolism. tsRNA-Glu-CTC interacts with SREBP2 to regulate its own transcription through an E-box motif of Srebp2 promoter. Knockdown of tsRNA-Glu-CTC suppresses the expression of Srebp2 and other lipogenic genes, leading to protective effects against diet-induced hypercholesterolemia and atherosclerosis. Created in BioRender. Zhou, C. ( https://BioRender.com/ml9ngwr ).",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2504/12706008/8c61b1a7c799/41467_2025_67387_Fig10_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41398161_41467_2025_67387_Fig10_HTML.jpg"
+  },
+  {
+    "pmid": "41611679",
+    "html": "41611679_PMC12957315.html",
+    "fig_id": "Fig1",
+    "title": "Fig. 1. ALKB-1 demethylase impairment causes PME delay.",
+    "caption": "a mptDf1 mtDNA-based PCR assays to monitor persistent mptDf1 paternal mtDNA in several stage cross-fertilized embryos from mating of mptDf1/+; him-5 (e1467) males with wild-type N2 hermaphrodites under empty vector or alkb-1 RNAi conditions. M, DNA marker. b Validation of RNAi-mediated knockdown by qPCR ( n = 9 biologically independent samples). EV, empty vector. c Representative differential interference contrast (DIC) and MTR-stained paternal mitochondrial images of the 32- and 64-cell stage cross-fertilized embryos from mating of MTR-stained N2 males with hermaphrodites under empty vector (EV) or alkb-1 RNAi conditions, with scale bars of 10 μm. d Quantification of the number of MTR-labeled mitochondrial clusters in the 32- and 64-cell stage cross-fertilized embryos from mating of MTR-stained N2 males with hermaphrodites under EV or alkb-1 RNAi conditions. n = 11 (EV, 32- and 64-cell), n = 15 ( alkb-1 RNAi, 32- and 64-cell). e Protein sequence alignment between C. elegans ALKB-1 and vertebrate ALKBH1. Yellow circle, the conserved ion-coordinating residues. f Schematic diagram showing the mutation site of alkb-1 D247A enzyme mutant. g mptDf1 mtDNA-based PCR assays to monitor persistent mptDf1 paternal mtDNA in several stage cross-fertilized embryos from the indicated crosses. M, DNA marker. h , j Representative DIC and MTR-stained paternal mitochondrial images of the 32- and 64-cell stage embryos from cross-fertilization of the indicated strain males (stained by MTR) with hermaphrodites, with scale bars of 10 μm. i , k Quantification of the number of MTR-labeled mitochondrial clusters in the 32- and 64-cell stage embryos from cross-fertilization of the indicated strain males (stained by MTR) with hermaphrodites in ( h ) and ( j ), respectively. In ( i ), n = 14 (N2, 32-cell), n = 12 (N2, 64-cell), n = 15 ( alkb-1 D247A , 32- and 64-cell), n = 14 ( alkb-1 D247A ; tbb-2p ::ALKB-1, 32-cell), n = 11 ( alkb-1 D247A ; tbb-2p ::ALKB-1, 64-cell). In ( k ), n = 14 (N2, 32-cell), n = 12 (N2, 64-cell), n = 20 ( alkb-1 D247A , 32-cell), n = 18 ( alkb-1 D247A , 64-cell), n = 15 ( alkb-1 D247A males × N2 hermaphrodites, 32-cell), n = 14 ( alkb-1 D247A males × N2 hermaphrodites, 64-cell), n = 14 (N2 males × alkb-1 D247A hermaphrodites, 32- and 64-cell). In ( d , i , k ), embryos were derived from 3 to 5 independent biological crosses per condition. The experiment was performed twice with similar results. Data were presented as mean ± SD. p -values were determined by unpaired two-tailed t -test ( b, d ), and Ordinary one-way analysis of variance (ANOVA) with Tukey’s multiple comparisons test ( i , k ). Source data are provided as a Source data file.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6cdd/12957315/5c533b560633/41467_2026_68813_Fig1_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41611679_41467_2026_68813_Fig1_HTML.jpg"
+  },
+  {
+    "pmid": "41611679",
+    "html": "41611679_PMC12957315.html",
+    "fig_id": "Fig2",
+    "title": "Fig. 2. ALKB-1 inactivation leads to tRNA m 1 A elevation and mitochondrial proteostasis disruption.",
+    "caption": "a Workflow for isolating and extracting tRNA from N2 and alkb-1 D247A worms for tRNA modification analyses using LC-MS. b Quantification of the tRNA m 1 A modifications in N2 and alkb-1 D247A worms using LC-MS ( n = 2). Dot blot ( c ) and quantification ( d ) of tRNA m 1 A levels from N2 and alkb-1 D247A worms ( n = 3). tRNA loading was detected using methylene blue (Meth-Blue), and m 1 A levels were quantified using an m 1 A antibody (D345-3, MBJ Life Science). e Heatmap of cluster analysis for differentially modified m 1 A tRNAs in N2 vs alkb-1 D247A worms from tRNA m 1 A seq analysis. |ΔScore | > 0.05. GSEA plots showing the Oxidative phosphorylation (OXPHOS) ( f ) and TCA cycle ( g ) pathways from RNC-seq data. h Principal component analysis (PCA) of proteins from N2 and alkb-1 D247A worms. i Heatmap of cluster analysis for differentially expressed proteins in N2 vs alkb-1 D247A worms from proteomics analysis. j Volcano plot of differentially expressed proteins in alkb-1 D247A worms compared with N2 worms, including 121 upregulated and 47 downregulated proteins. MRPL-13 (deep blue circle) and 15 other proteins (deep red circle) were identified as significantly dysregulated proteins with mitochondrial localization. In ( f , g ), differential expression analysis was performed using the DESeq2 Wald test (two-sided), p -values were adjusted for multiple testing using the Benjamini–Hochberg false discovery rate (FDR) method. In ( j ), Fisher’s exact test was used to analyze the significance of functional enrichment of differentially expressed proteins. Functional terms with Fold enrichment >1.3 and p -values < 0.05 were considered as significant. FDR was adjusted to <1%. Data were represented as mean ± SD. p -values were determined by an unpaired two-tailed t -test ( b , d ). Source data are provided as a Source data file.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6cdd/12957315/94bad6dfb39b/41467_2026_68813_Fig2_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41611679_41467_2026_68813_Fig2_HTML.jpg"
+  },
+  {
+    "pmid": "41611679",
+    "html": "41611679_PMC12957315.html",
+    "fig_id": "Fig3",
+    "title": "Fig. 3. ALKB-1 inactivation-induces PME delay, mediated by UPR mt activation and mtDNA amplification.",
+    "caption": "Representative bright-field and GFP fluorescence images ( a ) and quantification ( b ) of the hsp-6p::gfp reporter in wild-type and alkb-1 D247A males treated with control or atfs-1 RNAi ( n = 30 per group), with scale bars of 100 μm. The experiment was performed three times with similar results. c , e Representative DIC and MTR-stained paternal mitochondrial images of the 32- and 64-cell stage cross-fertilized embryos from the indicated crosses with scale bars of 10 μm. d , f Quantification of the number of MTR-labeled mitochondrial clusters in ( c , e ), respectively. In ( d ), n = 19 (N2, 32-cell), n = 15 (N2, 64-cell), n = 23 ( alkb-1 D247A , 32-cell), n = 19 ( alkb-1 D247A , 64-cell), n = 22 ( alkb-1 D247A ;atfs-1 , 32-cell), n = 18 ( alkb-1 D247A ;atfs-1 , 64-cell), n = 22 ( alkb-1 D247A ;atfs-1 males × alkb-1 D247A hermaphrodites, 32-cell), n = 14 ( alkb-1 D247A ;atfs-1 males × alkb-1 D247A hermaphrodites, 64-cell), n = 21 ( alkb-1 D247A males × alkb-1 D247A ;atfs-1 hermaphrodites, 32-cell), n = 17 ( alkb-1 D247A males × alkb-1 D247A ;atfs-1 hermaphrodites, 64-cell). In ( f ), n = 16 (N2, 32-cell), n = 15 (N2, 64-cell), n = 15 ( alkb-1 D247A , 32- and 64-cell), n = 14 ( alkb-1 D247A ;dve-1 , 32- and 64-cell), n = 14 ( alkb-1 D247A ;lin-65 , 32-cell), n = 13 ( alkb-1 D247A ;lin-65 , 64-cell), n = 13 ( alkb-1 D247A ;ubl-5 , 32- and 64-cell). g Schematic diagram illustrating the relationship among LONP-1, mitochondrial ATFS-1 accumulation, and mtDNA replication. h Western blot analyses showing the accumulation of mitochondrial ATFS-1 in atfs-1p::atfs-1::TY1::egfp::3×flag worms treated with control, alkb-1 , cco-1 , and lonp-1 RNAi. cco-1 and lonp-1 RNAi served as the positive control, and N2 worms were used as the negative control. n = 3 biological repeats. i Quantification of the levels of total mtDNA in both N2 and alkb-1 D247A , including males and early embryos (eggs) ( n = 9 biologically independent samples). j Quantification of the levels of total mtDNA in males of both N2 and alkb-1 D247A treated with control or atfs-1 RNAi ( n = 9 biologically independent samples). In ( d, f ), embryos were derived from 3 to 5 independent biological crosses per condition. The experiment was performed twice with similar results. Data were represented as mean ± SD. p -values were determined by Ordinary one-way ANOVA with Tukey’s multiple comparisons test ( b , d , f , j ), and unpaired two-tailed t -test ( i ). Source data are provided as a Source data file.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6cdd/12957315/0dfc166b0e0a/41467_2026_68813_Fig3_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41611679_41467_2026_68813_Fig3_HTML.jpg"
+  },
+  {
+    "pmid": "41611679",
+    "html": "41611679_PMC12957315.html",
+    "fig_id": "Fig4",
+    "title": "Fig. 4. ALKB inactivation induces PME delay that depends on ROS generation and SKN-1 activation.",
+    "caption": "a Quantification of relative intracellular ROS fluorescence intensity in N2 and alkb-1 D247A hermaphrodites (Top) and males (Bottom). N2 hermaphrodites treated with 5 mM NAC and 1 mM paraquat (Para) served as negative and positive controls ( n = 30 per group), respectively. The experiment was performed three times with similar results. b , d Representative DIC and MTR-stained images of paternal mitochondrial in the 32- and 64-cell stage embryos from cross-fertilization of the indicated strain males (stained by MTR) with hermaphrodites under the indicated treatment, with scale bars of 10 μm. c , e Quantification of the number of MTR-labeled mitochondrial clusters in ( b , d ) ( n = 12 per group). Representative images ( f , h ) and corresponding quantification ( g , i ) of ges-1p ::mitoGFP fluorescence were shown for hermaphrodites ( f , g ) or males ( h, i ) under the indicated condition ( n = 30 per group), with scale bars of 50 μm. In ( b , d ), embryos were derived from 3 to 5 independent biological crosses per condition. The experiment was performed twice with similar results. Data were represented as mean ± SD. p -values were determined by unpaired two-tailed t -test ( a -Bottom), and Ordinary one-way ANOVA with Tukey’s multiple comparisons test ( a -Top), ( c , e , g , i ). Source data are provided as a Source Data file.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6cdd/12957315/b7c8616871c4/41467_2026_68813_Fig4_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41611679_41467_2026_68813_Fig4_HTML.jpg"
+  },
+  {
+    "pmid": "41611679",
+    "html": "41611679_PMC12957315.html",
+    "fig_id": "Fig5",
+    "title": "Fig. 5. Epistasis analysis of SKN-1 and ATFS-1 in PME delay induced by alkb-1 inactivation.",
+    "caption": "a Representative DIC and MTR-stained images of paternal mitochondrial in the 32- and 64-cell stage embryos from cross-fertilization of the indicated strain males (stained by MTR) with hermaphrodites under the indicated treatment, with scale bars of 10 μm. b Quantification of the number of MTR-labeled mitochondrial clusters in ( a ). n = 12 (N2, 32- and 64-cell), n = 21 ( alkb-1 D247A , 32- and 64-cell), n = 22 ( alkb-1 D247A ; skn-1 RNAi, 32-cell), n = 18 ( alkb-1 D247A ; skn-1 RNAi, 64-cell), n = 12 ( alkb-1 D247A ; atfs-1(et17); skn-1 RNAi, 32- and 64-cell). c Representative images (Left) and quantification (Right) of the hsp-6p::gfp reporter in wild-type, alkb-1 D247A , and alkb-1 D247A worms treated with 5 mM NAC or 1 mM PQQ ( n = 50 per group), with scale bars of 100 μm. d Representative images (Left) and quantification (Right) of the hsp-6p::gfp reporter in wild-type and alkb-1 D247A worms exposed to control RNAi, atfs-1 RNAi, skn-1 RNAi, or atfs-1 and skn-1 double RNAi ( n = 30 per group), with scale bars of 100 μm. The experiment was performed three times with similar results. e Representative images (Top) and quantification (Bottom) of ges-1p ::mitoGFP fluorescence in wild-type, alkb-1 D247A , and alkb-1 D247A treated with 5 mM NAC or 1 mM PQQ ( n = 60 per group), with scale bars of 50 μm. f Representative images (Left) and quantification (Right) of the ges-1p ::mitoGFP fluorescence in wild-type worms treated with control RNAi ( n = 50), or alkb-1 D247A worms treated with control RNAi ( n = 56), atfs-1 RNAi ( n = 59), skn-1 RNAi ( n = 60), or atfs-1 and skn-1 double RNAi ( n = 60), with scale bars of 50 μm. The experiment was performed three times with similar results. Quantification of ges-1p ::mitoGFP fluorescence in the skn-1 RNAi group is also presented in Fig. 4i . g Quantification of total mtDNA levels in wild-type and alkb-1 D247A males treated with control RNAi, atfs-1 RNAi, skn-1 RNAi, or a combination of atfs-1 and skn-1 double RNAi ( n = 9 biologically independent samples). Quantification of total mtDNA levels in the atfs-1 RNAi group is also presented in Fig. 3j . In ( b ), embryos were derived from 3 to 5 independent biological crosses per condition. The experiment was performed twice with similar results. Data were represented as mean ± SD. p -values were determined by Ordinary one-way ANOVA with Tukey’s multiple comparisons test ( b – g ). Source data are provided as a Source data file.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6cdd/12957315/358b7cd830f4/41467_2026_68813_Fig5_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41611679_41467_2026_68813_Fig5_HTML.jpg"
+  },
+  {
+    "pmid": "41611679",
+    "html": "41611679_PMC12957315.html",
+    "fig_id": "Fig6",
+    "title": "Fig. 6. ALKB-1 inactivation impacts sperm fertility and embryo viability.",
+    "caption": "The average daily cross progeny production ( a ) and the total number of cross progeny ( b ) produced by mating of him-5 (e1467) or alkb-1 D247A ; him- 5(e1467) males with N2 hermaphrodites. n = 45 ( him-5 (e1467) males × N2 hermaphrodites), n = 38 ( alkb-1 D247A ; him- 5(e1467) males × N2 hermaphrodites). The experiment was performed twice with similar results. c Quantification of embryonic lethality in N2 and alkb-1 D247A mutants ( n = 9). d Schematic model depicting the regulation of PME by the demethylase ALKB-1. Data were represented as mean ± SD. p -values were determined by an unpaired two-tailed t-test ( b, c ). Source data are provided as a Source data file.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6cdd/12957315/e8470a197380/41467_2026_68813_Fig6_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41611679_41467_2026_68813_Fig6_HTML.jpg"
+  },
+  {
+    "pmid": "41714626",
+    "html": "41714626_PMC13031925.html",
+    "fig_id": "Fig1",
+    "title": "Fig. 1. Relative Synonymous Codon Usage (RSCU) analysis of coronavirus sequences.",
+    "caption": "A , B RSCU analysis of coding sequences of key genes from Alphacoronavirus and Betacoronavirus and of Homo sapiens . The coronavirus genes included ORF1ab, spike, envelope, membrane protein, and nucleocapsid genes, concatenating these sequences in the aforementioned order. Genes such as 3a/b, 4, and 7b were excluded from the study due to annotation inconsistencies. The RSCUs were grouped by their respective hosts. C RSCU analysis of human-infecting coronaviruses. D RSCU of human-infecting coronaviruses organized by synonymous codons. Codons that are modified either by I (yellow star), Q (triangle) mcm 5 U/mcm 5 s 2 U (orange star) or m 5 C (green circle) are indicated. E – H Graphical representation of I, Q, mcm 5 U/mcm 5 s 2 U and m 5 C modification pathways. Panels ( E – H ) were created in Biorender . Diez, J . ( 2026 ) https://BioRender.com/9crp7a7 .",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/17f7/13031925/35e14b4c59e9/41467_2026_69700_Fig1_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41714626_41467_2026_69700_Fig1_HTML.jpg"
+  },
+  {
+    "pmid": "41714626",
+    "html": "41714626_PMC13031925.html",
+    "fig_id": "Fig2",
+    "title": "Fig. 2. Coronaviruses trigger DNA Damage Response (DDR) and oxidative stress.",
+    "caption": "A , B Western blot analysis of DDR proteins yH2AX, ATM, ATR, pATM and pATR in SARS-CoV-2 infected Calu3 cells and HCoV-OC43 infected MRC5 cells at several hpi. Representative example of three independent replicates ( n = 3 where n denotes the number of biological replicates, as used throughout the manuscript). C , D Western blot analysis of p-p38 protein levels in SARS-CoV-2 infected Calu3 cells and HCoV-OC43 infected MRC5 cells at several hpi ( n = 3). Vinculin and GAPDH were used as loading controls.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/17f7/13031925/5bd0bb1fa218/41467_2026_69700_Fig2_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41714626_41467_2026_69700_Fig2_HTML.jpg"
+  },
+  {
+    "pmid": "41714626",
+    "html": "41714626_PMC13031925.html",
+    "fig_id": "Fig3",
+    "title": "Fig. 3. LC-MS/MS analysis of tRNA epitranscriptome landscapes under SARS-CoV-2 and HCoV-OC43 infection conditions.",
+    "caption": "A Heatmap showing log2 fold changes of tRNA modifications in SARS-CoV-2–infected Calu3 cells (MOI 3, 32 hpi) relative to non-infected cells, and in HCoV-OC43–infected MRC5 cells (MOI 0.1, 48 hpi) relative to non-infected cells, as measured by LC-MS/MS ( n = 3). Values represent the mean log2 fold change. Statistically significant modifications located in the anticodon loop are indicated by black stars, whereas significant modifications at other tRNA positions are indicated by yellow stars. Statistical significance was assessed using a two-sided, nonparametric Mann–Whitney U test (unpaired). B – D Statistical analysis of tRNA modifications shown in ( A ) was performed using a two-sided, nonparametric Mann–Whitney U test (unpaired; n = 3). Exact p -values are reported: Im, p = 0.0347 (SARS-CoV-2) and p = 0.0021 (HCoV-OC43); mcm⁵U, p = 0.0160 (SARS-CoV-2) and p = 0.0345 (HCoV-OC43); f⁵C, p = 0.0403 (SARS-CoV-2) and p = 0.0881 (HCoV-OC43). Data are presented as mean ± s.d. Individual data points are shown. E Schematic representation of the SARS-CoV-2 infection in the hamster model and quantification of mcm⁵U levels in hamster lungs by LC–MS/MS. Animals were infected with SARS-CoV-2 carrying the D614G mutation and stratified into all infected animals (yellow; n = 6) or highly infected animals (red; n = 2), based on viral load. Differences relative to mock-infected controls were assessed using a two-sided, nonparametric Mann–Whitney U test. Exact p -values are p = 0.0436 for all infected animals versus mock and p = 0.0010 for highly infected animals versus mock. Data are presented as mean ± s.d. Individual data points are shown. F Statistical analysis of ncm⁵U and queuosine (Q) modifications measured by LC–MS/MS in HCoV-OC43–infected cells compared to mock-infected controls. Measurements were performed at 48 hpi for ncm⁵U and at 72 hpifor Q ( n = 3). Differences between infected and mock-infected conditions were assessed using a two-sided, nonparametric Mann–Whitney U test. Exact p -values are p = 0.0292 for ncm⁵U and p = 0.0773 for Q. Data are presented as mean ± s.d. Individual data points are shown. G – J Western blot analysis of tRNA modifying enzymes (ADAT2, KIAA1456 (indicate by a star), ALKBH8 (indicate by a star), ALKBH1, NSUN2, QTRT1) associated with tRNA modifications in SARS-CoV-2 infected Calu3 cells (MOI 3; 0, 8, 24, 36, and 48 hpi) and HCoV-OC43 infected MRC5 cells (MOI 0.1; 0, 24, 48, and 72 hpi, n = 3) GAPDH and Vinculin have been used as loading controls. Panel ( E ) was created in Biorender. Diez, J. (2026) https://BioRender.com/24heq5e .",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/17f7/13031925/8119d5c4ac9d/41467_2026_69700_Fig3_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41714626_41467_2026_69700_Fig3_HTML.jpg"
+  },
+  {
+    "pmid": "41714626",
+    "html": "41714626_PMC13031925.html",
+    "fig_id": "Fig4",
+    "title": "Fig. 4. Functional impact of tRNA-modifying enzymes in coronavirus infection.",
+    "caption": "A – C Representative western blots showing siRNA-mediated knockdown of ELP3 (mcm⁵U/mcm⁵s ≤ U pathway), QTRT1 (Q pathway), and NSUN2 (m⁵C pathway) in HCoV-OC43–infected A549 cells (MOI 0.1). HCoV-OC43 N protein (NP) levels were measured by western blot at 48 hpi. A non-targeting siRNA (siRNA-scr) was used as a control. D – F Quantification of ELP3, QTRT1, NSUN2, and viral NP protein levels in siRNA-treated cells relative to non-targeting siRNA (scr) controls. Vinculin and GAPDH were used as loading controls. Measurements were obtained from independent biological replicates ( n = 4 for panel D; n = 2 for panels E and F ). Statistical significance was assessed using a two-sided, nonparametric Mann–Whitney U test (unpaired). D ELP3 levels: p = 0.003 for mock siRNA-scr vs mock siRNA-ELP3; p = 0.0137 for HCoV-OC43 siRNA-scr vs HCoV-OC43 siRNA-ELP3; NP levels: p = 0.0057 for HCoV-OC43 siRNA-scr vs HCoV-OC43 siRNA-ELP3. E QTRT1 levels: p = 0.17 for mock siRNA-scr vs mock siRNA-QTRT1; p = 0.0724 for HCoV-OC43 siRNA-scr vs HCoV-OC43 siRNA-QTRT1; NP levels: p = 0.042 for HCoV-OC43 siRNA-scr vs HCoV-OC43 siRNA-QTRT1. F NSUN2 levels: p = 0.043 for mock siRNA-scr vs mock siRNA-NSUN2; p = 0.071 for HCoV-OC43 siRNA-scr vs HCoV-OC43 siRNA-NSUN2; NP levels: p = 0.91 for HCoV-OC43 siRNA-scr vs HCoV-OC43 siRNA-NSUN2. Data are presented as mean ± s.d. Individual data points are shown. G Plasmid-mediated overexpression (OVE) of ADAT2 (I pathway) and ALKBH1 (hm⁵C/f⁵C pathway) in HCoV-OC43 (MOI 0.1) infected A549 cells. HCoV-OC43 NP levels was measured by western blot at 48 hpi. Empty vector transfection (pcDNA3) was used as a control. Vinculin was used as loading control. H Quantification of viral NP protein levels from independent biological replicates in plasmid-transfected cells relative to empty vector–transfected controls. Statistical significance was assessed using a two-sided, nonparametric Mann–Whitney U test (unpaired; n = 4). Exact p-values are p < 0.0001 for HCoV-OC43–empty vs HCoV-OC43–ADAT2 overexpression (OVE) and p < 0.0001 for HCoV-OC43–empty vs HCoV-OC43–ALKBH1 overexpression (OVE). Data are presented as mean ± s.d. Individual data points are shown.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/17f7/13031925/1919bac69044/41467_2026_69700_Fig4_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41714626_41467_2026_69700_Fig4_HTML.jpg"
+  },
+  {
+    "pmid": "41714626",
+    "html": "41714626_PMC13031925.html",
+    "fig_id": "Fig5",
+    "title": "Fig. 5. RSCU analysis of tRNA modifying enzymes.",
+    "caption": "RSCU analysis of CDS of tRNA-modifying enzymes compared to HCoV-OC43 and SARS-CoV-2. A RSCU analysis of U-ending codons whose corresponding tRNAs can be modified by I in coronaviruses, along with the inosine writer enzymes ADAT2 and ADAT3. B RSCU analysis of C-ending codons that are favored by I modification. C RSCU analysis of U-ending codons that are favored by Q modification in coronaviruses, along with the Q writer enzymes QTRT1 and QTRT2. D RSCU analysis of A-ending codons that are favored by mcm 5 U/mcm 5 s 2 U modification in coronaviruses, along with the mcm 5 U writer enzymes KIAA1456 and ALKHB8, as well as DNA-damage response proteins. E RSCU analysis of the Leu-UUG codon in coronaviruses, along with oxidative stress response proteins and NSUN2 and NSUN3 writers enzymes.",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/17f7/13031925/484a49812393/41467_2026_69700_Fig5_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41714626_41467_2026_69700_Fig5_HTML.jpg"
+  },
+  {
+    "pmid": "41714626",
+    "html": "41714626_PMC13031925.html",
+    "fig_id": "Fig6",
+    "title": "Fig. 6. SARS-CoV-2 infection triggers a decrease of type II tRNA transcripts.",
+    "caption": "A Differential expression analysis of unique tRNA transcripts in SARS-CoV-2–infected Calu3 cells at 32 hpi relative to mock-infected cells. Axes represent log-transformed normalized read counts obtained using DESeq2. Significantly downregulated and upregulated tRNAs in infected cells are indicated by closed purple and green triangles, respectively, based on an FDR-adjusted one-sided Wald test (FDR ≤ 0.01; n = 2). B Differential expression analysis as in ( A ), performed on counts aggregated at the tRNA anticodon family level. C , D Summary of differential expression results for SARS-CoV-2–infected Calu3 cells relative to mock-infected controls, corresponding to panels ( A ) and ( B ). Bar plots show log2 fold changes, and numbers indicate the total counts of significantly upregulated (green) and downregulated (purple) tRNAs ( n = 2). E Differential expression analysis of unique tRNA transcripts in HCoV-OC43–infected MRC5 cells at 48 hpi relative to mock-infected cells. Axes represent log-transformed normalized read counts from DESeq2, with significantly downregulated and upregulated tRNAs indicated by closed purple and green triangles, respectively, based on an FDR-adjusted one-sided Wald test (FDR ≤ 0.01; n = 3). F Differential expression analysis as in ( E ), performed on counts aggregated at the tRNA anticodon family level. G Graphical representation of tRNA modifications showing significant changes in SARS-CoV-2–infected Calu3 cells (MOI 3, 32 hpi; n = 2) relative to mock-infected controls and in HCoV-OC43–infected MRC5 cells (MOI 0.1, 48 hpi; n = 3) relative to mock-infected controls, as determined by mim-tRNAseq. Panel ( G ) was created in Biorender. Diez, J. (2026) https://BioRender.com/1xtg83d .",
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/17f7/13031925/d93ef41fbf7f/41467_2026_69700_Fig6_HTML.jpg",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\figures_all\\41714626_41467_2026_69700_Fig6_HTML.jpg"
+  }
+]

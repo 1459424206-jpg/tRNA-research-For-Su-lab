@@ -1,0 +1,98 @@
+[
+  {
+    "name": "junchaoshi/sports1.1",
+    "description": "Small non-coding RNA annotation Pipeline Optimized for rRNA- and tRNA-Derived Small RNAs",
+    "url": "https://github.com/junchaoshi/sports1.1",
+    "stars": 57,
+    "forks": 16,
+    "language": "Perl",
+    "updated_at": "2026-05-20T12:32:20Z",
+    "pushed_at": "2026-01-09T07:02:20Z",
+    "license": "GPL-3.0",
+    "topics": "mirna, modification, pirna, rna-seq-analysis, rna-seq-mapping, rrna-derived-small-rna, rsrna, small-rna, trf, trna-derived-small-rna, trna-fragment, trna-halves, tsrna"
+  },
+  {
+    "name": "nedialkova-lab/mim-tRNAseq",
+    "description": "Modification-induced misincorporation tRNA sequencing",
+    "url": "https://github.com/nedialkova-lab/mim-tRNAseq",
+    "stars": 24,
+    "forks": 18,
+    "language": "Scheme",
+    "updated_at": "2026-04-29T07:30:44Z",
+    "pushed_at": "2026-04-29T07:30:39Z",
+    "license": "GPL-3.0",
+    "topics": ""
+  },
+  {
+    "name": "rnabioco/tRNA004",
+    "description": "Nanopore direct tRNA sequencing method refinement and RNA modification benchmarking",
+    "url": "https://github.com/rnabioco/tRNA004",
+    "stars": 8,
+    "forks": 1,
+    "language": "Python",
+    "updated_at": "2025-12-02T13:46:48Z",
+    "pushed_at": "2024-07-30T15:33:54Z",
+    "license": "",
+    "topics": "directrna, nanopore, nanopore-sequencing, rna-modifications, rnaseq, trna, trnaseq"
+  },
+  {
+    "name": "rnabioinfor/TRAC-Seq",
+    "description": "Single-nucleotide resolution profiling of m7G tRNA modifications ",
+    "url": "https://github.com/rnabioinfor/TRAC-Seq",
+    "stars": 5,
+    "forks": 0,
+    "language": "HTML",
+    "updated_at": "2024-04-29T07:40:55Z",
+    "pushed_at": "2019-05-18T23:44:09Z",
+    "license": "",
+    "topics": ""
+  },
+  {
+    "name": "jfallmann/tRNA_ngs_mod_map_call_galaxy",
+    "description": "Tool collection for identification of tRNA modifications from NGS data galaxy workflow",
+    "url": "https://github.com/jfallmann/tRNA_ngs_mod_map_call_galaxy",
+    "stars": 3,
+    "forks": 1,
+    "language": "",
+    "updated_at": "2024-06-09T18:47:45Z",
+    "pushed_at": "2017-08-04T08:22:16Z",
+    "license": "GPL-3.0",
+    "topics": ""
+  },
+  {
+    "name": "monimaanam/Modomics_Decoder",
+    "description": "Annotates modomics RNA sequences for easy viewing of RNA modifications and nucleotide positions.",
+    "url": "https://github.com/monimaanam/Modomics_Decoder",
+    "stars": 1,
+    "forks": 1,
+    "language": "Python",
+    "updated_at": "2024-06-09T19:02:47Z",
+    "pushed_at": "2023-12-16T16:30:29Z",
+    "license": "",
+    "topics": "epitranscriptomics, first-contributions, modomics, practice-project, rna, rna-modifications, rna-sequence"
+  },
+  {
+    "name": "AteeshaNegi/nanopore-2Read-trna-pipeline",
+    "description": "Oxford Nanopore 2-Read Genome Wide tRNA Modification Analysis Pipeline - RNA Epitranscriptomics",
+    "url": "https://github.com/AteeshaNegi/nanopore-2Read-trna-pipeline",
+    "stars": 0,
+    "forks": 0,
+    "language": "",
+    "updated_at": "2026-03-10T03:08:29Z",
+    "pushed_at": "2026-03-10T03:08:26Z",
+    "license": "",
+    "topics": ""
+  },
+  {
+    "name": "FlorianPichot/tRNA_reference_construction",
+    "description": "",
+    "url": "https://github.com/FlorianPichot/tRNA_reference_construction",
+    "stars": 0,
+    "forks": 0,
+    "language": "R",
+    "updated_at": "2020-12-10T09:49:52Z",
+    "pushed_at": "2020-12-10T09:49:50Z",
+    "license": "",
+    "topics": ""
+  }
+]

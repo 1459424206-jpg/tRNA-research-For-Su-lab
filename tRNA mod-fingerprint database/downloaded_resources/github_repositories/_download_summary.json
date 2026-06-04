@@ -1,0 +1,46 @@
+[
+  {
+    "name": "junchaoshi/sports1.1",
+    "error": "<HTTPError 403: 'rate limit exceeded'>",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\github_repositories\\junchaoshi__sports1.1"
+  },
+  {
+    "name": "nedialkova-lab/mim-tRNAseq",
+    "error": "<HTTPError 403: 'rate limit exceeded'>",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\github_repositories\\nedialkova-lab__mim-tRNAseq"
+  },
+  {
+    "name": "rnabioco/tRNA004",
+    "error": "<HTTPError 403: 'rate limit exceeded'>",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\github_repositories\\rnabioco__tRNA004"
+  },
+  {
+    "name": "rnabioinfor/TRAC-Seq",
+    "error": "<HTTPError 403: 'rate limit exceeded'>",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\github_repositories\\rnabioinfor__TRAC-Seq"
+  },
+  {
+    "name": "jfallmann/tRNA_ngs_mod_map_call_galaxy",
+    "default_branch": "master",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\github_repositories\\jfallmann__tRNA_ngs_mod_map_call_galaxy",
+    "api_description": "Tool collection for identification of tRNA modifications from NGS data galaxy workflow",
+    "homepage": null,
+    "updated_at": "2024-06-09T18:47:45Z",
+    "pushed_at": "2017-08-04T08:22:16Z"
+  },
+  {
+    "name": "monimaanam/Modomics_Decoder",
+    "error": "<HTTPError 403: 'rate limit exceeded'>",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\github_repositories\\monimaanam__Modomics_Decoder"
+  },
+  {
+    "name": "AteeshaNegi/nanopore-2Read-trna-pipeline",
+    "error": "<HTTPError 403: 'rate limit exceeded'>",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\github_repositories\\AteeshaNegi__nanopore-2Read-trna-pipeline"
+  },
+  {
+    "name": "FlorianPichot/tRNA_reference_construction",
+    "error": "<HTTPError 403: 'rate limit exceeded'>",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\github_repositories\\FlorianPichot__tRNA_reference_construction"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "junchaoshi/sports1.1",
+    "branch": "master",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\github_repositories\\junchaoshi__sports1.1",
+    "status": "downloaded"
+  },
+  {
+    "name": "nedialkova-lab/mim-tRNAseq",
+    "status": "failed",
+    "error": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+    "name": "rnabioco/tRNA004",
+    "status": "failed",
+    "error": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+    "name": "rnabioinfor/TRAC-Seq",
+    "branch": "master",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\github_repositories\\rnabioinfor__TRAC-Seq",
+    "status": "downloaded"
+  },
+  {
+    "name": "jfallmann/tRNA_ngs_mod_map_call_galaxy",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\github_repositories\\jfallmann__tRNA_ngs_mod_map_call_galaxy",
+    "status": "exists"
+  },
+  {
+    "name": "monimaanam/Modomics_Decoder",
+    "branch": "master",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\github_repositories\\monimaanam__Modomics_Decoder",
+    "status": "downloaded"
+  },
+  {
+    "name": "AteeshaNegi/nanopore-2Read-trna-pipeline",
+    "branch": "main",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\github_repositories\\AteeshaNegi__nanopore-2Read-trna-pipeline",
+    "status": "downloaded"
+  },
+  {
+    "name": "FlorianPichot/tRNA_reference_construction",
+    "branch": "main",
+    "path": "D:\\Project\\tRNA research\\tRNA mod-fingerprint database\\downloaded_resources\\github_repositories\\FlorianPichot__tRNA_reference_construction",
+    "status": "downloaded"
+  }
+]
