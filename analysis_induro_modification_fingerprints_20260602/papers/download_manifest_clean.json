@@ -1,0 +1,44 @@
+[
+  {
+    "file": "Nakano_2025_Induro_tRNAseq_NatCommun.pdf",
+    "url": "https://www.nature.com/articles/s41467-025-56348-1",
+    "status": "已下载PDF",
+    "bytes": 2854100,
+    "note": "Induro-tRNAseq 原始论文，已下载 PDF。"
+  },
+  {
+    "file": "Chen_2016_Science_sperm_tsRNAs.pdf",
+    "url": "https://qichen-lab.info/assets/2016_Science35385.pdf",
+    "status": "已下载PDF",
+    "bytes": 1378222,
+    "note": "精子 tsRNA 与代谢表型/早期胚胎影响，作者公开 PDF。"
+  },
+  {
+    "file": "Chen_Yan_Duan_2016_NRG_sperm_RNA_modifications.pdf",
+    "url": "https://qichen-lab.info/assets/2016_NRG_Chen_et.al.pdf",
+    "status": "已下载PDF",
+    "bytes": 1124640,
+    "note": "精子 RNA 修饰综述，作者公开 PDF。"
+  },
+  {
+    "file": "Conine_2018_DevCell_sperm_small_RNAs_embryo.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6103825/",
+    "status": "仅链接/未下载PDF",
+    "bytes": 0,
+    "note": "PMC 页面可读；未获得可直接下载 PDF。"
+  },
+  {
+    "file": "Sharma_2018_DevCell_epididymis_to_sperm_small_RNAs.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6103849/",
+    "status": "仅链接/未下载PDF",
+    "bytes": 0,
+    "note": "PMC 页面可读；未获得可直接下载 PDF。"
+  },
+  {
+    "file": "Liu_2016_Cell_ALKBH1_tRNA_m1A_translation.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5119773/",
+    "status": "仅链接/未下载PDF",
+    "bytes": 0,
+    "note": "PMC 页面可读；未获得可直接下载 PDF。"
+  }
+]

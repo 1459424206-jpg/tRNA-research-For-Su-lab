@@ -1,0 +1,38 @@
+﻿[
+    {
+        "file":  "Nakano_2025_Induro_tRNAseq_NatCommun.pdf",
+        "url":  "https://www.nature.com/articles/s41467-025-56348-1.pdf",
+        "status":  "downloaded_but_small_check",
+        "bytes":  3038
+    },
+    {
+        "file":  "Chen_2016_Science_sperm_tsRNAs.pdf",
+        "url":  "https://qichen-lab.info/assets/2016_Science35385.pdf",
+        "status":  "failed: 基础连接已经关闭: 未能为 SSL/TLS 安全通道建立信任关系。",
+        "bytes":  0
+    },
+    {
+        "file":  "Chen_Yan_Duan_2016_NRG_sperm_RNA_modifications.pdf",
+        "url":  "https://qichen-lab.info/assets/2016_NRG_Chen_et.al.pdf",
+        "status":  "failed: 基础连接已经关闭: 未能为 SSL/TLS 安全通道建立信任关系。",
+        "bytes":  0
+    },
+    {
+        "file":  "Conine_2018_DevCell_sperm_small_RNAs_embryo.pdf",
+        "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC6103825/pdf/nihms979039.pdf",
+        "status":  "downloaded_but_small_check",
+        "bytes":  1816
+    },
+    {
+        "file":  "Sharma_2018_DevCell_epididymis_to_sperm_small_RNAs.pdf",
+        "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC6103849/pdf/nihms979040.pdf",
+        "status":  "downloaded_but_small_check",
+        "bytes":  1817
+    },
+    {
+        "file":  "Liu_2016_Cell_ALKBH1_tRNA_m1A_translation.pdf",
+        "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC5119773/pdf/nihms821787.pdf",
+        "status":  "downloaded_but_small_check",
+        "bytes":  1817
+    }
+]

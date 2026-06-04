@@ -1,0 +1,138 @@
+{
+  "output": "D:\\Project\\tRNA research\\tRNA_embryo_sperm_cryo_literature_20260604\\tRNA_embryo_sperm_cryo_research_20260604.pptx",
+  "outputBytes": 62560,
+  "slideCount": 12,
+  "slideSize": {
+    "width": 1280,
+    "height": 720
+  },
+  "previewDir": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\preview",
+  "previewPaths": [
+    "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\preview\\slide-01.png",
+    "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\preview\\slide-02.png",
+    "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\preview\\slide-03.png",
+    "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\preview\\slide-04.png",
+    "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\preview\\slide-05.png",
+    "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\preview\\slide-06.png",
+    "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\preview\\slide-07.png",
+    "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\preview\\slide-08.png",
+    "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\preview\\slide-09.png",
+    "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\preview\\slide-10.png",
+    "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\preview\\slide-11.png",
+    "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\preview\\slide-12.png"
+  ],
+  "layoutDir": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\layout",
+  "layoutResults": [
+    {
+      "layoutPath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\layout\\slide-01.layout.json"
+    },
+    {
+      "layoutPath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\layout\\slide-02.layout.json"
+    },
+    {
+      "layoutPath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\layout\\slide-03.layout.json"
+    },
+    {
+      "layoutPath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\layout\\slide-04.layout.json"
+    },
+    {
+      "layoutPath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\layout\\slide-05.layout.json"
+    },
+    {
+      "layoutPath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\layout\\slide-06.layout.json"
+    },
+    {
+      "layoutPath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\layout\\slide-07.layout.json"
+    },
+    {
+      "layoutPath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\layout\\slide-08.layout.json"
+    },
+    {
+      "layoutPath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\layout\\slide-09.layout.json"
+    },
+    {
+      "layoutPath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\layout\\slide-10.layout.json"
+    },
+    {
+      "layoutPath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\layout\\slide-11.layout.json"
+    },
+    {
+      "layoutPath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\layout\\slide-12.layout.json"
+    }
+  ],
+  "contactSheet": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\contact_sheet.png",
+  "slides": [
+    {
+      "index": 1,
+      "requestedSlideNumber": 1,
+      "modulePath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\slides\\slide-01.mjs",
+      "exportName": "default"
+    },
+    {
+      "index": 2,
+      "requestedSlideNumber": 2,
+      "modulePath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\slides\\slide-02.mjs",
+      "exportName": "default"
+    },
+    {
+      "index": 3,
+      "requestedSlideNumber": 3,
+      "modulePath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\slides\\slide-03.mjs",
+      "exportName": "default"
+    },
+    {
+      "index": 4,
+      "requestedSlideNumber": 4,
+      "modulePath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\slides\\slide-04.mjs",
+      "exportName": "default"
+    },
+    {
+      "index": 5,
+      "requestedSlideNumber": 5,
+      "modulePath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\slides\\slide-05.mjs",
+      "exportName": "default"
+    },
+    {
+      "index": 6,
+      "requestedSlideNumber": 6,
+      "modulePath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\slides\\slide-06.mjs",
+      "exportName": "default"
+    },
+    {
+      "index": 7,
+      "requestedSlideNumber": 7,
+      "modulePath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\slides\\slide-07.mjs",
+      "exportName": "default"
+    },
+    {
+      "index": 8,
+      "requestedSlideNumber": 8,
+      "modulePath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\slides\\slide-08.mjs",
+      "exportName": "default"
+    },
+    {
+      "index": 9,
+      "requestedSlideNumber": 9,
+      "modulePath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\slides\\slide-09.mjs",
+      "exportName": "default"
+    },
+    {
+      "index": 10,
+      "requestedSlideNumber": 10,
+      "modulePath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\slides\\slide-10.mjs",
+      "exportName": "default"
+    },
+    {
+      "index": 11,
+      "requestedSlideNumber": 11,
+      "modulePath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\slides\\slide-11.mjs",
+      "exportName": "default"
+    },
+    {
+      "index": 12,
+      "requestedSlideNumber": 12,
+      "modulePath": "D:\\Project\\tRNA research\\outputs\\manual-20260604-trna-embryo-sperm\\presentations\\trna-embryo-sperm-cryo\\slides\\slide-12.mjs",
+      "exportName": "default"
+    }
+  ]
+}
