@@ -1,0 +1,7 @@
+﻿name,description,url,stars,forks,language,updated_at,pushed_at,license,topics
+UCSC-LoweLab/tRNAscan-SE,A program for detection of tRNA genes,https://github.com/UCSC-LoweLab/tRNAscan-SE,89,10,C,2026-04-26T23:55:31Z,2022-11-16T18:58:54Z,GPL-3.0,
+nedialkova-lab/mim-tRNAseq,Modification-induced misincorporation tRNA sequencing,https://github.com/nedialkova-lab/mim-tRNAseq,24,18,Scheme,2026-04-29T07:30:44Z,2026-04-29T07:30:39Z,GPL-3.0,
+merenlab/tRNA-seq-tools,,https://github.com/merenlab/tRNA-seq-tools,11,5,Python,2025-10-06T10:55:16Z,2019-08-06T14:58:29Z,GPL-3.0,
+rnabioco/tRNA004,Nanopore direct tRNA sequencing method refinement and RNA modification benchmarking,https://github.com/rnabioco/tRNA004,8,1,Python,2025-12-02T13:46:48Z,2024-07-30T15:33:54Z,,"directrna, nanopore, nanopore-sequencing, rna-modifications, rnaseq, trna, trnaseq"
+rnabioinfor/TRAC-Seq,Single-nucleotide resolution profiling of m7G tRNA modifications ,https://github.com/rnabioinfor/TRAC-Seq,5,0,HTML,2024-04-29T07:40:55Z,2019-05-18T23:44:09Z,,
+UCSC-LoweLab/tDRnamer,Standardized naming for tRNA-derived RNAs,https://github.com/UCSC-LoweLab/tDRnamer,2,0,Python,2024-10-16T03:49:08Z,2024-10-16T03:50:05Z,GPL-3.0,
