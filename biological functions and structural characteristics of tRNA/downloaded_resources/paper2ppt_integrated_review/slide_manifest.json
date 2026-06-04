@@ -1,0 +1,262 @@
+[
+  {
+    "title": "tRNA 的广谱生理功能与结构特征：从分子识别到早期胚胎发育",
+    "image": "D:\\Project\\tRNA research\\tRNA_structure_schematic_clean.png",
+    "source": null
+  },
+  {
+    "title": "文献构成与汇报模块",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_selection.png",
+    "source": null
+  },
+  {
+    "title": "总假说：tRNA 的结构信息层决定其广谱生理功能",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_central_hypothesis.png",
+    "source": null
+  },
+  {
+    "title": "文献精读 1｜DM-DMS-MaPseq：活细胞中的 tRNA structurome/interactome",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_structurome_logic.png",
+    "source": null
+  },
+  {
+    "title": "DM-DMS-MaPseq 的关键方法步骤",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_Structurome_Fig_1.jpg",
+    "source": null
+  },
+  {
+    "title": "体内 tRNA 图谱明显不同于体外折叠状态",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_Structurome_Fig_2.jpg",
+    "source": null
+  },
+  {
+    "title": "氧化应激会重排 tRNA 结构和互作，提示翻译程序可被 tRNA 层调节",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_Structurome_Fig_4.jpg",
+    "source": null
+  },
+  {
+    "title": "文献精读 2｜OB-fold：成熟 tRNA 的 3' CA 末端是可被蛋白读取的结构标志",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_obfold_logic.png",
+    "source": null
+  },
+  {
+    "title": "Trbp111-tRNA 共晶结构证明 3' 端捕获是核心识别模式",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_OBfold_Fig_2.jpg",
+    "source": null
+  },
+  {
+    "title": "突变和竞争实验把结构接触转化为功能证据",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_OBfold_Fig_3.jpg",
+    "source": null
+  },
+  {
+    "title": "文献精读 3｜METTL6-SerRS：tRNA 修饰酶如何选择正确底物",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_mettl6_logic.png",
+    "source": null
+  },
+  {
+    "title": "METTL6、SerRS 与 tRNASer 形成可解释底物选择的复合物",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_METTL6_Fig_1.jpg",
+    "source": null
+  },
+  {
+    "title": "反密码子臂重塑把 C32 送入可催化构象",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_METTL6_Fig_3.jpg",
+    "source": null
+  },
+  {
+    "title": "METTL6 活性中心把结构重塑转化为化学修饰",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_METTL6_Fig_4.jpg",
+    "source": null
+  },
+  {
+    "title": "文献精读 4｜Trl1：tRNA 剪接后的 exon halves 如何被精确连接",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_Trl1_Fig_1.jpg",
+    "source": null
+  },
+  {
+    "title": "CtTrl1-LIG-RNA 结构捕捉 activated RNA intermediate",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_Trl1_Fig_2.jpg",
+    "source": null
+  },
+  {
+    "title": "PYROXD1：tRNA ligase 复合物需要抗氧化保护",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_PYROXD1_Fig_1.jpg",
+    "source": null
+  },
+  {
+    "title": "PYROXD1 C 端尾部遮挡 RTCB 活性中心，实现可逆保护",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_PYROXD1_Fig_2.jpg",
+    "source": null
+  },
+  {
+    "title": "文献精读 5｜U34 氧化脱硫：tRNA 修饰把 stress 转换成翻译调控",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_Desulfuration_Fig_1.jpg",
+    "source": null
+  },
+  {
+    "title": "质谱证明细胞质和线粒体 tRNA 中存在脱硫产物",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_Desulfuration_Fig_3.jpg",
+    "source": null
+  },
+  {
+    "title": "cryo-EM 解释 U34 化学变化如何改变 AAA/AAG 解码",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_Desulfuration_Fig_7.jpg",
+    "source": null
+  },
+  {
+    "title": "文献精读 6｜Cas12a3：CRISPR 免疫可通过切 tRNA tail 关闭翻译",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_Cas12a3_Fig_2.jpg",
+    "source": null
+  },
+  {
+    "title": "Cas12a3 四元结构解释 tRNA 如何被装入 RuvC 活性位点",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_Cas12a3_Fig_3.jpg",
+    "source": null
+  },
+  {
+    "title": "PARIS：病毒 tRNA 变体可以反制宿主/卫星病毒防御系统",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_PARIS_Fig_5.jpg",
+    "source": null
+  },
+  {
+    "title": "vRNAP：tRNA 可作为大型转录-加工复合物的 assembly chaperone",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_vRNAP_Fig_3.jpg",
+    "source": null
+  },
+  {
+    "title": "vRNAP 中 tRNAGln 的非经典构象说明 tRNA 可被重塑成装配支架",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\local_vRNAP_Fig_5.jpg",
+    "source": null
+  },
+  {
+    "title": "发育专题 1｜tRNA-Phe gene copy number variation 会破坏哺乳动物发育",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\development_added_sources\\figures\\tRNA_Phe_CNV_mammalian_development_fig1.jpg",
+    "source": null
+  },
+  {
+    "title": "tRNA-Phe CNV 的核心假说：tRNA 供给量必须匹配 codon demand",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\development_added_sources\\figures\\tRNA_Phe_CNV_mammalian_development_fig2.jpg",
+    "source": null
+  },
+  {
+    "title": "tRNA gene dosage 影响 balanced translation，而不是只影响某个单一蛋白",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\development_added_sources\\figures\\tRNA_Phe_CNV_mammalian_development_fig5.jpg",
+    "source": null
+  },
+  {
+    "title": "发育专题 2｜zebrafish 早期胚胎发生中 tRNA repertoire 是动态变化的",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\development_added_sources\\figures\\zebrafish_tRNA_repertoire_2024_fig1.jpg",
+    "source": null
+  },
+  {
+    "title": "tRNA repertoires 与胚胎发育阶段相匹配",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\development_added_sources\\figures\\zebrafish_tRNA_repertoire_2024_fig3.jpg",
+    "source": null
+  },
+  {
+    "title": "tRNA availability 可能参与 codon-dependent maternal mRNA decay",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\development_added_sources\\figures\\zebrafish_tRNA_repertoire_2024_fig5.jpg",
+    "source": null
+  },
+  {
+    "title": "发育专题 3｜mouse ORACLE-tRNAseq：低输入条件下解析 oocyte-to-blastocyst tRNA pools",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_oracle_logic.png",
+    "source": null
+  },
+  {
+    "title": "mouse early embryo 中 tRNA anticodon pools 与翻译效率基因池协调",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_oracle_result.png",
+    "source": null
+  },
+  {
+    "title": "发育专题 4｜sperm small RNAs：精子获得的 tRNA fragments 对胚胎发育必需",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\development_added_sources\\figures\\sperm_small_RNAs_epididymal_transit_fig1.jpg",
+    "source": null
+  },
+  {
+    "title": "epididymal transit 过程中 tRNA fragments 是精子 RNA cargo 的重要组成",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\development_added_sources\\figures\\sperm_small_RNAs_epididymal_transit_fig2.jpg",
+    "source": null
+  },
+  {
+    "title": "缺失成熟 sperm small RNA cargo 会影响胚胎发育",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\development_added_sources\\figures\\sperm_small_RNAs_epididymal_transit_fig5.jpg",
+    "source": null
+  },
+  {
+    "title": "逐篇精读卡片 1｜DM-DMS-MaPseq tRNA structurome",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_card_01.png",
+    "source": "来源：In vivo structure profiling reveals human cytosolic and mitochondrial tRNA structurome and interactome in response to stress. PMID: 40447571"
+  },
+  {
+    "title": "逐篇精读卡片 2｜OB-fold tRNA recognition",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_card_02.png",
+    "source": "来源：Structural basis of tRNA recognition by the widespread OB fold. PMID: 39075051"
+  },
+  {
+    "title": "逐篇精读卡片 3｜METTL6-SerRS m3C32 writing",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_card_03.png",
+    "source": "来源：Structural basis of tRNA recognition by the m3C RNA methyltransferase METTL6 in complex with SerRS seryl-tRNA synthetase. PMID: 38918637"
+  },
+  {
+    "title": "逐篇精读卡片 4｜Trl1 tRNA ligation",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_card_04.png",
+    "source": "来源：Structure of fungal tRNA ligase Trl1 with RNA reveals conserved substrate-binding principles. PMID: 40563009"
+  },
+  {
+    "title": "逐篇精读卡片 5｜PYROXD1-RTCB protection",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_card_05.png",
+    "source": "来源：Mechanistic basis for PYROXD1-mediated protection of the human tRNA ligase complex against oxidative inactivation. PMID: 40069351"
+  },
+  {
+    "title": "逐篇精读卡片 6｜U34 oxidative desulfuration",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_card_06.png",
+    "source": "来源：Translational regulation by oxidative desulfuration of tRNA modifications. PMID: 41807381"
+  },
+  {
+    "title": "逐篇精读卡片 7｜Cas12a3 tRNA tail cleavage",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_card_07.png",
+    "source": "来源：RNA-triggered Cas12a3 cleaves tRNA tails to execute bacterial immunity. PMID: 41501459"
+  },
+  {
+    "title": "逐篇精读卡片 8｜PARIS antiviral defense",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_card_08.png",
+    "source": "来源：A virally encoded tRNA neutralizes the PARIS antiviral defence system. PMID: 39111359"
+  },
+  {
+    "title": "逐篇精读卡片 9｜tRNA as vRNAP assembly chaperone",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_card_09.png",
+    "source": "来源：tRNA as an assembly chaperone for a macromolecular transcription-processing complex. PMID: 40908366"
+  },
+  {
+    "title": "逐篇精读卡片 10｜tRNA-Phe copy number variation",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_card_10.png",
+    "source": "来源：Copy number variation in tRNA isodecoder genes impairs mammalian development and balanced translation. PMID: 37072429"
+  },
+  {
+    "title": "逐篇精读卡片 11｜Zebrafish embryonic tRNA repertoires",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_card_11.png",
+    "source": "来源：The dynamics and functional impact of tRNA repertoires during early embryogenesis in zebrafish. PMID: 39402326"
+  },
+  {
+    "title": "逐篇精读卡片 12｜Mouse ORACLE-tRNAseq",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_card_12.png",
+    "source": "来源：Deciphering tRNA repertoires and translation coordination during mouse early embryogenesis by ORACLE-tRNAseq. PMID: not indexed; DOI: 10.1038/s41467-026-72603-5"
+  },
+  {
+    "title": "逐篇精读卡片 13｜Sperm tRNA fragments",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_card_13.png",
+    "source": "来源：Small RNAs gained during epididymal transit of sperm are essential for embryonic development in mice. PMID: 30057276"
+  },
+  {
+    "title": "综合模型：tRNA 如何连接结构特征、生理功能和早期胚胎发育",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_integrated_model.png",
+    "source": null
+  },
+  {
+    "title": "后续研究假说：早期胚胎中的 tRNA 不是背景变量，而是翻译调控层",
+    "image": "D:\\Project\\tRNA research\\biological functions and structural characteristics of tRNA\\downloaded_resources\\paper2ppt_integrated_review\\assets\\diagram_future_hypotheses.png",
+    "source": null
+  }
+]

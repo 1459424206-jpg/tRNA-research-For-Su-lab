@@ -1,0 +1,26 @@
+[
+  {
+    "name": "junchaoshi/sports1.1",
+    "description": "Small non-coding RNA annotation Pipeline Optimized for rRNA- and tRNA-Derived Small RNAs",
+    "url": "https://github.com/junchaoshi/sports1.1",
+    "stars": 57,
+    "forks": 16,
+    "language": "Perl",
+    "updated_at": "2026-05-20T12:32:20Z",
+    "pushed_at": "2026-01-09T07:02:20Z",
+    "license": "GPL-3.0",
+    "topics": "mirna, modification, pirna, rna-seq-analysis, rna-seq-mapping, rrna-derived-small-rna, rsrna, small-rna, trf, trna-derived-small-rna, trna-fragment, trna-halves, tsrna"
+  },
+  {
+    "name": "UCSC-LoweLab/tDRnamer",
+    "description": "Standardized naming for tRNA-derived RNAs",
+    "url": "https://github.com/UCSC-LoweLab/tDRnamer",
+    "stars": 2,
+    "forks": 0,
+    "language": "Python",
+    "updated_at": "2024-10-16T03:49:08Z",
+    "pushed_at": "2024-10-16T03:50:05Z",
+    "license": "GPL-3.0",
+    "topics": ""
+  }
+]
