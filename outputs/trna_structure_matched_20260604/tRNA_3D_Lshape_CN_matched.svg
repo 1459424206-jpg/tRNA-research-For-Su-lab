@@ -1,0 +1,249 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1280" viewBox="0 0 1800 1280">
+<title>tRNA 3D structure projection with Chinese annotations</title>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#374151"/>
+</marker>
+</defs>
+<text x="90.0" y="50.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="38" font-weight="700" fill="#111827" text-anchor="start" dominant-baseline="middle">tRNA 三级结构：L 型折叠（PDB 1EHZ 坐标投影）</text>
+<text x="90.0" y="88.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="22" font-weight="400" fill="#4B5563" text-anchor="start" dominant-baseline="middle">骨架按残基顺序连接；颜色与 2D 图相同，黄色编号为相同修饰位点。</text>
+<line x1="965.2" y1="543.5" x2="1030.3" y2="465.3" stroke="#f29696" stroke-width="10.059965130646491" stroke-linecap="round" opacity="0.9"/>
+<line x1="1030.3" y1="465.3" x2="1089.9" y2="390.9" stroke="#f29595" stroke-width="10.12737586375322" stroke-linecap="round" opacity="0.9"/>
+<line x1="914.3" y1="605.9" x2="965.2" y2="543.5" stroke="#f29393" stroke-width="10.321693196926645" stroke-linecap="round" opacity="0.9"/>
+<line x1="1175.8" y1="593.7" x2="1113.1" y2="672.4" stroke="#f29393" stroke-width="10.346149943958787" stroke-linecap="round" opacity="0.9"/>
+<line x1="1113.1" y1="672.4" x2="1032.1" y2="739.4" stroke="#f29393" stroke-width="10.360739416989386" stroke-linecap="round" opacity="0.9"/>
+<line x1="1089.9" y1="390.9" x2="1122.7" y2="324.2" stroke="#f19191" stroke-width="10.49655167533749" stroke-linecap="round" opacity="0.9"/>
+<line x1="1200.8" y1="516.8" x2="1175.8" y2="593.7" stroke="#f19090" stroke-width="10.60439708642026" stroke-linecap="round" opacity="0.9"/>
+<line x1="1032.1" y1="739.4" x2="977.1" y2="801.8" stroke="#76abf3" stroke-width="10.613154233778964" stroke-linecap="round" opacity="0.9"/>
+<line x1="1280.3" y1="1103.6" x2="1307.3" y2="1165.0" stroke="#75abf3" stroke-width="10.624865639782012" stroke-linecap="round" opacity="0.9"/>
+<line x1="893.4" y1="638.2" x2="914.3" y2="605.9" stroke="#f18e8e" stroke-width="10.82592476143846" stroke-linecap="round" opacity="0.9"/>
+<line x1="1251.1" y1="863.0" x2="1290.6" y2="805.4" stroke="#72a9f2" stroke-width="10.86392048881055" stroke-linecap="round" opacity="0.9"/>
+<line x1="1329.1" y1="1016.3" x2="1280.3" y2="1103.6" stroke="#72a9f2" stroke-width="10.898005722981177" stroke-linecap="round" opacity="0.9"/>
+<line x1="1122.7" y1="324.2" x2="1074.3" y2="256.3" stroke="#f18d8d" stroke-width="10.930878534559476" stroke-linecap="round" opacity="0.9"/>
+<line x1="982.9" y1="185.0" x2="922.5" y2="270.0" stroke="#f18c8c" stroke-width="11.021015212835863" stroke-linecap="round" opacity="0.9"/>
+<line x1="1074.3" y1="256.3" x2="982.9" y2="185.0" stroke="#f18b8b" stroke-width="11.038328491391365" stroke-linecap="round" opacity="0.9"/>
+<line x1="1175.1" y1="457.8" x2="1200.8" y2="516.8" stroke="#f18b8b" stroke-width="11.063149501695476" stroke-linecap="round" opacity="0.9"/>
+<line x1="706.6" y1="591.7" x2="784.4" y2="560.3" stroke="#ba87e9" stroke-width="11.067565369546518" stroke-linecap="round" opacity="0.9"/>
+<line x1="977.1" y1="801.8" x2="958.8" y2="846.7" stroke="#6fa7f2" stroke-width="11.086510761430873" stroke-linecap="round" opacity="0.9"/>
+<line x1="784.4" y1="560.3" x2="855.2" y2="565.6" stroke="#ba87e9" stroke-width="11.090497919098514" stroke-linecap="round" opacity="0.9"/>
+<line x1="922.5" y1="270.0" x2="920.2" y2="374.4" stroke="#f18a8a" stroke-width="11.221143144520342" stroke-linecap="round" opacity="0.9"/>
+<line x1="855.2" y1="565.6" x2="893.4" y2="638.2" stroke="#b985e9" stroke-width="11.238421979453083" stroke-linecap="round" opacity="0.9"/>
+<line x1="1336.4" y1="962.2" x2="1329.1" y2="1016.3" stroke="#6da6f2" stroke-width="11.262663251279168" stroke-linecap="round" opacity="0.9"/>
+<line x1="592.6" y1="589.5" x2="706.6" y2="591.7" stroke="#b884e9" stroke-width="11.36547322155878" stroke-linecap="round" opacity="0.9"/>
+<line x1="1290.6" y1="805.4" x2="1272.0" y2="749.7" stroke="#6ba5f2" stroke-width="11.393769058656433" stroke-linecap="round" opacity="0.9"/>
+<line x1="920.2" y1="374.4" x2="909.9" y2="486.4" stroke="#f08787" stroke-width="11.428706780476212" stroke-linecap="round" opacity="0.9"/>
+<line x1="516.2" y1="526.3" x2="592.6" y2="589.5" stroke="#b782e8" stroke-width="11.541790844675043" stroke-linecap="round" opacity="0.9"/>
+<line x1="1105.2" y1="435.5" x2="1175.1" y2="457.8" stroke="#f08686" stroke-width="11.554657602733478" stroke-linecap="round" opacity="0.9"/>
+<line x1="726.6" y1="628.8" x2="681.2" y2="741.5" stroke="#9499a3" stroke-width="11.56498567426079" stroke-linecap="round" opacity="0.9"/>
+<line x1="958.8" y1="846.7" x2="1005.3" y2="880.0" stroke="#68a3f1" stroke-width="11.639354277689314" stroke-linecap="round" opacity="0.9"/>
+<line x1="845.7" y1="615.1" x2="726.6" y2="628.8" stroke="#9499a3" stroke-width="11.640723834058711" stroke-linecap="round" opacity="0.9"/>
+<line x1="909.9" y1="486.4" x2="1005.7" y2="483.0" stroke="#f08585" stroke-width="11.65516059955529" stroke-linecap="round" opacity="0.9"/>
+<line x1="921.3" y1="697.9" x2="845.7" y2="615.1" stroke="#67a2f1" stroke-width="11.744250976779968" stroke-linecap="round" opacity="0.9"/>
+<line x1="681.2" y1="741.5" x2="727.9" y2="800.8" stroke="#f5b47a" stroke-width="11.763297772902554" stroke-linecap="round" opacity="0.9"/>
+<line x1="1005.7" y1="483.0" x2="1105.2" y2="435.5" stroke="#f08383" stroke-width="11.801129927387677" stroke-linecap="round" opacity="0.9"/>
+<line x1="1284.9" y1="942.9" x2="1336.4" y2="962.2" stroke="#66a1f1" stroke-width="11.820137968607783" stroke-linecap="round" opacity="0.9"/>
+<line x1="1272.0" y1="749.7" x2="1204.0" y2="718.0" stroke="#65a1f1" stroke-width="11.902986804407316" stroke-linecap="round" opacity="0.9"/>
+<line x1="484.4" y1="484.0" x2="516.2" y2="526.3" stroke="#5fc389" stroke-width="11.919836318889299" stroke-linecap="round" opacity="0.9"/>
+<line x1="974.1" y1="359.3" x2="878.0" y2="316.7" stroke="#f5b378" stroke-width="12.001148920612762" stroke-linecap="round" opacity="0.9"/>
+<line x1="878.0" y1="316.7" x2="765.4" y2="325.1" stroke="#f5b278" stroke-width="12.007634276925852" stroke-linecap="round" opacity="0.9"/>
+<line x1="506.1" y1="748.7" x2="419.1" y2="682.5" stroke="#5dc288" stroke-width="12.008994389226842" stroke-linecap="round" opacity="0.9"/>
+<line x1="1003.5" y1="712.3" x2="921.3" y2="697.9" stroke="#63a0f1" stroke-width="12.020728562252494" stroke-linecap="round" opacity="0.9"/>
+<line x1="765.4" y1="325.1" x2="753.9" y2="421.0" stroke="#f5b277" stroke-width="12.040643735309345" stroke-linecap="round" opacity="0.9"/>
+<line x1="419.1" y1="682.5" x2="352.6" y2="611.9" stroke="#5dc287" stroke-width="12.07995143886553" stroke-linecap="round" opacity="0.9"/>
+<line x1="1005.3" y1="880.0" x2="1085.5" y2="910.0" stroke="#629ff1" stroke-width="12.10189626819507" stroke-linecap="round" opacity="0.9"/>
+<line x1="753.9" y1="421.0" x2="722.0" y2="484.5" stroke="#f5b175" stroke-width="12.232018271579669" stroke-linecap="round" opacity="0.9"/>
+<line x1="1188.7" y1="929.2" x2="1284.9" y2="942.9" stroke="#609ef1" stroke-width="12.240428235929574" stroke-linecap="round" opacity="0.9"/>
+<line x1="727.9" y1="800.8" x2="793.5" y2="790.8" stroke="#f5b175" stroke-width="12.254276153972896" stroke-linecap="round" opacity="0.9"/>
+<line x1="1204.0" y1="718.0" x2="1103.6" y2="719.5" stroke="#609ef1" stroke-width="12.262895063063405" stroke-linecap="round" opacity="0.9"/>
+<line x1="577.1" y1="772.8" x2="506.1" y2="748.7" stroke="#8d939d" stroke-width="12.305178822192271" stroke-linecap="round" opacity="0.9"/>
+<line x1="1103.6" y1="719.5" x2="1003.5" y2="712.3" stroke="#609df1" stroke-width="12.309539775525506" stroke-linecap="round" opacity="0.9"/>
+<line x1="1085.5" y1="910.0" x2="1188.7" y2="929.2" stroke="#5f9df1" stroke-width="12.342573179336874" stroke-linecap="round" opacity="0.9"/>
+<line x1="985.7" y1="351.4" x2="974.1" y2="359.3" stroke="#f5b073" stroke-width="12.374148833301714" stroke-linecap="round" opacity="0.9"/>
+<line x1="352.6" y1="611.9" x2="321.4" y2="552.8" stroke="#57c083" stroke-width="12.470108839511878" stroke-linecap="round" opacity="0.9"/>
+<line x1="478.3" y1="470.9" x2="484.4" y2="484.0" stroke="#57c083" stroke-width="12.501057552839356" stroke-linecap="round" opacity="0.9"/>
+<line x1="793.5" y1="790.8" x2="855.6" y2="707.7" stroke="#f4af71" stroke-width="12.59542934464361" stroke-linecap="round" opacity="0.9"/>
+<line x1="932.5" y1="435.7" x2="985.7" y2="351.4" stroke="#f4ae70" stroke-width="12.65816150238808" stroke-linecap="round" opacity="0.9"/>
+<line x1="722.0" y1="484.5" x2="701.3" y2="550.1" stroke="#f4ae6f" stroke-width="12.734102998562761" stroke-linecap="round" opacity="0.9"/>
+<line x1="904.4" y1="513.6" x2="932.5" y2="435.7" stroke="#f4ae6f" stroke-width="12.747511853153137" stroke-linecap="round" opacity="0.9"/>
+<line x1="626.4" y1="733.9" x2="577.1" y2="772.8" stroke="#f4ae6f" stroke-width="12.783605663588292" stroke-linecap="round" opacity="0.9"/>
+<line x1="855.6" y1="707.7" x2="878.4" y2="611.9" stroke="#f4ad6f" stroke-width="12.798728210984699" stroke-linecap="round" opacity="0.9"/>
+<line x1="878.4" y1="611.9" x2="904.4" y2="513.6" stroke="#f4ad6e" stroke-width="12.869614380170837" stroke-linecap="round" opacity="0.9"/>
+<line x1="321.4" y1="552.8" x2="311.7" y2="547.1" stroke="#50bd7e" stroke-width="13.035563558578504" stroke-linecap="round" opacity="0.9"/>
+<line x1="701.3" y1="550.1" x2="672.9" y2="643.4" stroke="#f4ac6b" stroke-width="13.096410666521724" stroke-linecap="round" opacity="0.9"/>
+<line x1="476.7" y1="500.3" x2="478.3" y2="470.9" stroke="#4fbd7d" stroke-width="13.114902733765213" stroke-linecap="round" opacity="0.9"/>
+<line x1="672.9" y1="643.4" x2="626.4" y2="733.9" stroke="#f4ab6b" stroke-width="13.127180158319712" stroke-linecap="round" opacity="0.9"/>
+<line x1="211.5" y1="799.2" x2="309.4" y2="814.7" stroke="#4cbc7b" stroke-width="13.279668506042949" stroke-linecap="round" opacity="0.9"/>
+<line x1="309.4" y1="814.7" x2="409.9" y2="822.5" stroke="#4bbb7b" stroke-width="13.349248515195434" stroke-linecap="round" opacity="0.9"/>
+<line x1="150.0" y1="754.3" x2="211.5" y2="799.2" stroke="#49bb79" stroke-width="13.492360537739215" stroke-linecap="round" opacity="0.9"/>
+<line x1="311.7" y1="547.1" x2="291.7" y2="611.7" stroke="#48ba78" stroke-width="13.589683684120843" stroke-linecap="round" opacity="0.9"/>
+<line x1="409.9" y1="822.5" x2="481.8" y2="777.7" stroke="#48ba78" stroke-width="13.618843094785483" stroke-linecap="round" opacity="0.9"/>
+<line x1="496.0" y1="578.2" x2="476.7" y2="500.3" stroke="#48ba78" stroke-width="13.634999722719419" stroke-linecap="round" opacity="0.9"/>
+<line x1="248.3" y1="710.1" x2="150.0" y2="754.3" stroke="#45b976" stroke-width="13.839385778075671" stroke-linecap="round" opacity="0.9"/>
+<line x1="291.7" y1="611.7" x2="248.3" y2="710.1" stroke="#44b975" stroke-width="13.901697436969984" stroke-linecap="round" opacity="0.9"/>
+<line x1="481.8" y1="777.7" x2="505.2" y2="682.8" stroke="#44b875" stroke-width="13.907257393362165" stroke-linecap="round" opacity="0.9"/>
+<line x1="505.2" y1="682.8" x2="496.0" y2="578.2" stroke="#44b875" stroke-width="13.928928580711162" stroke-linecap="round" opacity="0.9"/>
+<circle cx="1030.3" cy="465.3" r="8.0" fill="#f18c8c" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="965.2" cy="543.5" r="8.1" fill="#f18b8b" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1089.9" cy="390.9" r="8.2" fill="#f18a8a" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1113.1" cy="672.4" r="8.2" fill="#f18a8a" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1175.8" cy="593.7" r="8.3" fill="#f18989" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1032.1" cy="739.4" r="8.3" fill="#6da6f2" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1307.3" cy="1165.0" r="8.3" fill="#6da6f2" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="914.3" cy="605.9" r="8.4" fill="#f08888" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1251.1" cy="863.0" r="8.5" fill="#6ba5f2" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1122.7" cy="324.2" r="15.6" fill="#FFD166" stroke="#784C00" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1122.7" cy="324.2" r="8.6" fill="#f08787" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<text x="1122.7" y="325.2" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" font-weight="400" fill="#111827" text-anchor="middle" dominant-baseline="middle">54</text>
+<circle cx="977.1" cy="801.8" r="8.6" fill="#6aa4f2" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1200.8" cy="516.8" r="8.6" fill="#f08686" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1280.3" cy="1103.6" r="8.6" fill="#69a3f2" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="784.4" cy="560.3" r="8.6" fill="#b782e8" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="982.9" cy="185.0" r="8.7" fill="#f08585" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1329.1" cy="1016.3" r="8.7" fill="#68a3f1" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="922.5" cy="270.0" r="8.8" fill="#f08484" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1290.6" cy="805.4" r="8.8" fill="#67a2f1" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1074.3" cy="256.3" r="15.8" fill="#FFD166" stroke="#784C00" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1074.3" cy="256.3" r="8.8" fill="#f08484" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<text x="1074.3" y="257.3" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" font-weight="400" fill="#111827" text-anchor="middle" dominant-baseline="middle">55</text>
+<circle cx="893.4" cy="638.2" r="15.8" fill="#FFD166" stroke="#784C00" stroke-width="1.8" opacity="1.0"/>
+<circle cx="893.4" cy="638.2" r="8.8" fill="#f08484" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<text x="893.4" y="639.2" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" font-weight="400" fill="#111827" text-anchor="middle" dominant-baseline="middle">49</text>
+<circle cx="706.6" cy="591.7" r="16.0" fill="#FFD166" stroke="#784C00" stroke-width="1.8" opacity="1.0"/>
+<circle cx="706.6" cy="591.7" r="9.0" fill="#b57ee8" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<text x="706.6" y="592.7" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" font-weight="400" fill="#111827" text-anchor="middle" dominant-baseline="middle">46</text>
+<circle cx="1175.1" cy="457.8" r="9.0" fill="#f08282" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="855.2" cy="565.6" r="9.0" fill="#b47ee8" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="920.2" cy="374.4" r="16.0" fill="#FFD166" stroke="#784C00" stroke-width="1.8" opacity="1.0"/>
+<circle cx="920.2" cy="374.4" r="9.0" fill="#f08282" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<text x="920.2" y="375.4" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" font-weight="400" fill="#111827" text-anchor="middle" dominant-baseline="middle">58</text>
+<circle cx="958.8" cy="846.7" r="9.0" fill="#64a0f1" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="592.6" cy="589.5" r="9.1" fill="#b47de7" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="909.9" cy="486.4" r="9.1" fill="#f08181" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="681.2" cy="741.5" r="16.1" fill="#FFD166" stroke="#784C00" stroke-width="1.8" opacity="1.0"/>
+<circle cx="681.2" cy="741.5" r="9.1" fill="#f5b277" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<text x="681.2" y="742.5" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" font-weight="400" fill="#111827" text-anchor="middle" dominant-baseline="middle">10</text>
+<circle cx="1336.4" cy="962.2" r="9.2" fill="#639ff1" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="726.6" cy="628.8" r="9.2" fill="#8f949f" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="516.2" cy="526.3" r="9.2" fill="#b37be7" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="845.7" cy="615.1" r="9.3" fill="#8f949f" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1272.0" cy="749.7" r="9.3" fill="#619ff1" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1105.2" cy="435.5" r="9.3" fill="#ef7f7f" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1005.7" cy="483.0" r="9.4" fill="#ef7f7f" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="921.3" cy="697.9" r="9.4" fill="#609ef1" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="878.0" cy="316.7" r="9.4" fill="#f5b074" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1005.3" cy="880.0" r="9.4" fill="#5f9df1" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="419.1" cy="682.5" r="9.5" fill="#59c085" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="753.9" cy="421.0" r="9.5" fill="#f5b073" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="727.9" cy="800.8" r="9.5" fill="#f4b073" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="506.1" cy="748.7" r="9.6" fill="#57c083" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1284.9" cy="942.9" r="9.6" fill="#5d9cf1" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="974.1" cy="359.3" r="9.6" fill="#f4b072" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="765.4" cy="325.1" r="9.6" fill="#f4af72" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1204.0" cy="718.0" r="9.6" fill="#5d9cf1" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="484.4" cy="484.0" r="9.6" fill="#56bf83" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="352.6" cy="611.9" r="9.7" fill="#56bf82" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1003.5" cy="712.3" r="9.7" fill="#5c9bf0" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1085.5" cy="910.0" r="9.7" fill="#5c9bf0" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1188.7" cy="929.2" r="9.8" fill="#5b9af0" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="1103.6" cy="719.5" r="9.8" fill="#5b9af0" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="722.0" cy="484.5" r="9.9" fill="#f4ae6f" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="793.5" cy="790.8" r="9.9" fill="#f4ae6f" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="577.1" cy="772.8" r="16.9" fill="#FFD166" stroke="#784C00" stroke-width="1.8" opacity="1.0"/>
+<circle cx="577.1" cy="772.8" r="9.9" fill="#898f9a" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<text x="577.1" y="773.8" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" font-weight="400" fill="#111827" text-anchor="middle" dominant-baseline="middle">26</text>
+<circle cx="985.7" cy="351.4" r="17.0" fill="#FFD166" stroke="#784C00" stroke-width="1.8" opacity="1.0"/>
+<circle cx="985.7" cy="351.4" r="10.0" fill="#f4ad6e" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<text x="985.7" y="352.4" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" font-weight="400" fill="#111827" text-anchor="middle" dominant-baseline="middle">17</text>
+<circle cx="932.5" cy="435.7" r="17.0" fill="#FFD166" stroke="#784C00" stroke-width="1.8" opacity="1.0"/>
+<circle cx="932.5" cy="435.7" r="10.0" fill="#f4ad6e" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<text x="932.5" y="436.7" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" font-weight="400" fill="#111827" text-anchor="middle" dominant-baseline="middle">16</text>
+<circle cx="855.6" cy="707.7" r="10.0" fill="#f4ad6e" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="321.4" cy="552.8" r="10.0" fill="#51be7f" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="478.3" cy="470.9" r="10.1" fill="#50bd7e" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="904.4" cy="513.6" r="10.1" fill="#f4ac6c" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="878.4" cy="611.9" r="10.2" fill="#f4ac6c" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="701.3" cy="550.1" r="10.2" fill="#f4ab6b" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="626.4" cy="733.9" r="10.3" fill="#f4ab6b" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="672.9" cy="643.4" r="10.4" fill="#f4aa69" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="309.4" cy="814.7" r="10.5" fill="#4cbb7b" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="211.5" cy="799.2" r="10.5" fill="#4cbb7b" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="311.7" cy="547.1" r="10.5" fill="#4bbb7a" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="476.7" cy="500.3" r="10.6" fill="#4abb7a" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="409.9" cy="822.5" r="17.6" fill="#FFD166" stroke="#784C00" stroke-width="1.8" opacity="1.0"/>
+<circle cx="409.9" cy="822.5" r="10.6" fill="#4abb7a" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<text x="409.9" y="823.5" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" font-weight="400" fill="#111827" text-anchor="middle" dominant-baseline="middle">37</text>
+<circle cx="150.0" cy="754.3" r="17.8" fill="#FFD166" stroke="#784C00" stroke-width="1.8" opacity="1.0"/>
+<circle cx="150.0" cy="754.3" r="10.8" fill="#48ba78" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<text x="150.0" y="755.3" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" font-weight="400" fill="#111827" text-anchor="middle" dominant-baseline="middle">34</text>
+<circle cx="481.8" cy="777.7" r="10.9" fill="#47ba77" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="291.7" cy="611.7" r="17.9" fill="#FFD166" stroke="#784C00" stroke-width="1.8" opacity="1.0"/>
+<circle cx="291.7" cy="611.7" r="10.9" fill="#46b977" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<text x="291.7" y="612.7" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" font-weight="400" fill="#111827" text-anchor="middle" dominant-baseline="middle">32</text>
+<circle cx="496.0" cy="578.2" r="17.9" fill="#FFD166" stroke="#784C00" stroke-width="1.8" opacity="1.0"/>
+<circle cx="496.0" cy="578.2" r="10.9" fill="#46b977" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<text x="496.0" y="579.2" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" font-weight="400" fill="#111827" text-anchor="middle" dominant-baseline="middle">40</text>
+<circle cx="248.3" cy="710.1" r="11.0" fill="#45b976" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<circle cx="505.2" cy="682.8" r="18.0" fill="#FFD166" stroke="#784C00" stroke-width="1.8" opacity="1.0"/>
+<circle cx="505.2" cy="682.8" r="11.0" fill="#45b976" stroke="#FFFFFF" stroke-width="1.8" opacity="1.0"/>
+<text x="505.2" y="683.8" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" font-weight="400" fill="#111827" text-anchor="middle" dominant-baseline="middle">39</text>
+<line x1="1130.0" y1="1035.0" x2="1284.9" y2="942.9" stroke="#374151" stroke-width="2" stroke-linecap="round" opacity="1.0" marker-end="url(#arrow)"/>
+<rect x="1045.0" y="1016.0" width="170.0" height="38.0" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" opacity="0.94"/>
+<text x="1130.0" y="1035.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="middle" dominant-baseline="middle">受体臂 / CCA端</text>
+<line x1="1015.0" y1="370.0" x2="932.5" y2="435.7" stroke="#374151" stroke-width="2" stroke-linecap="round" opacity="1.0" marker-end="url(#arrow)"/>
+<rect x="930.0" y="351.0" width="170.0" height="38.0" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" opacity="0.94"/>
+<text x="1015.0" y="370.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="middle" dominant-baseline="middle">D臂</text>
+<line x1="380.0" y1="990.0" x2="211.5" y2="799.2" stroke="#374151" stroke-width="2" stroke-linecap="round" opacity="1.0" marker-end="url(#arrow)"/>
+<rect x="295.0" y="971.0" width="170.0" height="38.0" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" opacity="0.94"/>
+<text x="380.0" y="990.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="middle" dominant-baseline="middle">反密码子环</text>
+<line x1="720.0" y1="520.0" x2="706.6" y2="591.7" stroke="#374151" stroke-width="2" stroke-linecap="round" opacity="1.0" marker-end="url(#arrow)"/>
+<rect x="635.0" y="501.0" width="170.0" height="38.0" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" opacity="0.94"/>
+<text x="720.0" y="520.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="middle" dominant-baseline="middle">可变环</text>
+<line x1="1190.0" y1="245.0" x2="1074.3" y2="256.3" stroke="#374151" stroke-width="2" stroke-linecap="round" opacity="1.0" marker-end="url(#arrow)"/>
+<rect x="1105.0" y="226.0" width="170.0" height="38.0" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" opacity="0.94"/>
+<text x="1190.0" y="245.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="middle" dominant-baseline="middle">TΨC环</text>
+<text x="1295.0" y="110.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="22" font-weight="700" fill="#111827" text-anchor="start" dominant-baseline="middle">3D 中的黄色数字 = 2D 中相同修饰编号</text>
+<text x="1295.0" y="160.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="start" dominant-baseline="middle">1EHZ 中标出的修饰核苷</text>
+<circle cx="1304.0" cy="197.0" r="9.0" fill="#FFD166" stroke="#784C00" stroke-width="1" opacity="1.0"/>
+<text x="1323.0" y="197.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">m²G10: N2-甲基鸟苷</text>
+<circle cx="1304.0" cy="227.0" r="9.0" fill="#FFD166" stroke="#784C00" stroke-width="1" opacity="1.0"/>
+<text x="1323.0" y="227.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">D16: 二氢尿苷</text>
+<circle cx="1304.0" cy="257.0" r="9.0" fill="#FFD166" stroke="#784C00" stroke-width="1" opacity="1.0"/>
+<text x="1323.0" y="257.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">D17: 二氢尿苷</text>
+<circle cx="1304.0" cy="287.0" r="9.0" fill="#FFD166" stroke="#784C00" stroke-width="1" opacity="1.0"/>
+<text x="1323.0" y="287.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">m²²G26: N2,N2-二甲基鸟苷</text>
+<circle cx="1304.0" cy="317.0" r="9.0" fill="#FFD166" stroke="#784C00" stroke-width="1" opacity="1.0"/>
+<text x="1323.0" y="317.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">Cm32: 2′-O-甲基胞苷</text>
+<circle cx="1304.0" cy="347.0" r="9.0" fill="#FFD166" stroke="#784C00" stroke-width="1" opacity="1.0"/>
+<text x="1323.0" y="347.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">Gm34: 2′-O-甲基鸟苷；反密码子摆动位点</text>
+<circle cx="1304.0" cy="377.0" r="9.0" fill="#FFD166" stroke="#784C00" stroke-width="1" opacity="1.0"/>
+<text x="1323.0" y="377.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">yW37: wybutosine；反密码子3′侧</text>
+<circle cx="1304.0" cy="407.0" r="9.0" fill="#FFD166" stroke="#784C00" stroke-width="1" opacity="1.0"/>
+<text x="1323.0" y="407.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">Ψ39: 假尿苷</text>
+<circle cx="1304.0" cy="437.0" r="9.0" fill="#FFD166" stroke="#784C00" stroke-width="1" opacity="1.0"/>
+<text x="1323.0" y="437.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">m⁵C40: 5-甲基胞苷</text>
+<circle cx="1304.0" cy="467.0" r="9.0" fill="#FFD166" stroke="#784C00" stroke-width="1" opacity="1.0"/>
+<text x="1323.0" y="467.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">m⁷G46: 7-甲基鸟苷</text>
+<circle cx="1304.0" cy="497.0" r="9.0" fill="#FFD166" stroke="#784C00" stroke-width="1" opacity="1.0"/>
+<text x="1323.0" y="497.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">m⁵C49: 5-甲基胞苷</text>
+<circle cx="1304.0" cy="527.0" r="9.0" fill="#FFD166" stroke="#784C00" stroke-width="1" opacity="1.0"/>
+<text x="1323.0" y="527.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">T54: 核糖胸苷 / 5-甲基尿苷</text>
+<circle cx="1304.0" cy="557.0" r="9.0" fill="#FFD166" stroke="#784C00" stroke-width="1" opacity="1.0"/>
+<text x="1323.0" y="557.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">Ψ55: 假尿苷</text>
+<circle cx="1304.0" cy="587.0" r="9.0" fill="#FFD166" stroke="#784C00" stroke-width="1" opacity="1.0"/>
+<text x="1323.0" y="587.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">m¹A58: 1-甲基腺苷</text>
+<text x="1295.0" y="690.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="27" font-weight="700" fill="#111827" text-anchor="start" dominant-baseline="middle">统一颜色标注</text>
+<rect x="1295.0" y="718.0" width="32.0" height="28.0" rx="6" fill="#2F80ED" stroke="none" stroke-width="1" opacity="1.0"/>
+<text x="1339.0" y="732.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="22" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">受体臂 / 3′ CCA端</text>
+<rect x="1295.0" y="754.0" width="32.0" height="28.0" rx="6" fill="#F2994A" stroke="none" stroke-width="1" opacity="1.0"/>
+<text x="1339.0" y="768.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="22" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">D臂 / D环</text>
+<rect x="1295.0" y="790.0" width="32.0" height="28.0" rx="6" fill="#27AE60" stroke="none" stroke-width="1" opacity="1.0"/>
+<text x="1339.0" y="804.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="22" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">反密码子臂 / 环</text>
+<rect x="1295.0" y="826.0" width="32.0" height="28.0" rx="6" fill="#9B51E0" stroke="none" stroke-width="1" opacity="1.0"/>
+<text x="1339.0" y="840.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="22" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">可变环</text>
+<rect x="1295.0" y="862.0" width="32.0" height="28.0" rx="6" fill="#EB5757" stroke="none" stroke-width="1" opacity="1.0"/>
+<text x="1339.0" y="876.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="22" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">TΨC臂 / TΨC环</text>
+<rect x="1295.0" y="898.0" width="32.0" height="28.0" rx="6" fill="#6B7280" stroke="none" stroke-width="1" opacity="1.0"/>
+<text x="1339.0" y="912.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="22" font-weight="400" fill="#111827" text-anchor="start" dominant-baseline="middle">连接区</text>
+<text x="90.0" y="1225.0" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="22" font-weight="400" fill="#4B5563" text-anchor="start" dominant-baseline="middle">坐标来源：RCSB PDB 1EHZ；显示为正交投影，非空间填充模型。</text>
+</svg>

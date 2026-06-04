@@ -1,0 +1,476 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/0y2x0z",
+    "id": "0y2x0z",
+    "slide": 18,
+    "layoutId": "42581c0e-4943-42be-85a5-b7080690ea9f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "fc1e64e1-0fbe-4b79-9a49-529bfc6f038b",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Noto Sans SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "42581c0e-4943-42be-85a5-b7080690ea9f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "fc1e64e1-0fbe-4b79-9a49-529bfc6f038b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "fc1e64e1-0fbe-4b79-9a49-529bfc6f038b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vy90je9c",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oj2t83it",
+      "id": "2",
+      "bbox": [
+        38,
+        26,
+        1204,
+        38
+      ],
+      "geometry": "rect",
+      "text": "文献精读 1 原文图：读穿与停顿信号",
+      "textPreview": "文献精读 1 原文图：读穿与停顿信号",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Noto Sans SC",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 4,
+          "bottom": 2,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "文献精读 1 原文图：读穿与停顿信号"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "文献精读 1 原文图：读穿与停顿信号",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "文献精读 1 原文图：读穿与停顿信号",
+              "fontSize": 16,
+              "typeface": "Noto Sans SC",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4vmtwra",
+      "id": "3",
+      "bbox": [
+        38,
+        68,
+        1204,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/fa9w3m94",
+      "id": "4",
+      "bbox": [
+        44,
+        92,
+        610,
+        560
+      ],
+      "alt": "Fig. 3 读穿、停顿和错配特征",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "6923b4f2-d5a4-4543-9c9f-920e668ac2da",
+        "contentType": "image/png",
+        "byteLength": 414587
+      }
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vmtwra5g",
+      "id": "5",
+      "bbox": [
+        44,
+        654,
+        610,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#DDDDDD",
+      "lineColor": "#DDDDDD",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7qpg3ex",
+      "id": "6",
+      "bbox": [
+        44,
+        660,
+        610,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Fig. 3 读穿、停顿和错配特征",
+      "textPreview": "Fig. 3 读穿、停顿和错配特征",
+      "resolvedFontSize": 9,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9,
+        "typeface": "Noto Sans SC",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 4,
+          "bottom": 2,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Fig. 3 读穿、停顿和错配特征"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Fig. 3 读穿、停顿和错配特征",
+          "resolvedTextStyle": {
+            "fontSize": 9,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Fig. 3 读穿、停顿和错配特征",
+              "fontSize": 9,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsji5sne",
+      "id": "7",
+      "bbox": [
+        690,
+        94,
+        540,
+        465
+      ],
+      "geometry": "rect",
+      "text": "这组图是理解 Induro 指纹库的关键。多数 RT-readable tRNA modifications（反转录可读修饰）在 Induro 条件下表现为修饰位点附近的错配，而不是强烈 RT stop。少数修饰仍以停顿为主，说明“读穿增强”并不等于“所有修饰都无阻碍通过”。",
+      "textPreview": "这组图是理解 Induro 指纹库的关键。多数 RT-readable tRNA modifications（反转录可读修饰）在 Induro 条件下表现为修饰位点附近的错配，而不是强烈 RT stop。少数修饰仍以停顿为主，说明“读穿增强”并不等于“所有修饰都无阻碍通过”。",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "Noto Sans SC",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 4,
+          "bottom": 2,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "这组图是理解 Induro 指纹库的关键。多数 RT-readable tRNA modifications（反转录可读修饰）在"
+          },
+          {
+            "index": 2,
+            "text": "Induro 条件下表现为修饰位点附近的错配，而不是强烈 RT"
+          },
+          {
+            "index": 3,
+            "text": "stop。少数修饰仍以停顿为主，说明“读穿增强”并不等于“所有修饰都无阻碍通过”。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "这组图是理解 Induro 指纹库的关键。多数 RT-readable tRNA modifications（反转录可读修饰）在 Induro 条件下表现为修饰位点附近的错配，而不是强烈 RT stop。少数修饰仍以停顿为主，说明“读穿增强”并不等于“所有修饰都无阻碍通过”。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "这组图是理解 Induro 指纹库的关键。多数 RT-readable tRNA modifications（反转录可读修饰）在 Induro 条件下表现为修饰位点附近的错配，而不是强烈 RT stop。少数修饰仍以停顿为主，说明“读穿增强”并不等于“所有修饰都无阻碍通过”。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6tovahoz",
+      "id": "8",
+      "bbox": [
+        690,
+        575,
+        540,
+        70
+      ],
+      "geometry": "rect",
+      "text": "这也是比较 mim-tRNAseq 与 Induro-tRNAseq 时最重要的差异：mim 更像规则库，Induro 更像酶学响应图谱。",
+      "textPreview": "这也是比较 mim-tRNAseq 与 Induro-tRNAseq 时最重要的差异：mim 更像规则库，Induro 更像酶学响应图谱。",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "Noto Sans SC",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 4,
+          "bottom": 2,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "这也是比较 mim-tRNAseq 与 Induro-tRNAseq 时最重要的差异：mim 更像规则库，Induro"
+          },
+          {
+            "index": 2,
+            "text": "更像酶学响应图谱。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "这也是比较 mim-tRNAseq 与 Induro-tRNAseq 时最重要的差异：mim 更像规则库，Induro 更像酶学响应图谱。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "这也是比较 mim-tRNAseq 与 Induro-tRNAseq 时最重要的差异：mim 更像规则库，Induro 更像酶学响应图谱。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vahoza1g",
+      "id": "9",
+      "bbox": [
+        38,
+        690,
+        1180,
+        18
+      ],
+      "geometry": "rect",
+      "text": "mim-tRNAseq / Induro-tRNAseq | 18",
+      "textPreview": "mim-tRNAseq / Induro-tRNAseq | 18",
+      "resolvedFontSize": 8,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 8,
+        "typeface": "Noto Sans SC",
+        "color": "#333333",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "mim-tRNAseq / Induro-tRNAseq | 18"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "mim-tRNAseq / Induro-tRNAseq | 18",
+          "resolvedTextStyle": {
+            "fontSize": 8,
+            "typeface": "Noto Sans SC",
+            "color": "#333333",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "mim-tRNAseq / Induro-tRNAseq | 18",
+              "fontSize": 8,
+              "typeface": "Noto Sans SC",
+              "color": "#333333"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

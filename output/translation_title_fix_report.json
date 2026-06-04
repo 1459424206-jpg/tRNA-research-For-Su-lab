@@ -1,0 +1,279 @@
+{
+  "ppt": "D:\\Project\\tRNA research\\output\\final_presentation_cn_deep_literature_zh_only.pptx",
+  "changed_paragraphs": 513,
+  "remaining_non_metadata_english_like_count": 68,
+  "remaining_sample": [
+    {
+      "slide": 3,
+      "text": "3. tRNA 修饰调节 m6A 依赖性 mRNA 衰减。"
+    },
+    {
+      "slide": 8,
+      "text": "大肠杆菌 MG1655 在 Ocr 诱导后的不同时间点携带质粒 p FR85 (PARIS) 和 p FD250 (P Phl F -Ocr)，有或没有 DAPG (n = 3…"
+    },
+    {
+      "slide": 8,
+      "text": "大肠杆菌 MG1655 在诱导 Ocr 表达后的不同时间点携带质粒 p FR85 (PARIS) 或 p FR66 (sf GFP) 和 p FD250 (P Phl F -Ocr)…"
+    },
+    {
+      "slide": 20,
+      "text": "tRNAGln/Arg 与 v RNAP 协调组装 Rap94、NPH-I 和 E11 测试 tRNAGln/Arg 是否充当组装伴侣而不是……"
+    },
+    {
+      "slide": 20,
+      "text": "然后使用从完整 v RNAP 中分离出的 tRNAGln/Arg 和 tRNAGln/Arg，研究完整 v RNAP 的体外形成（图 1a）。"
+    },
+    {
+      "slide": 23,
+      "text": "受体臂 D 臂 T 臂 反密码子臂 m3C 位点 可变臂 32 26 22 13 7 65 49 48 53 61 1 76 18 19 44 5'P 3'OH 47B 47D 47F 47G d tRNASer t RN…"
+    },
+    {
+      "slide": 23,
+      "text": "1 | Ser RS-tRNA-METTL6 复合物的结构。"
+    },
+    {
+      "slide": 23,
+      "text": "a，人类METTL6和Ser RS的域组织。"
+    },
+    {
+      "slide": 32,
+      "text": "在 5'-5' RNA-腺苷酸 (App RNA) 中。"
+    },
+    {
+      "slide": 32,
+      "text": "电子邮件：jirka.peschek@bzh.uni-heidelberg.de 自然结构与分子生物学 |第 32 卷 | 2025 年 9 月 | 1657–1668 第1658章 文章 https://…"
+    },
+    {
+      "slide": 33,
+      "text": "真菌 tRNA 连接酶 Trl1 是 UPR5 期间 tRNA 剪接和非常规 HAC1 mRNA 剪接的必需酶，12。"
+    },
+    {
+      "slide": 36,
+      "text": "这里使用的参数是：ΔDMS 信号 = DMS signalin vivo_As O2 – DMS signalinvivo_control。"
+    },
+    {
+      "slide": 38,
+      "text": "对于 WT，n = 4，Δ3′A；对于 ASLGAA、3′BLOCK、ASLGAA/5′GC、ASLGAA/5′GGCC、G18C/G19C/ΔACCA，n = 2；对于 ΔACCA、ASLGA/ΔACCA，n = 3；对于 G18C/G1，n = 9"
+    },
+    {
+      "slide": 38,
+      "text": "Trbp111 采用极其坚固的同型二聚体界面 Aquifex aeolicus Trbp111 的晶体结构先前报道为 2.5 Å…"
+    },
+    {
+      "slide": 44,
+      "text": "通过 Hydro-tRNAseq 和 PAR-CLIP 表征前体和成熟人类 tRNA 的表达和加工。"
+    },
+    {
+      "slide": 48,
+      "text": "我们筛选了 11 种近同源的 super-tRNA Arg，并鉴定出最有效的一种，sup-tRNA Arg -TCT-1。"
+    },
+    {
+      "slide": 56,
+      "text": "2.3 文献概览：tRNA neochromo 的设计、构建和功能表征……"
+    },
+    {
+      "slide": 57,
+      "text": "2.3 材料方法与结果：tRNA neoc 的设计、构建和功能表征……"
+    },
+    {
+      "slide": 57,
+      "text": "此外，283 个 rox 重组位点的存在使得正交 tRNA SCRa Mb LE 系统成为可能。"
+    },
+    {
+      "slide": 58,
+      "text": "2.3 讨论与局限：tRNA neochr 的设计、构建和功能表征……"
+    },
+    {
+      "slide": 58,
+      "text": "此外，283 个 rox 重组位点的存在使得正交 tRNA SCRa Mb LE 系统成为可能。"
+    },
+    {
+      "slide": 60,
+      "text": "为此，我们比较了 Nano-tRNAseq S."
+    },
+    {
+      "slide": 60,
+      "text": "酿酒酵母 tRNA 丰度与使用三种不同的基于 Illumina 的方法报告的丰度相比：(1) ARM-seq 74、(2) Hydro-tRNAseq 80 和 (3) mim-t…"
+    },
+    {
+      "slide": 66,
+      "text": "2.6 材料方法与结果：Error 500 (Server Error)!!1500.That's an error.There was an error.请稍后重试。我们只知道这些。"
+    },
+    {
+      "slide": 68,
+      "text": "后者又可细分为结构性ncRNA，如核糖体RNA（rRNA）和转移RNA（tRNA）；小核 (sn RNA) 和核…"
+    },
+    {
+      "slide": 69,
+      "text": "2.7 材料方法与结果：Error 500 (Server Error)!!1500.That's an error.There was an error.请稍后重试。我们只知道这些。"
+    },
+    {
+      "slide": 69,
+      "text": "对于 3' 生物素化 RNA，我们使用 Dynabeads My One Streptavidin C1 珠子（Invitrogen，目录号 11）进行了纯化步骤。"
+    },
+    {
+      "slide": 71,
+      "text": "TransferRNA 衍生的 RNA 片段 (t RF) 是从成熟或前体 TransferRNA (tRNA) 切割而来的一类新型小非编码 RNA。"
+    },
+    {
+      "slide": 72,
+      "text": "将小鼠 Mthfd1l 或 Pafah1b1 c DNA 克隆到 p LJC6-EF1core-Blast 载体中。"
+    },
+    {
+      "slide": 72,
+      "text": "将小鼠 5'-t RF Cys 靶标 Pafah1b1 和 Mthfd1l 或非靶标 GAPDH 的 5' UTR 克隆到 psi CHECK2 载体 (Promega) 中。"
+    },
+    {
+      "slide": 72,
+      "text": "我们确定 Nucleolin 是 5'-t RFCys 的直接结合伴侣。"
+    },
+    {
+      "slide": 72,
+      "text": "5'-t RFCys 促进 Nucleolin 及其结合的代谢转录物 Mthfd1l 和 Pafah1b1 寡聚化成更高阶的转录物…"
+    },
+    {
+      "slide": 73,
+      "text": "Pafah1b1 被提议通过调节 Pafah1b2 和 Pafah1b3（Arai…"
+    },
+    {
+      "slide": 81,
+      "text": "2.11 材料方法与结果：Error 500 (Server Error)!!1500.That's an error.There was an error.请稍后重试。我们只知道这些。"
+    },
+    {
+      "slide": 81,
+      "text": "此外，我们从 mim-tRNAseq 18 中提取了 TGIRT 数据，以便与 Induro 数据进行比较。"
+    },
+    {
+      "slide": 83,
+      "text": "t RN 于 1958 年首次发现，并被确定为弗朗西斯·克里克 (Francis Crick) 在 1954 年的“适配器假说”中预测的小适配器分子……"
+    },
+    {
+      "slide": 90,
+      "text": "在这些条件下，我们通过酸性 Northern blot 测量，实现了氨酰化芽殖酵母 tRNA 的高效连接，背景 <0.1%……"
+    },
+    {
+      "slide": 93,
+      "text": "结果 通过 Quant M-tRNA-seq 对成熟 tRNA 进行高通量测序。"
+    },
+    {
+      "slide": 95,
+      "text": "1. tRNA 修饰调节 m6A 依赖性 mRNA 衰减。"
+    },
+    {
+      "slide": 95,
+      "text": "4. TransferRNA修饰和细胞耐热性。"
+    },
+    {
+      "slide": 103,
+      "text": "PANDORA-seq（而非传统的小 RNA-seq）将 ts RNA-Glu-CTC 鉴定为肝脏中最丰富的 ts RNA 许多 sncRNA，包括 ts RNA……"
+    },
+    {
+      "slide": 105,
+      "text": "TransferRNA (tRNA) 具有种类最广泛、数量最多的 RNA 修饰。"
+    },
+    {
+      "slide": 106,
+      "text": "TransferRNA (tRNA) 具有种类最广泛、数量最多的 RNA 修饰。"
+    },
+    {
+      "slide": 107,
+      "text": "TransferRNA (tRNA) 具有种类最广泛、数量最多的 RNA 修饰。"
+    },
+    {
+      "slide": 109,
+      "text": "然后使用 Golden Gate Assembly（New…"
+    },
+    {
+      "slide": 112,
+      "text": "tRNAGln/Arg 与 v RNAP 协调组装 Rap94、NPH-I 和 E11 测试 tRNAGln/Arg 是否充当组装伴侣而不是……"
+    },
+    {
+      "slide": 112,
+      "text": "然后使用从完整 v RNAP 中分离出的 tRNAGln/Arg 和 tRNAGln/Arg，研究完整 v RNAP 的体外形成（图 1a）。"
+    },
+    {
+      "slide": 115,
+      "text": "3.7 材料方法与结果：Error 500 (Server Error)!!1500.That’s an error.There was an error.请稍后重试。我们只知道这些。"
+    },
+    {
+      "slide": 118,
+      "text": "受体臂 D 臂 T 臂 反密码子臂 m3C 位点 可变臂 32 26 22 13 7 65 49 48 53 61 1 76 18 19 44 5'P 3'OH 47B 47D 47F 47G d tRNASer t RN…"
+    },
+    {
+      "slide": 118,
+      "text": "1 | Ser RS-tRNA-METTL6 复合物的结构。"
+    },
+    {
+      "slide": 118,
+      "text": "a，人类METTL6和Ser RS的域组织。"
+    },
+    {
+      "slide": 133,
+      "text": "PUS1 在菌株 BL21 (DE3) Codon Plus-RIL 细胞中重组表达。"
+    },
+    {
+      "slide": 136,
+      "text": "3.14 材料方法与结果：Perturbation of METTL1-mediated tRNA N7-甲基鸟苷 modificatio…"
+    },
+    {
+      "slide": 137,
+      "text": "3.14 讨论与局限：Perturbation of METTL1-mediated tRNA N7-甲基鸟苷 modification…"
+    },
+    {
+      "slide": 137,
+      "text": "PAR-CLIP 显示 31.8% 的 METTL1 结合 RNA 属于 tRNA，这是测定中最丰富的 RNA 种类 90 。"
+    },
+    {
+      "slide": 148,
+      "text": "4.3 文献概览：tRNA neochromo 的设计、构建和功能表征……"
+    },
+    {
+      "slide": 149,
+      "text": "4.3 材料方法与结果：tRNA neoc 的设计、构建和功能表征……"
+    },
+    {
+      "slide": 149,
+      "text": "此外，283 个 rox 重组位点的存在使得正交 tRNA SCRa Mb LE 系统成为可能。"
+    },
+    {
+      "slide": 150,
+      "text": "4.3 讨论与局限：tRNA neochr 的设计、构建和功能表征……"
+    },
+    {
+      "slide": 150,
+      "text": "此外，283 个 rox 重组位点的存在使得正交 tRNA SCRa Mb LE 系统成为可能。"
+    },
+    {
+      "slide": 152,
+      "text": "100）和推荐参数（-ax map -ont -k15）（补充表2）。"
+    },
+    {
+      "slide": 167,
+      "text": "4.9 材料方法与结果：Error 500 (Server Error)!!1500.That's an error.There was an error.请稍后重试。我们只知道这些。"
+    },
+    {
+      "slide": 171,
+      "text": "在我们之前的研究中，我们发现组蛋白脱乙酰酶 Sirt6 8 和 RNA m 6 A reader Ythdf2 20 ，通过调节 HSC 的功能来维持 HSC 的功能。"
+    },
+    {
+      "slide": 176,
+      "text": "在这些条件下，我们通过酸性 Northern blot 测量，实现了氨酰化芽殖酵母 tRNA 的高效连接，背景 <0.1%……"
+    },
+    {
+      "slide": 181,
+      "text": "tRNA 表达在不同组织和发育过程中受到动态调节（Dittmar 等，2006；Ishimura 等，2014；Kutter 等，2014）。"
+    },
+    {
+      "slide": 182,
+      "text": "4.14 材料方法与结果：Error 500 (Server Error)!!1500.That's an error.There was an error.请稍后重试。我们只知道这些。"
+    },
+    {
+      "slide": 182,
+      "text": "根据制造商的说明，用 Trizol (Sigma Aldrich) 分离来自果蝇 BG3-c2、HEK293T 和人 i PS 细胞的 RNA。"
+    },
+    {
+      "slide": 182,
+      "text": "添加 1/10 体积 1-溴-3-氯丙烷（BCP，Sigma Aldrich）后，将样品在 10,000 x g 下离心 5 分钟，得到水相…"
+    }
+  ]
+}

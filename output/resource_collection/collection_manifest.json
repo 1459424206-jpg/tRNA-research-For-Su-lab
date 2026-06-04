@@ -1,0 +1,40 @@
+{
+  "topics": [
+    {
+      "slug": "biology_structure",
+      "folder": "biological functions and structural characteristics of tRNA",
+      "cn_title": "tRNA 的生物功能与结构特征",
+      "en_title": "Biological functions and structural characteristics of tRNA",
+      "paper_count": 15,
+      "github_repo_count": 2,
+      "figure_count": 6
+    },
+    {
+      "slug": "tools_algorithms",
+      "folder": "tRNA analysis tools and algorithms",
+      "cn_title": "tRNA 分析工具与算法",
+      "en_title": "tRNA analysis tools and algorithms",
+      "paper_count": 15,
+      "github_repo_count": 6,
+      "figure_count": 2
+    },
+    {
+      "slug": "mod_fingerprint_database",
+      "folder": "tRNA mod-fingerprint database",
+      "cn_title": "tRNA 修饰指纹数据库",
+      "en_title": "tRNA mod-fingerprint database",
+      "paper_count": 15,
+      "github_repo_count": 8,
+      "figure_count": 6
+    },
+    {
+      "slug": "wet_lab_experiments",
+      "folder": "tRNA-related wet-lab experiments",
+      "cn_title": "tRNA 相关湿实验",
+      "en_title": "tRNA-related wet-lab experiments",
+      "paper_count": 15,
+      "github_repo_count": 6,
+      "figure_count": 2
+    }
+  ]
+}

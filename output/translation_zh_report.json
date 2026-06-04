@@ -1,0 +1,411 @@
+{
+  "source": "D:\\Project\\tRNA research\\output\\final_presentation_cn_deep_literature.pptx",
+  "output": "D:\\Project\\tRNA research\\output\\final_presentation_cn_deep_literature_zh_only.pptx",
+  "unique_translated": 328,
+  "paragraphs_replaced": 1402,
+  "paragraphs_normalized_only": 7,
+  "failures": [],
+  "remaining_english_like_count": 587,
+  "remaining_english_like_sample": [
+    {
+      "slide": 3,
+      "text": "3. tRNA 修饰调节 m6A 依赖性 mRNA 衰减。"
+    },
+    {
+      "slide": 4,
+      "text": "1.1 文献概览：RNA-triggered Cas12a3 cleaves tRNA tails to execute bacterial immunity."
+    },
+    {
+      "slide": 4,
+      "text": "1.1 | Nature (2026) | 实验研究 | DOI 10.1038/s41586-025-09852-9"
+    },
+    {
+      "slide": 4,
+      "text": "来源：Nature 2026; PMID 41501459; PMCID PMC12851939; DOI 10.1038/s41586-025-09852-9"
+    },
+    {
+      "slide": 5,
+      "text": "1.1 材料方法与结果：RNA-triggered Cas12a3 cleaves tRNA tails to execute bacterial immuni…"
+    },
+    {
+      "slide": 5,
+      "text": "1.1 | Nature (2026) | 实验研究 | DOI 10.1038/s41586-025-09852-9"
+    },
+    {
+      "slide": 5,
+      "text": "来源：Nature 2026; PMID 41501459; PMCID PMC12851939; DOI 10.1038/s41586-025-09852-9"
+    },
+    {
+      "slide": 6,
+      "text": "1.1 讨论与局限：RNA-triggered Cas12a3 cleaves tRNA tails to execute bacterial immunity."
+    },
+    {
+      "slide": 6,
+      "text": "1.1 | Nature (2026) | 实验研究 | DOI 10.1038/s41586-025-09852-9"
+    },
+    {
+      "slide": 6,
+      "text": "来源：Nature 2026; PMID 41501459; PMCID PMC12851939; DOI 10.1038/s41586-025-09852-9"
+    },
+    {
+      "slide": 7,
+      "text": "1.2 文献概览：A virally encoded tRNA neutralizes the PARIS antiviral defence system."
+    },
+    {
+      "slide": 7,
+      "text": "1.2 | Nature (2024) | 实验研究 | DOI 10.1038/s41586-024-07874-3"
+    },
+    {
+      "slide": 7,
+      "text": "来源：Nature 2024; PMID 39111359; PMCID PMC11464382; DOI 10.1038/s41586-024-07874-3"
+    },
+    {
+      "slide": 8,
+      "text": "1.2 材料方法与结果：A virally encoded tRNA neutralizes the PARIS antiviral defence syste…"
+    },
+    {
+      "slide": 8,
+      "text": "1.2 | Nature (2024) | 实验研究 | DOI 10.1038/s41586-024-07874-3"
+    },
+    {
+      "slide": 8,
+      "text": "大肠杆菌 MG1655 在 Ocr 诱导后的不同时间点携带质粒 p FR85 (PARIS) 和 p FD250 (P Phl F -Ocr)，有或没有 DAPG (n = 3…"
+    },
+    {
+      "slide": 8,
+      "text": "大肠杆菌 MG1655 在诱导 Ocr 表达后的不同时间点携带质粒 p FR85 (PARIS) 或 p FR66 (sf GFP) 和 p FD250 (P Phl F -Ocr)…"
+    },
+    {
+      "slide": 8,
+      "text": "来源：Nature 2024; PMID 39111359; PMCID PMC11464382; DOI 10.1038/s41586-024-07874-3"
+    },
+    {
+      "slide": 9,
+      "text": "1.2 讨论与局限：A virally encoded tRNA neutralizes the PARIS antiviral defence system."
+    },
+    {
+      "slide": 9,
+      "text": "1.2 | Nature (2024) | 实验研究 | DOI 10.1038/s41586-024-07874-3"
+    },
+    {
+      "slide": 9,
+      "text": "来源：Nature 2024; PMID 39111359; PMCID PMC11464382; DOI 10.1038/s41586-024-07874-3"
+    },
+    {
+      "slide": 10,
+      "text": "1.3 文献概览：tRNA modifications tune m6A-dependent mRNA decay."
+    },
+    {
+      "slide": 10,
+      "text": "1.3 | Cell (2025) | 实验研究 | DOI 10.1016/j.cell.2025.04.013"
+    },
+    {
+      "slide": 10,
+      "text": "来源：Cell 2025; PMID 40311619; PMCID PMC12255531; DOI 10.1016/j.cell.2025.04.013"
+    },
+    {
+      "slide": 11,
+      "text": "1.3 材料方法与结果：tRNA modifications tune m6A-dependent mRNA decay."
+    },
+    {
+      "slide": 11,
+      "text": "1.3 | Cell (2025) | 实验研究 | DOI 10.1016/j.cell.2025.04.013"
+    },
+    {
+      "slide": 11,
+      "text": "来源：Cell 2025; PMID 40311619; PMCID PMC12255531; DOI 10.1016/j.cell.2025.04.013"
+    },
+    {
+      "slide": 12,
+      "text": "1.3 讨论与局限：tRNA modifications tune m6A-dependent mRNA decay."
+    },
+    {
+      "slide": 12,
+      "text": "1.3 | Cell (2025) | 实验研究 | DOI 10.1016/j.cell.2025.04.013"
+    },
+    {
+      "slide": 12,
+      "text": "来源：Cell 2025; PMID 40311619; PMCID PMC12255531; DOI 10.1016/j.cell.2025.04.013"
+    },
+    {
+      "slide": 13,
+      "text": "1.4 | Nature biotechnology (2026) | 实验研究 | DOI 10.1038/s41587-025-02982-5"
+    },
+    {
+      "slide": 13,
+      "text": "来源：Nature biotechnology 2026; PMID 41555020; PMCID 无; DOI 10.1038/s41587-025-02982-5；PMCID NA"
+    },
+    {
+      "slide": 14,
+      "text": "1.4 材料方法与结果：An engineered UGA suppressor tRNA gene for disease-agnostic AAV deli…"
+    },
+    {
+      "slide": 14,
+      "text": "1.4 | Nature biotechnology (2026) | 实验研究 | DOI 10.1038/s41587-025-02982-5"
+    },
+    {
+      "slide": 14,
+      "text": "来源：Nature biotechnology 2026; PMID 41555020; PMCID 无; DOI 10.1038/s41587-025-02982-5；PMCID NA"
+    },
+    {
+      "slide": 15,
+      "text": "1.4 讨论与局限：An engineered UGA suppressor tRNA gene for disease-agnostic AAV delive…"
+    },
+    {
+      "slide": 15,
+      "text": "1.4 | Nature biotechnology (2026) | 实验研究 | DOI 10.1038/s41587-025-02982-5"
+    },
+    {
+      "slide": 15,
+      "text": "来源：Nature biotechnology 2026; PMID 41555020; PMCID 无; DOI 10.1038/s41587-025-02982-5；PMCID NA"
+    },
+    {
+      "slide": 16,
+      "text": "1.5 文献概览：AAV-delivered UGA suppressor tRNA for disease-agnostic in vivo gene thera…"
+    },
+    {
+      "slide": 16,
+      "text": "1.5 | Nature biotechnology (2026) | 实验研究 | DOI 10.1038/s41587-026-02999-4"
+    },
+    {
+      "slide": 16,
+      "text": "来源：Nature biotechnology 2026; PMID 41629463; PMCID 无; DOI 10.1038/s41587-026-02999-4；PMCID NA"
+    },
+    {
+      "slide": 17,
+      "text": "1.5 材料方法与结果：AAV-delivered UGA suppressor tRNA for disease-agnostic in vivo gene…"
+    },
+    {
+      "slide": 17,
+      "text": "1.5 | Nature biotechnology (2026) | 实验研究 | DOI 10.1038/s41587-026-02999-4"
+    },
+    {
+      "slide": 17,
+      "text": "来源：Nature biotechnology 2026; PMID 41629463; PMCID 无; DOI 10.1038/s41587-026-02999-4；PMCID NA"
+    },
+    {
+      "slide": 18,
+      "text": "1.5 讨论与局限：AAV-delivered UGA suppressor tRNA for disease-agnostic in vivo gene th…"
+    },
+    {
+      "slide": 18,
+      "text": "1.5 | Nature biotechnology (2026) | 实验研究 | DOI 10.1038/s41587-026-02999-4"
+    },
+    {
+      "slide": 18,
+      "text": "来源：Nature biotechnology 2026; PMID 41629463; PMCID 无; DOI 10.1038/s41587-026-02999-4；PMCID NA"
+    },
+    {
+      "slide": 19,
+      "text": "1.6 | Nature structural & molecular biology (2025) | 综述 | DOI 10.1038/s41594-025-01653-y"
+    },
+    {
+      "slide": 19,
+      "text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "slide": 19,
+      "text": "来源：《自然·结构与分子生物学》2025； PMID 40908366； PMCID PMC12618233； DOI 10.1038/s41594-025-01653-y"
+    },
+    {
+      "slide": 20,
+      "text": "1.6 综述主要论点：tRNA as an assembly chaperone for a macromolecular transcription-pro…"
+    },
+    {
+      "slide": 20,
+      "text": "1.6 | Nature structural & molecular biology (2025) | 综述 | DOI 10.1038/s41594-025-01653-y"
+    },
+    {
+      "slide": 20,
+      "text": "tRNAGln/Arg 与 v RNAP 协调组装 Rap94、NPH-I 和 E11 测试 tRNAGln/Arg 是否充当组装伴侣而不是……"
+    },
+    {
+      "slide": 20,
+      "text": "然后使用从完整 v RNAP 中分离出的 tRNAGln/Arg 和 tRNAGln/Arg，研究完整 v RNAP 的体外形成（图 1a）。"
+    },
+    {
+      "slide": 20,
+      "text": "来源：《自然·结构与分子生物学》2025； PMID 40908366； PMCID PMC12618233； DOI 10.1038/s41594-025-01653-y"
+    },
+    {
+      "slide": 21,
+      "text": "1.6 综合观点与空白：tRNA as an assembly chaperone for a macromolecular transcription-proce…"
+    },
+    {
+      "slide": 21,
+      "text": "1.6 | Nature structural & molecular biology (2025) | 综述 | DOI 10.1038/s41594-025-01653-y"
+    },
+    {
+      "slide": 21,
+      "text": "来源：《自然·结构与分子生物学》2025； PMID 40908366； PMCID PMC12618233； DOI 10.1038/s41594-025-01653-y"
+    },
+    {
+      "slide": 22,
+      "text": "1.7 文献概览：Structural basis of tRNA recognition by the m3C RNA methyltransferase MET…"
+    },
+    {
+      "slide": 22,
+      "text": "1.7 | Nature structural & molecular biology (2024) | 实验研究 | DOI 10.1038/s41594-024-01341-3"
+    },
+    {
+      "slide": 22,
+      "text": "来源：《自然·结构与分子生物学》2024； PMID 38918637； PMCID PMC11479938； DOI 10.1038/s41594-024-01341-3"
+    },
+    {
+      "slide": 23,
+      "text": "1.7 材料方法与结果：Structural basis of tRNA recognition by the m3C RNA methyltransferas…"
+    },
+    {
+      "slide": 23,
+      "text": "1.7 | Nature structural & molecular biology (2024) | 实验研究 | DOI 10.1038/s41594-024-01341-3"
+    },
+    {
+      "slide": 23,
+      "text": "受体臂 D 臂 T 臂 反密码子臂 m3C 位点 可变臂 32 26 22 13 7 65 49 48 53 61 1 76 18 19 44 5'P 3'OH 47B 47D 47F 47G d tRNASer t RN…"
+    },
+    {
+      "slide": 23,
+      "text": "1 | Ser RS-tRNA-METTL6 复合物的结构。"
+    },
+    {
+      "slide": 23,
+      "text": "a，人类METTL6和Ser RS的域组织。"
+    },
+    {
+      "slide": 23,
+      "text": "来源：《自然·结构与分子生物学》2024； PMID 38918637； PMCID PMC11479938； DOI 10.1038/s41594-024-01341-3"
+    },
+    {
+      "slide": 24,
+      "text": "1.7 讨论与局限：Structural basis of tRNA recognition by the m3C RNA methyltransferase…"
+    },
+    {
+      "slide": 24,
+      "text": "1.7 | Nature structural & molecular biology (2024) | 实验研究 | DOI 10.1038/s41594-024-01341-3"
+    },
+    {
+      "slide": 24,
+      "text": "来源：《自然·结构与分子生物学》2024； PMID 38918637； PMCID PMC11479938； DOI 10.1038/s41594-024-01341-3"
+    },
+    {
+      "slide": 25,
+      "text": "1.8 文献概览：A methyltransferase-independent role for METTL1 in tRNA aminoacylation an…"
+    },
+    {
+      "slide": 25,
+      "text": "1.8 | Molecular cell (2025) | 实验研究 | DOI 10.1016/j.molcel.2025.01.003"
+    },
+    {
+      "slide": 25,
+      "text": "来源：Molecular cell 2025; PMID 39892392; PMCID PMC11925124; DOI 10.1016/j.molcel.2025.01.003"
+    },
+    {
+      "slide": 26,
+      "text": "1.8 材料方法与结果：A methyltransferase-independent role for METTL1 in tRNA aminoacylati…"
+    },
+    {
+      "slide": 26,
+      "text": "1.8 | Molecular cell (2025) | 实验研究 | DOI 10.1016/j.molcel.2025.01.003"
+    },
+    {
+      "slide": 26,
+      "text": "来源：Molecular cell 2025; PMID 39892392; PMCID PMC11925124; DOI 10.1016/j.molcel.2025.01.003"
+    },
+    {
+      "slide": 27,
+      "text": "1.8 讨论与局限：A methyltransferase-independent role for METTL1 in tRNA aminoacylation…"
+    },
+    {
+      "slide": 27,
+      "text": "1.8 | Molecular cell (2025) | 实验研究 | DOI 10.1016/j.molcel.2025.01.003"
+    },
+    {
+      "slide": 27,
+      "text": "来源：Molecular cell 2025; PMID 39892392; PMCID PMC11925124; DOI 10.1016/j.molcel.2025.01.003"
+    },
+    {
+      "slide": 28,
+      "text": "1.9 文献概览：Translational regulation by oxidative desulfuration of tRNA modifications."
+    },
+    {
+      "slide": 28,
+      "text": "1.9 | Nature communications (2026) | 实验研究 | DOI 10.1038/s41467-026-70126-7"
+    },
+    {
+      "slide": 28,
+      "text": "来源：Nature communications 2026; PMID 41807381; PMCID PMC12976133; DOI 10.1038/s41467-026-70126-7"
+    },
+    {
+      "slide": 29,
+      "text": "1.9 材料方法与结果：Translational regulation by oxidative desulfuration of tRNA modifica…"
+    },
+    {
+      "slide": 29,
+      "text": "1.9 | Nature communications (2026) | 实验研究 | DOI 10.1038/s41467-026-70126-7"
+    },
+    {
+      "slide": 29,
+      "text": "来源：Nature communications 2026; PMID 41807381; PMCID PMC12976133; DOI 10.1038/s41467-026-70126-7"
+    },
+    {
+      "slide": 30,
+      "text": "1.9 讨论与局限：Translational regulation by oxidative desulfuration of tRNA modificati…"
+    },
+    {
+      "slide": 30,
+      "text": "1.9 | Nature communications (2026) | 实验研究 | DOI 10.1038/s41467-026-70126-7"
+    },
+    {
+      "slide": 30,
+      "text": "来源：Nature communications 2026; PMID 41807381; PMCID PMC12976133; DOI 10.1038/s41467-026-70126-7"
+    },
+    {
+      "slide": 31,
+      "text": "1.10 文献概览：Structure of fungal tRNA ligase Trl1 with RNA reveals conserved substrate…"
+    },
+    {
+      "slide": 31,
+      "text": "1.10 | Nature structural & molecular biology (2025) | 实验研究 | DOI 10.1038/s41594-025-01589-3"
+    },
+    {
+      "slide": 31,
+      "text": "来源：Nature structural & molecular biology 2025; PMID 40563009; PMCID PMC12440814; DOI 10.1038/s41594-025-01589-3"
+    },
+    {
+      "slide": 32,
+      "text": "1.10 材料方法与结果：Structure of fungal tRNA ligase Trl1 with RNA reveals conserved subs…"
+    },
+    {
+      "slide": 32,
+      "text": "1.10 | Nature structural & molecular biology (2025) | 实验研究 | DOI 10.1038/s41594-025-01589-3"
+    },
+    {
+      "slide": 32,
+      "text": "在 5'-5' RNA-腺苷酸 (App RNA) 中。"
+    },
+    {
+      "slide": 32,
+      "text": "电子邮件：jirka.peschek@bzh.uni-heidelberg.de 自然结构与分子生物学 |第 32 卷 | 2025 年 9 月 | 1657–1668 第1658章 文章 https://…"
+    },
+    {
+      "slide": 32,
+      "text": "来源：Nature structural & molecular biology 2025; PMID 40563009; PMCID PMC12440814; DOI 10.1038/s41594-025-01589-3"
+    },
+    {
+      "slide": 33,
+      "text": "1.10 讨论与局限：Structure of fungal tRNA ligase Trl1 with RNA reveals conserved substr…"
+    },
+    {
+      "slide": 33,
+      "text": "1.10 | Nature structural & molecular biology (2025) | 实验研究 | DOI 10.1038/s41594-025-01589-3"
+    },
+    {
+      "slide": 33,
+      "text": "真菌 tRNA 连接酶 Trl1 是 UPR5 期间 tRNA 剪接和非常规 HAC1 mRNA 剪接的必需酶，12。"
+    },
+    {
+      "slide": 33,
+      "text": "来源：Nature structural & molecular biology 2025; PMID 40563009; PMCID PMC12440814; DOI 10.1038/s41594-025-01589-3"
+    }
+  ]
+}

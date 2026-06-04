@@ -1,0 +1,4 @@
+task mode: create
+primary deck-profile: appendix-heavy
+required proof objects: section dividers, dense readable tables/text pages, paper screenshots, source page
+design: white background, black text, title 16 pt, body 12 pt

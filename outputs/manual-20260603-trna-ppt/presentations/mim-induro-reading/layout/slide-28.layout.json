@@ -1,0 +1,484 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/fjob66",
+    "id": "fjob66",
+    "slide": 28,
+    "layoutId": "42581c0e-4943-42be-85a5-b7080690ea9f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "fc1e64e1-0fbe-4b79-9a49-529bfc6f038b",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Noto Sans SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "42581c0e-4943-42be-85a5-b7080690ea9f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "fc1e64e1-0fbe-4b79-9a49-529bfc6f038b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "fc1e64e1-0fbe-4b79-9a49-529bfc6f038b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pwb2hwfy",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i5sneloj",
+      "id": "2",
+      "bbox": [
+        38,
+        26,
+        1204,
+        38
+      ],
+      "geometry": "rect",
+      "text": "4. 主要结果 (1/2)",
+      "textPreview": "4. 主要结果 (1/2)",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Noto Sans SC",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 4,
+          "bottom": 2,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4. 主要结果 (1/2)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "4. 主要结果 (1/2)",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4. 主要结果 (1/2)",
+              "fontSize": 16,
+              "typeface": "Noto Sans SC",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7qpg3ex0",
+      "id": "3",
+      "bbox": [
+        38,
+        68,
+        1204,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wjudg7ad",
+      "id": "4",
+      "bbox": [
+        58,
+        92,
+        1160,
+        570
+      ],
+      "geometry": "rect",
+      "text": "结果 1：Induro-tRNAseq 工作流可靠。  \nInduro 与 TGIRT/mim-tRNAseq 测得的 cytosolic tRNA 和 mitochondrial tRNA 丰度整体高度相关。Induro 对 mt-Ser(GCT) 的检测优于 TGIRT 工作流。3' CCA 完整性较高，说明流程对 tRNA 降解较少。\n\n结果 2：Induro 读穿强烈依赖温度和时间。  \n55 °C 是厂家推荐的通用条件，但对 tRNA 修饰读穿并不理想，读穿约 10% 且随时间不改善。37 °C 过夜最高可到约 90% 读穿，42 °C 过夜约 60%。作者最终选择 42 °C 过夜，因为 42 °C 有完整时间梯度数据，且检测到的潜在修饰数量更多。\n\n结果 3：Induro 的读穿提升主要来自减少 RT stop，而不是改变 misincorporation。  \n作者发现 misincorporation 频率在时间过程中基本稳定，readthrough 增加来自 RT stops 下降。这说明 misincorporation 更像 Induro 对特定修饰的内在指纹，而 RT stop 更受温度、时间和结构环境调控。\n\n结果 4：不同修饰的 Induro 指纹不同。  \n多数 RT-readable 修饰以 0 位 misincorporation 为主，RT stop 较低。I34 几乎只有错配、没有停顿。acp3U20a 和 ms2i6A37/ms2t6A37 是主要例外，常在修饰后 +1 位发生 RT stop。m3C32 可被 Induro 读穿，这是方法学亮点。",
+      "textPreview": "结果 1：Induro-tRNAseq 工作流可靠。   | Induro 与 TGIRT/mim-tRNAseq 测得的 cytosolic tRNA 和 mitochondrial tRNA 丰度整体高度相关。Induro 对 mt-Ser(GCT) 的检测优于 TGI...",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "Noto Sans SC",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 4,
+          "bottom": 2,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 13,
+        "lines": [
+          {
+            "index": 1,
+            "text": "结果 1：Induro-tRNAseq 工作流可靠。"
+          },
+          {
+            "index": 2,
+            "text": "Induro 与 TGIRT/mim-tRNAseq 测得的 cytosolic tRNA 和 mitochondrial tRNA 丰度整体高度相关。Induro 对 mt-Ser(GCT) 的检测优于 TGIRT 工作流。3' CCA 完整性较高，说明流程对 tRNA 降解较少。"
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": "结果 2：Induro 读穿强烈依赖温度和时间。"
+          },
+          {
+            "index": 5,
+            "text": "55 °C 是厂家推荐的通用条件，但对 tRNA 修饰读穿并不理想，读穿约 10% 且随时间不改善。37 °C 过夜最高可到约 90% 读穿，42 °C 过夜约 60%。作者最终选择 42 °C 过夜，因为 42 °C"
+          },
+          {
+            "index": 6,
+            "text": "有完整时间梯度数据，且检测到的潜在修饰数量更多。"
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": "结果 3：Induro 的读穿提升主要来自减少 RT stop，而不是改变 misincorporation。"
+          },
+          {
+            "index": 9,
+            "text": "作者发现 misincorporation 频率在时间过程中基本稳定，readthrough 增加来自 RT stops 下降。这说明 misincorporation 更像 Induro 对特定修饰的内在指纹，而 RT stop 更受温度、时间和结构环境调控。"
+          },
+          {
+            "index": 10,
+            "text": ""
+          },
+          {
+            "index": 11,
+            "text": "结果 4：不同修饰的 Induro 指纹不同。"
+          },
+          {
+            "index": 12,
+            "text": "多数 RT-readable 修饰以 0 位 misincorporation 为主，RT stop 较低。I34 几乎只有错配、没有停顿。acp3U20a 和 ms2i6A37/ms2t6A37 是主要例外，常在修饰后 +1 位发生 RT stop。m3C32 可被 Induro"
+          },
+          {
+            "index": 13,
+            "text": "读穿，这是方法学亮点。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "结果 1：Induro-tRNAseq 工作流可靠。  ",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "结果 1：Induro-tRNAseq 工作流可靠。  ",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Induro 与 TGIRT/mim-tRNAseq 测得的 cytosolic tRNA 和 mitochondrial tRNA 丰度整体高度相关。Induro 对 mt-Ser(GCT) 的检测优于 TGIRT 工作流。3' CCA 完整性较高，说明流程对 tRNA 降解较少。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Induro 与 TGIRT/mim-tRNAseq 测得的 cytosolic tRNA 和 mitochondrial tRNA 丰度整体高度相关。Induro 对 mt-Ser(GCT) 的检测优于 TGIRT 工作流。3' CCA 完整性较高，说明流程对 tRNA 降解较少。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "结果 2：Induro 读穿强烈依赖温度和时间。  ",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "结果 2：Induro 读穿强烈依赖温度和时间。  ",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "55 °C 是厂家推荐的通用条件，但对 tRNA 修饰读穿并不理想，读穿约 10% 且随时间不改善。37 °C 过夜最高可到约 90% 读穿，42 °C 过夜约 60%。作者最终选择 42 °C 过夜，因为 42 °C 有完整时间梯度数据，且检测到的潜在修饰数量更多。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "55 °C 是厂家推荐的通用条件，但对 tRNA 修饰读穿并不理想，读穿约 10% 且随时间不改善。37 °C 过夜最高可到约 90% 读穿，42 °C 过夜约 60%。作者最终选择 42 °C 过夜，因为 42 °C 有完整时间梯度数据，且检测到的潜在修饰数量更多。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "结果 3：Induro 的读穿提升主要来自减少 RT stop，而不是改变 misincorporation。  ",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "结果 3：Induro 的读穿提升主要来自减少 RT stop，而不是改变 misincorporation。  ",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "作者发现 misincorporation 频率在时间过程中基本稳定，readthrough 增加来自 RT stops 下降。这说明 misincorporation 更像 Induro 对特定修饰的内在指纹，而 RT stop 更受温度、时间和结构环境调控。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "作者发现 misincorporation 频率在时间过程中基本稳定，readthrough 增加来自 RT stops 下降。这说明 misincorporation 更像 Induro 对特定修饰的内在指纹，而 RT stop 更受温度、时间和结构环境调控。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 10,
+          "text": "结果 4：不同修饰的 Induro 指纹不同。  ",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "结果 4：不同修饰的 Induro 指纹不同。  ",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 11,
+          "text": "多数 RT-readable 修饰以 0 位 misincorporation 为主，RT stop 较低。I34 几乎只有错配、没有停顿。acp3U20a 和 ms2i6A37/ms2t6A37 是主要例外，常在修饰后 +1 位发生 RT stop。m3C32 可被 Induro 读穿，这是方法学亮点。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "多数 RT-readable 修饰以 0 位 misincorporation 为主，RT stop 较低。I34 几乎只有错配、没有停顿。acp3U20a 和 ms2i6A37/ms2t6A37 是主要例外，常在修饰后 +1 位发生 RT stop。m3C32 可被 Induro 读穿，这是方法学亮点。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4r65wju",
+      "id": "5",
+      "bbox": [
+        38,
+        690,
+        1180,
+        18
+      ],
+      "geometry": "rect",
+      "text": "mim-tRNAseq / Induro-tRNAseq | 28",
+      "textPreview": "mim-tRNAseq / Induro-tRNAseq | 28",
+      "resolvedFontSize": 8,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 8,
+        "typeface": "Noto Sans SC",
+        "color": "#333333",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "mim-tRNAseq / Induro-tRNAseq | 28"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "mim-tRNAseq / Induro-tRNAseq | 28",
+          "resolvedTextStyle": {
+            "fontSize": 8,
+            "typeface": "Noto Sans SC",
+            "color": "#333333",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "mim-tRNAseq / Induro-tRNAseq | 28",
+              "fontSize": 8,
+              "typeface": "Noto Sans SC",
+              "color": "#333333"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

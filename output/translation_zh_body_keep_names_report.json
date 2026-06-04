@@ -1,0 +1,242 @@
+{
+  "source": "D:\\Project\\tRNA research\\output\\final_presentation_cn_deep_literature.pptx",
+  "output": "D:\\Project\\tRNA research\\output\\final_presentation_cn_deep_literature_zh_body_keep_names.pptx",
+  "changed_paragraphs": 1396,
+  "translated_body_paragraphs": 839,
+  "paper_title_lines_preserved": 202,
+  "remaining_body_english_like_count": 57,
+  "remaining_body_english_like_sample": [
+    {
+      "slide": 3,
+      "text": "7. __​​TERM3__ RNA 甲基转移酶 METTL6 识别 tRNA 的结构基础..."
+    },
+    {
+      "slide": 8,
+      "text": "大肠杆菌 MG1655 在 Ocr 诱导后的不同时间点携带质粒 p FR85 (PARIS) 和 p FD250 (P Phl F -Ocr)，有或没有 DAPG (n = 3…"
+    },
+    {
+      "slide": 8,
+      "text": "大肠杆菌 MG1655 在诱导 Ocr 表达后的不同时间点携带质粒 p FR85 (PARIS) 或 p FR66 (sf GFP) 和 p FD250 (P Phl F -Ocr)…"
+    },
+    {
+      "slide": 14,
+      "text": "、h NFS-R8 和 m NFS-R8 在血清中恢复了比 U6-R8 更高的 GLuc 活性，优于 U6-R7 和 U6-R17（图 1）。"
+    },
+    {
+      "slide": 20,
+      "text": "通过 tRNAGln/Arg 协调组装 Rap94、NPH-I 和 E11 与 v RNAP 测试 tRNAGln/Arg 是否充当组装伴侣而不是..."
+    },
+    {
+      "slide": 21,
+      "text": "1.6 综合观点与空白：tRNA as an assembly chaperone for a macromolecular transcription-proce…"
+    },
+    {
+      "slide": 23,
+      "text": "受体臂 D 臂 T 臂 反密码子臂 m3C 位点 可变臂 32 26 22 13 7 65 49 48 53 61 1 76 18 19 44 5'P 3'OH 47B 47D 47F 47G d tRNASer t RN…"
+    },
+    {
+      "slide": 23,
+      "text": "1 | Ser RS–tRNA–METTL6 复合体的结构。"
+    },
+    {
+      "slide": 32,
+      "text": "电子邮件：jirka.peschek@bzh.uni-heidelberg.de 自然结构与分子生物学 |第 32 卷 | 2025 年 9 月 | 1657–1668 第1658章 文章 https://…"
+    },
+    {
+      "slide": 33,
+      "text": "真菌 tRNA 连接酶 Trl1 是 tRNA 剪接和 UPR5 期间非常规 HAC1 mRNA 剪接的必需酶，12。"
+    },
+    {
+      "slide": 34,
+      "text": "TransferRNA (tRNA) 是拷贝数最丰富的细胞RNA家族。"
+    },
+    {
+      "slide": 36,
+      "text": "这里使用的参数是：ΔDMS signal = DMS signalin vivo_As O2 – DMS signalinvivo_control。"
+    },
+    {
+      "slide": 38,
+      "text": "n = 4 对于 WT，Δ3′A； n = 2 表示 ASLGAAA、3′UGGU、ASLGAAA/5′GC、ASLGAAA/5′GGCC、G18C/G19C/ΔACCA；对于 ΔACCA，n = 3，ASLGAAA/ΔACCA； n = 9 表示 G18C/G19..."
+    },
+    {
+      "slide": 44,
+      "text": "通过 Hydro-tRNAseq 和 PAR-CLIP 表征前体和成熟人类 tRNA 的表达和加工。"
+    },
+    {
+      "slide": 44,
+      "text": "1a），与我们之前的工作一致，证明 RTCB 和 PYROXD1 的相互作用是 NAD(P)H-dependent 并且 NAD(P)+ 不支持......"
+    },
+    {
+      "slide": 48,
+      "text": "我们筛选了 11 个近同源的 super-tRNA Arg，并确定了最有效的一个，sup-tRNA Arg -TCT-1。"
+    },
+    {
+      "slide": 60,
+      "text": "酿酒酵母 tRNA 丰度与使用三种不同的基于 Illumina 的方法报告的丰度相比：(1) ARM-seq 74、(2) Hydro-tRNAseq 80 和 (3) mim-t…"
+    },
+    {
+      "slide": 60,
+      "text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "slide": 68,
+      "text": "后者又可细分为结构性ncRNA，如核糖体RNA（rRNA）和转移RNA（tRNA）；小核 (sn RNA) 和核…"
+    },
+    {
+      "slide": 69,
+      "text": "对于 3' 生物素化 RNA，我们使用 Dynabeads My One Streptavidin C1 珠子（Invitrogen，货号：1500）执行纯化步骤。"
+    },
+    {
+      "slide": 71,
+      "text": "TransferRNA 衍生的 RNA 片段 (t RF) 是从成熟或前体转移 RNAs (tRNAs) 裂解而来的一类新型小型非编码 RNAs。"
+    },
+    {
+      "slide": 72,
+      "text": "FLAG- 标记的小鼠 Nucleolin c DNA 被克隆到 PC DNA3 中。"
+    },
+    {
+      "slide": 72,
+      "text": "小鼠 Mthfd1l 或 Pafah1b1 c DNA 被克隆到 p LJC6-EF1core-Blast 载体中。"
+    },
+    {
+      "slide": 72,
+      "text": "小鼠 5’-t RF Cys 目标 Pafah1b1 和 Mthfd1l 或非目标 GAPDH 的 5’ UTR 被克隆到 psi CHECK2 载体 (Promega) 中。"
+    },
+    {
+      "slide": 72,
+      "text": "我们确定 Nucleolin 是 5'-t RFCys 的直接结合伴侣。"
+    },
+    {
+      "slide": 73,
+      "text": "Pafah1b1 被提议通过调节 Pafah1b2 和 Pafah1b3 的酶活性来控制血小板激活因子 (PAF) 水平（Arai…"
+    },
+    {
+      "slide": 81,
+      "text": "此外，我们从 mim-tRNAseq 18 中提取了 TGIRT 数据，以便与 Induro 数据进行比较。"
+    },
+    {
+      "slide": 81,
+      "text": "多重 Induro-tRNAseq 工作流程 在 Induro-tRNAseq 的开发中，我们使用了总 RNA。"
+    },
+    {
+      "slide": 84,
+      "text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "slide": 85,
+      "text": "2.12 综合观点与空白：tRNA renovatio: Rebirth through fragmentation."
+    },
+    {
+      "slide": 85,
+      "text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "slide": 88,
+      "text": "2.13 综合观点与空白：tRNA modification dynamics from individual organisms to metaepitranscr…"
+    },
+    {
+      "slide": 91,
+      "text": "2.14 综合观点与空白：Nanopore sequencing of intact aminoacylated tRNAs."
+    },
+    {
+      "slide": 93,
+      "text": "结果 通过 Quant M- tRNA-seq 对成熟 tRNA 进行高通量测序。"
+    },
+    {
+      "slide": 95,
+      "text": "8. m3C RNA 甲基转移酶 METTL6 识别 tRNA 的结构基础..."
+    },
+    {
+      "slide": 95,
+      "text": "14. METTL1-mediated tRNA N7- 甲基鸟修饰的扰动会导致衰老并……"
+    },
+    {
+      "slide": 103,
+      "text": "PANDORA-seq 但不是传统的小 RNA-seq 将 ts RNA-Glu-CTC 识别为肝脏中最丰富的 ts RNA 许多 sncRNAs 包括 ts RNAs..."
+    },
+    {
+      "slide": 105,
+      "text": "TransferRNA (tRNA) 具有最广泛和最多数量的 RNA 修改。"
+    },
+    {
+      "slide": 106,
+      "text": "TransferRNA (tRNA) 具有最广泛和最多数量的 RNA 修改。"
+    },
+    {
+      "slide": 107,
+      "text": "3.4 综合观点与空白：TransferRNA modifications and cellular thermotolerance."
+    },
+    {
+      "slide": 107,
+      "text": "TransferRNA (tRNA) 具有最广泛和最多数量的 RNA 修改。"
+    },
+    {
+      "slide": 109,
+      "text": "然后使用 Golden Gate Assembly（New…"
+    },
+    {
+      "slide": 109,
+      "text": "NAT10 是唯一已知的负责 N4-acetylcytidine (ac4C) 修饰 RNA 的乙酰转移酶。"
+    },
+    {
+      "slide": 112,
+      "text": "通过 tRNAGln/Arg 协调组装 Rap94、NPH-I 和 E11 与 v RNAP 测试 tRNAGln/Arg 是否充当组装伴侣而不是..."
+    },
+    {
+      "slide": 113,
+      "text": "3.6 综合观点与空白：tRNA as an assembly chaperone for a macromolecular transcription-proce…"
+    },
+    {
+      "slide": 118,
+      "text": "受体臂 D 臂 T 臂 反密码子臂 m3C 位点 可变臂 32 26 22 13 7 65 49 48 53 61 1 76 18 19 44 5'P 3'OH 47B 47D 47F 47G d tRNASer t RN…"
+    },
+    {
+      "slide": 118,
+      "text": "1 | Ser RS–tRNA–METTL6 复合体的结构。"
+    },
+    {
+      "slide": 124,
+      "text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "slide": 125,
+      "text": "3.10 综合观点与空白：tRNA renovatio: Rebirth through fragmentation."
+    },
+    {
+      "slide": 125,
+      "text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "slide": 133,
+      "text": "PUS1 在菌株 BL21 (DE3) Codon Plus-RIL 细胞中重组表达。"
+    },
+    {
+      "slide": 137,
+      "text": "PAR-CLIP 显示 31.8% 的 METTL1 结合 RNA 属于 tRNA，这是测定中最丰富的 RNA 种类 90 。"
+    },
+    {
+      "slide": 152,
+      "text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "slide": 155,
+      "text": "、h NFS-R8 和 m NFS-R8 在血清中恢复了比 U6-R8 更高的 GLuc 活性，优于 U6-R7 和 U6-R17（图 1）。"
+    },
+    {
+      "slide": 177,
+      "text": "4.12 综合观点与空白：Nanopore sequencing of intact aminoacylated tRNAs."
+    },
+    {
+      "slide": 180,
+      "text": "4.13 综合观点与空白：tRNA modification dynamics from individual organisms to metaepitranscr…"
+    },
+    {
+      "slide": 182,
+      "text": "根据制造商的说明，用 Trizol (Sigma Aldrich) 从果蝇 BG3-c2、HEK293T 和人类 i PS 细胞中分离出 RNA。"
+    }
+  ],
+  "preview_pdf": "D:\\Project\\tRNA research\\output\\preview_zh_body_keep_names\\final_presentation_cn_deep_literature_zh_body_keep_names.pdf",
+  "contact_sheet": "D:\\Project\\tRNA research\\output\\preview_zh_body_keep_names\\contact_sheet.png",
+  "rendered_pages": 186,
+  "rule": "Journal names, protein names, gene names, and literature titles are preserved in English; explanatory body text is translated into Chinese."
+}

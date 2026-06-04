@@ -1,0 +1,392 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/kdzt0b",
+    "id": "kdzt0b",
+    "slide": 60,
+    "layoutId": "42581c0e-4943-42be-85a5-b7080690ea9f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "fc1e64e1-0fbe-4b79-9a49-529bfc6f038b",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Noto Sans SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "42581c0e-4943-42be-85a5-b7080690ea9f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "fc1e64e1-0fbe-4b79-9a49-529bfc6f038b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "fc1e64e1-0fbe-4b79-9a49-529bfc6f038b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7y1kre1w",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wjudg7ad",
+      "id": "2",
+      "bbox": [
+        38,
+        26,
+        1204,
+        38
+      ],
+      "geometry": "rect",
+      "text": "1. 技术路线建议",
+      "textPreview": "1. 技术路线建议",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Noto Sans SC",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 4,
+          "bottom": 2,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1. 技术路线建议"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1. 技术路线建议",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1. 技术路线建议",
+              "fontSize": 16,
+              "typeface": "Noto Sans SC",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4r65wju",
+      "id": "3",
+      "bbox": [
+        38,
+        68,
+        1204,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i5sneloj",
+      "id": "4",
+      "bbox": [
+        58,
+        92,
+        1160,
+        570
+      ],
+      "geometry": "rect",
+      "text": "1. 若目标是全长 tRNA 修饰指纹：优先考虑 Induro-tRNAseq + mim/TGIRT 双 RT 互证。\n2. 若目标是 m1A、m1G、m2,2G、m3C、I34、m1I、yW、acp3U、ms2i6A/ms2t6A：可用 RT signature 作为初筛。\n3. 若目标是 m5C、m2G、Ψ、D、m7G、T 等：不要单靠常规 Induro/mim 指纹，应加入 LC-MS/MS、化学处理测序、AlkB/engineered AlkB 处理或靶向验证。\n4. 若研究 sperm tsRNA：全长 tRNA-seq 与 small RNA-seq 要配套，否则难以判断 tsRNA 修饰来自哪条 tRNA 母体。\n5. 若研究早期胚胎：需要在合子、2-cell、8-cell、blastocyst 等阶段做时间序列，而不是只看成体组织。",
+      "textPreview": "1. 若目标是全长 tRNA 修饰指纹：优先考虑 Induro-tRNAseq + mim/TGIRT 双 RT 互证。 | 2. 若目标是 m1A、m1G、m2,2G、m3C、I34、m1I、yW、acp3U、ms2i6A/ms2t6A：可用 RT signature 作...",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "Noto Sans SC",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 4,
+          "bottom": 2,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1. 若目标是全长 tRNA 修饰指纹：优先考虑 Induro-tRNAseq + mim/TGIRT 双 RT 互证。"
+          },
+          {
+            "index": 2,
+            "text": "2. 若目标是 m1A、m1G、m2,2G、m3C、I34、m1I、yW、acp3U、ms2i6A/ms2t6A：可用 RT signature 作为初筛。"
+          },
+          {
+            "index": 3,
+            "text": "3. 若目标是 m5C、m2G、Ψ、D、m7G、T 等：不要单靠常规 Induro/mim 指纹，应加入 LC-MS/MS、化学处理测序、AlkB/engineered AlkB 处理或靶向验证。"
+          },
+          {
+            "index": 4,
+            "text": "4. 若研究 sperm tsRNA：全长 tRNA-seq 与 small RNA-seq 要配套，否则难以判断 tsRNA 修饰来自哪条 tRNA 母体。"
+          },
+          {
+            "index": 5,
+            "text": "5. 若研究早期胚胎：需要在合子、2-cell、8-cell、blastocyst 等阶段做时间序列，而不是只看成体组织。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1. 若目标是全长 tRNA 修饰指纹：优先考虑 Induro-tRNAseq + mim/TGIRT 双 RT 互证。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1. 若目标是全长 tRNA 修饰指纹：优先考虑 Induro-tRNAseq + mim/TGIRT 双 RT 互证。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "2. 若目标是 m1A、m1G、m2,2G、m3C、I34、m1I、yW、acp3U、ms2i6A/ms2t6A：可用 RT signature 作为初筛。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2. 若目标是 m1A、m1G、m2,2G、m3C、I34、m1I、yW、acp3U、ms2i6A/ms2t6A：可用 RT signature 作为初筛。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "3. 若目标是 m5C、m2G、Ψ、D、m7G、T 等：不要单靠常规 Induro/mim 指纹，应加入 LC-MS/MS、化学处理测序、AlkB/engineered AlkB 处理或靶向验证。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3. 若目标是 m5C、m2G、Ψ、D、m7G、T 等：不要单靠常规 Induro/mim 指纹，应加入 LC-MS/MS、化学处理测序、AlkB/engineered AlkB 处理或靶向验证。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "4. 若研究 sperm tsRNA：全长 tRNA-seq 与 small RNA-seq 要配套，否则难以判断 tsRNA 修饰来自哪条 tRNA 母体。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4. 若研究 sperm tsRNA：全长 tRNA-seq 与 small RNA-seq 要配套，否则难以判断 tsRNA 修饰来自哪条 tRNA 母体。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "5. 若研究早期胚胎：需要在合子、2-cell、8-cell、blastocyst 等阶段做时间序列，而不是只看成体组织。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "5. 若研究早期胚胎：需要在合子、2-cell、8-cell、blastocyst 等阶段做时间序列，而不是只看成体组织。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7qpg3ex0",
+      "id": "5",
+      "bbox": [
+        38,
+        690,
+        1180,
+        18
+      ],
+      "geometry": "rect",
+      "text": "mim-tRNAseq / Induro-tRNAseq | 60",
+      "textPreview": "mim-tRNAseq / Induro-tRNAseq | 60",
+      "resolvedFontSize": 8,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 8,
+        "typeface": "Noto Sans SC",
+        "color": "#333333",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "mim-tRNAseq / Induro-tRNAseq | 60"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "mim-tRNAseq / Induro-tRNAseq | 60",
+          "resolvedTextStyle": {
+            "fontSize": 8,
+            "typeface": "Noto Sans SC",
+            "color": "#333333",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "mim-tRNAseq / Induro-tRNAseq | 60",
+              "fontSize": 8,
+              "typeface": "Noto Sans SC",
+              "color": "#333333"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

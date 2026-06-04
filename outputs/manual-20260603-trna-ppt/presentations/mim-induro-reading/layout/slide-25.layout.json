@@ -1,0 +1,468 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/0nxct3",
+    "id": "0nxct3",
+    "slide": 25,
+    "layoutId": "42581c0e-4943-42be-85a5-b7080690ea9f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "fc1e64e1-0fbe-4b79-9a49-529bfc6f038b",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Noto Sans SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "42581c0e-4943-42be-85a5-b7080690ea9f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "fc1e64e1-0fbe-4b79-9a49-529bfc6f038b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "fc1e64e1-0fbe-4b79-9a49-529bfc6f038b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sneloj2t",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/32lszqtc",
+      "id": "2",
+      "bbox": [
+        38,
+        26,
+        1204,
+        38
+      ],
+      "geometry": "rect",
+      "text": "2. 研究逻辑",
+      "textPreview": "2. 研究逻辑",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Noto Sans SC",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 4,
+          "bottom": 2,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2. 研究逻辑"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2. 研究逻辑",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2. 研究逻辑",
+              "fontSize": 16,
+              "typeface": "Noto Sans SC",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ahoza1gv",
+      "id": "3",
+      "bbox": [
+        38,
+        68,
+        1204,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lkjm1cfa",
+      "id": "4",
+      "bbox": [
+        58,
+        92,
+        1160,
+        570
+      ],
+      "geometry": "rect",
+      "text": "论文的逻辑链如下：\n\n1. 先建立一个可多重化（multiplexing）的 Induro-tRNAseq 工作流。\n2. 验证该工作流能稳定测 tRNA 丰度、3' CCA 端完整性和 tRNA charging。\n3. 系统优化 Induro 反转录温度和时间，找出读穿条件。\n4. 在已知 RT-readable tRNA 修饰上建立 Induro 的 RT stop/misincorporation 图谱。\n5. 与 TGIRT/mim-tRNAseq 数据并行比较，判断二者在每类修饰上的相同与差异。\n6. 把方法应用到 5 种人类细胞系和 3 种小鼠组织，寻找 tRNA 修饰的组织/细胞型变化。\n7. 得出一个概念模型：ASL 中直接参与遗传密码读取的修饰更稳定，tRNA body 中参与结构适配的修饰更可变。",
+      "textPreview": "论文的逻辑链如下： |  | 1. 先建立一个可多重化（multiplexing）的 Induro-tRNAseq 工作流。 | 2. 验证该工作流能稳定测 tRNA 丰度、3' CCA 端完整性和 tRNA charging。 | 3. 系统优化 Induro 反转录温度...",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "Noto Sans SC",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 4,
+          "bottom": 2,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "论文的逻辑链如下："
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "1. 先建立一个可多重化（multiplexing）的 Induro-tRNAseq 工作流。"
+          },
+          {
+            "index": 4,
+            "text": "2. 验证该工作流能稳定测 tRNA 丰度、3' CCA 端完整性和 tRNA charging。"
+          },
+          {
+            "index": 5,
+            "text": "3. 系统优化 Induro 反转录温度和时间，找出读穿条件。"
+          },
+          {
+            "index": 6,
+            "text": "4. 在已知 RT-readable tRNA 修饰上建立 Induro 的 RT stop/misincorporation 图谱。"
+          },
+          {
+            "index": 7,
+            "text": "5. 与 TGIRT/mim-tRNAseq 数据并行比较，判断二者在每类修饰上的相同与差异。"
+          },
+          {
+            "index": 8,
+            "text": "6. 把方法应用到 5 种人类细胞系和 3 种小鼠组织，寻找 tRNA 修饰的组织/细胞型变化。"
+          },
+          {
+            "index": 9,
+            "text": "7. 得出一个概念模型：ASL 中直接参与遗传密码读取的修饰更稳定，tRNA body 中参与结构适配的修饰更可变。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "论文的逻辑链如下：",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "论文的逻辑链如下：",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "1. 先建立一个可多重化（multiplexing）的 Induro-tRNAseq 工作流。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1. 先建立一个可多重化（multiplexing）的 Induro-tRNAseq 工作流。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "2. 验证该工作流能稳定测 tRNA 丰度、3' CCA 端完整性和 tRNA charging。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2. 验证该工作流能稳定测 tRNA 丰度、3' CCA 端完整性和 tRNA charging。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "3. 系统优化 Induro 反转录温度和时间，找出读穿条件。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3. 系统优化 Induro 反转录温度和时间，找出读穿条件。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "4. 在已知 RT-readable tRNA 修饰上建立 Induro 的 RT stop/misincorporation 图谱。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4. 在已知 RT-readable tRNA 修饰上建立 Induro 的 RT stop/misincorporation 图谱。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "5. 与 TGIRT/mim-tRNAseq 数据并行比较，判断二者在每类修饰上的相同与差异。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "5. 与 TGIRT/mim-tRNAseq 数据并行比较，判断二者在每类修饰上的相同与差异。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "6. 把方法应用到 5 种人类细胞系和 3 种小鼠组织，寻找 tRNA 修饰的组织/细胞型变化。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "6. 把方法应用到 5 种人类细胞系和 3 种小鼠组织，寻找 tRNA 修饰的组织/细胞型变化。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "7. 得出一个概念模型：ASL 中直接参与遗传密码读取的修饰更稳定，tRNA body 中参与结构适配的修饰更可变。",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Noto Sans SC",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "7. 得出一个概念模型：ASL 中直接参与遗传密码读取的修饰更稳定，tRNA body 中参与结构适配的修饰更可变。",
+              "fontSize": 12,
+              "typeface": "Noto Sans SC",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/szqtcj6t",
+      "id": "5",
+      "bbox": [
+        38,
+        690,
+        1180,
+        18
+      ],
+      "geometry": "rect",
+      "text": "mim-tRNAseq / Induro-tRNAseq | 25",
+      "textPreview": "mim-tRNAseq / Induro-tRNAseq | 25",
+      "resolvedFontSize": 8,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 8,
+        "typeface": "Noto Sans SC",
+        "color": "#333333",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "mim-tRNAseq / Induro-tRNAseq | 25"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "mim-tRNAseq / Induro-tRNAseq | 25",
+          "resolvedTextStyle": {
+            "fontSize": 8,
+            "typeface": "Noto Sans SC",
+            "color": "#333333",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "mim-tRNAseq / Induro-tRNAseq | 25",
+              "fontSize": 8,
+              "typeface": "Noto Sans SC",
+              "color": "#333333"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
