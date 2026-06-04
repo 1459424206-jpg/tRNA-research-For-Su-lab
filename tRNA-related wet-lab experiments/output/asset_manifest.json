@@ -1,0 +1,34 @@
+{
+  "pptx": "D:\\Project\\tRNA research\\tRNA-related wet-lab experiments\\output\\final_presentation_cn.pptx",
+  "slides": 31,
+  "paper_slides": 22,
+  "assets_prepared": {
+    "nano_trnaseq": "D:\\Project\\tRNA research\\tRNA-related wet-lab experiments\\output\\assets\\figures\\PMC10791586_41587_2023_1743_Fig1_HTML.jpg",
+    "trmt6_hsc": "D:\\Project\\tRNA research\\tRNA-related wet-lab experiments\\output\\assets\\figures\\PMC11231335_41467_2024_50110_Fig3_HTML.jpg",
+    "dm_dms": "D:\\Project\\tRNA research\\tRNA-related wet-lab experiments\\output\\assets\\figures\\PMC12125218_41467_2025_59435_Fig1_HTML.jpg",
+    "aa_trnaseq": "D:\\Project\\tRNA research\\tRNA-related wet-lab experiments\\output\\assets\\figures\\PMC12368100_41467_2025_62545_Fig1_HTML.jpg",
+    "cas12a3": "D:\\Project\\tRNA research\\tRNA-related wet-lab experiments\\output\\assets\\figures\\PMC12851939_41586_2025_9852_Fig1_HTML.jpg",
+    "desulfuration": "D:\\Project\\tRNA research\\tRNA-related wet-lab experiments\\output\\assets\\figures\\PMC12976133_41467_2026_70126_Fig1_HTML.jpg",
+    "mim_trnaseq": "D:\\Project\\tRNA research\\tRNA-related wet-lab experiments\\output\\assets\\figures\\mim_tRNAseq_gr1.jpg",
+    "mettl1_model": "D:\\Project\\tRNA research\\tRNA-related wet-lab experiments\\output\\assets\\figures\\mettl1_model.jpg",
+    "oracle_mouse": "D:\\Project\\tRNA research\\tRNA-related wet-lab experiments\\output\\assets\\figures\\oracle_mouse_page2.png",
+    "uga_suppressor": "D:\\Project\\tRNA research\\tRNA-related wet-lab experiments\\output\\assets\\figures\\uga_suppressor_page3.png"
+  },
+  "screening": {
+    "main_added_pmids": [
+      "42062277",
+      "39402326",
+      "38989621",
+      "34797706",
+      "41042673",
+      "26721685",
+      "26721680",
+      "29628141",
+      "29983320"
+    ],
+    "background_only_pmids": [
+      "35032425",
+      "37173525"
+    ]
+  }
+}

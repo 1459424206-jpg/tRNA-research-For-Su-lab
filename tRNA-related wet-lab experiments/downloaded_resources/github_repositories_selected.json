@@ -1,0 +1,74 @@
+[
+  {
+    "name": "nedialkova-lab/mim-tRNAseq",
+    "description": "Modification-induced misincorporation tRNA sequencing",
+    "url": "https://github.com/nedialkova-lab/mim-tRNAseq",
+    "stars": 24,
+    "forks": 18,
+    "language": "Scheme",
+    "updated_at": "2026-04-29T07:30:44Z",
+    "pushed_at": "2026-04-29T07:30:39Z",
+    "license": "GPL-3.0",
+    "topics": ""
+  },
+  {
+    "name": "merenlab/tRNA-seq-tools",
+    "description": "",
+    "url": "https://github.com/merenlab/tRNA-seq-tools",
+    "stars": 11,
+    "forks": 5,
+    "language": "Python",
+    "updated_at": "2025-10-06T10:55:16Z",
+    "pushed_at": "2019-08-06T14:58:29Z",
+    "license": "GPL-3.0",
+    "topics": ""
+  },
+  {
+    "name": "rnabioco/tRNA004",
+    "description": "Nanopore direct tRNA sequencing method refinement and RNA modification benchmarking",
+    "url": "https://github.com/rnabioco/tRNA004",
+    "stars": 8,
+    "forks": 1,
+    "language": "Python",
+    "updated_at": "2025-12-02T13:46:48Z",
+    "pushed_at": "2024-07-30T15:33:54Z",
+    "license": "",
+    "topics": "directrna, nanopore, nanopore-sequencing, rna-modifications, rnaseq, trna, trnaseq"
+  },
+  {
+    "name": "rnabioinfor/TRAC-Seq",
+    "description": "Single-nucleotide resolution profiling of m7G tRNA modifications ",
+    "url": "https://github.com/rnabioinfor/TRAC-Seq",
+    "stars": 5,
+    "forks": 0,
+    "language": "HTML",
+    "updated_at": "2024-04-29T07:40:55Z",
+    "pushed_at": "2019-05-18T23:44:09Z",
+    "license": "",
+    "topics": ""
+  },
+  {
+    "name": "rnabioco/aa-tRNA-seq",
+    "description": "Public-facing repo for aa-tRNA-seq pre-print",
+    "url": "https://github.com/rnabioco/aa-tRNA-seq",
+    "stars": 2,
+    "forks": 0,
+    "language": "Python",
+    "updated_at": "2025-10-08T16:32:14Z",
+    "pushed_at": "2025-10-08T16:32:10Z",
+    "license": "",
+    "topics": ""
+  },
+  {
+    "name": "trypchromics/trnaExpCodAdapt",
+    "description": "tRNA Expression-Codon Adaptation",
+    "url": "https://github.com/trypchromics/trnaExpCodAdapt",
+    "stars": 0,
+    "forks": 0,
+    "language": "R",
+    "updated_at": "2025-08-11T16:40:47Z",
+    "pushed_at": "2025-08-11T16:40:43Z",
+    "license": "GPL-3.0",
+    "topics": ""
+  }
+]
